@@ -60,11 +60,11 @@ export default defineConfig({
   fonts: [
     {
       // Example: Japanese coverage (pick what you need for your audience)
-      name: "Noto Sans JP",
+      name: "IBM Plex Sans",
       cssVariable: "--font-google-sans-code",
       provider: fontProviders.google(),
       fallbacks: ["monospace"],
-      weights: [400, 700],
+      weights: [200, 700],
       styles: ["normal", "italic"],
       formats: ["woff", "ttf"],
     },

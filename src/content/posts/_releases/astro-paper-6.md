@@ -192,6 +192,14 @@ When both are set, `site.googleVerification` takes precedence.
 
 AstroPaper v6 retains its minimal, clean look while rebuilding the internals around Astro v6's new primitives. The config system is simpler, the codebase is easier to navigate, and the theme ships ready for i18n and subdirectory deployments out of the box.
 
+<p>New HTML TEXT inside Markdown</p>
+<details id="answer-11">
+  <summary>Show answers</summary>
+  <p>Hidden content revealed natively by the browser</p>
+  <ul><li>Task 1</li><li>Task 2</li><li>Task 3</li></ul>
+  <span>My content to be shown</span>
+</details>
+
 ## See also
 
 - [Predefined Color Schemes](/posts/predefined-color-schemes/)

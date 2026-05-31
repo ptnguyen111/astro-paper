@@ -52,11 +52,11 @@ export default defineConfig({
   },
   fonts: [
     {
-      name: "Google Sans Code",
+      name: "IBM Plex Sans",
       cssVariable: "--font-google-sans-code",
       provider: fontProviders.google(),
-      fallbacks: ["monospace"],
-      weights: [300, 400, 500, 600, 700],
+      fallbacks: ["serif"],
+      weights: [100, 200, 300, 400, 500, 600, 700],
       styles: ["normal", "italic"],
       formats: ["woff", "ttf"],
     },
