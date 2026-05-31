@@ -382,23 +382,6 @@ description: "Bài khảo sát số 5"
 *Giám thị không giải thích gì thêm*
 
 
-### LISTENING (8 points)
-
-**Complete the following paragraph with EXACTLY FOUR WORDS in each gap.**
-
-You will hear a man called Ben, from a young people's organization, telling a youth group about a course they can do on Saturdays.
-
-**SATURDAY COURSE**
-
-Ben is introducing an organization named "Nature" which runs (1) ____________ on the weekends.
-
-The organization usually takes youth groups (2) ____________ like a beach or a lake.
-
-If students participate in the course, they will have the chance to do various activities that (3) ____________ at home.
-
-During the course, students learn (4) ____________ of different materials.
-
-
 ### READING (16 points)
 
 **Read the following passage and answer the questions.**
@@ -424,9 +407,9 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 **A.** It's when you feel a little worried or upset. \
 **B.** It's when you feel happy and comfortable. \
 **C.** It's when you are very sad or angry.
-<details name="question-0">
+<details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>runs outdoor activities / Saturday courses</strong><br><em>Chấp nhận đáp án khác nếu đúng nội dung, đúng chính tả và ngữ pháp. Trừ 0.5đ mỗi lỗi (thiếu/sai/dư 1 từ, ngữ pháp).</em></i>
+    <i class="answer-key">Đáp án: <strong>A (It's when you feel a little worried or upset)</strong><br><em>—</em></i>
 </details>
 
 *(Write A, B, or C in the blank)* ___________
@@ -442,9 +425,9 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 **A.** red zone \
 **B.** yellow zone \
 **C.** green zone
-<details name="question-1">
+<details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>to a place away from home</strong><br><em>(tương tự)</em></i>
+    <i class="answer-key">Đáp án: <strong>C (green zone)</strong><br><em>—</em></i>
 </details>
 
 *(Write A, B, or C in the blank)* ___________
@@ -460,13 +443,13 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 **A.** how to build strong feelings and find your resilient zone. \
 **B.** how to avoid feeling sad or angry forever. \
 **C.** how to find fun places to play with your friends.
-<details name="question-2">
-    <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>involve hands-on experiences</strong><br><em>(tương tự)</em></i>
-</details>
 
 *(Write A, B, or C in the blank)* ___________
 
+<details name="question-6">
+    <summary><i>Show awnswer key</i></summary>    
+    <i class="answer-key">Đáp án: <strong>A (how to build strong feelings and find your resilient zone)</strong><br><em>—</em></i>
+</details>
 
 ---
 
@@ -474,11 +457,12 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 
 > Decide whether this statement is True or False:
 > According to the passage, it's not normal to have different feelings or move through different zones.
-> (Write True or False in the blank) ___________
 
-<details name="question-3">
+(Write True or False in the blank) ___________
+
+<details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>how to make things</strong><br><em>(tương tự)</em></i>
+    <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
 </details>
 
 
@@ -488,11 +472,12 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 
 > Decide whether this statement is True or False:
 > The passage suggests that you should avoid talking with adults like parents and teachers to find your resilient zone.
-> (Write True or False in the blank) ___________
 
-<details name="question-4">
+(Write True or False in the blank) ___________
+
+<details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>A (It's when you feel a little worried or upset)</strong><br><em>—</em></i>
+    <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
 </details>
 
 
@@ -502,11 +487,12 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 
 > Decide whether this statement is True or False:
 > The passage implies that people are born with the natural ability to go back to the "resilient zone."
-> (Write True or False in the blank) ___________
 
-<details name="question-5">
+(Write True or False in the blank) ___________
+
+<details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>C (green zone)</strong><br><em>—</em></i>
+    <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
 </details>
 
 
@@ -517,9 +503,9 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 > What THREE things can we do to find our resilient zone? Write NO MORE THAN fifteen words for your answer.
 > _______________________________________________________________________________
 
-<details name="question-6">
+<details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>A (how to build strong feelings and find your resilient zone)</strong><br><em>—</em></i>
+    <i class="answer-key"><em>Breathing/breath slowly, thinking/think of good things, (and) talking/talk to someone we trust</em><br><em>Chấp nhận viết ý hoặc thành câu. Cho 0.5đ mỗi ý đúng. Trừ 0.25đ/lỗi (chính tả, ngữ pháp, hình thức, dư từ).</em></i>
 </details>
 
 
@@ -530,9 +516,9 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 > Find TWO words in the passage that mean "to handle, manage negative feelings or solve problems."
 > (Write your answer in the blank) ___________
 
-<details name="question-7">
+<details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
+    <i class="answer-key">Đáp án: <strong>deal / handle</strong><br><em>Trừ 0.5đ/lỗi (chính tả, ngữ pháp, hình thức). Không cho điểm nếu ghi sai chính tả.</em></i>
 </details>
 
 
@@ -546,37 +532,47 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 Example: badminton / great / player / Anna / a / is //
 → Anna is a great badminton player.
 
-Rosie / finish / doesn't / homework / her / if / she / go / will / not / outside / this / weekend //
+### Question 9
 
-→ _______________________________________________________________________________
+> Rosie / finish / doesn't / homework / her / if / she / go / will / not / outside / this / weekend //
 
+→ _______________________
+
+<details name="question-12">
+    <summary><i>Show awnswer key</i></summary>    
+    <i class="answer-key">
+    This weekend, Rosie will not go outside if she doesn't finish her homework.
+    </i>
+</details>
+
+---
 
 **Task 2: Write complete sentences with the given cues. You must write NO MORE THAN fifteen words for each sentence.**
 
 Example: Tuan / be / tall / Anna //
 → Tuan is taller than Anna.
 
-### Question 9
+### Question 10
 
 > mom / think / sister / not / get / bad scores / test / tomorrow //
-> → _______________________________________________________________________________
+> → _______________________
 
-<details name="question-8">
+<details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
+    <i class="answer-key"><em>(My) Mom thinks my sister(s) will not / won't get bad score(s) in the test tomorrow.</em></i>
 </details>
 
 
 ---
 
-### Question 10
+### Question 11
 
 > beautiful / flowers / be / plant / park / volunteers / since / last week //
 > → _______________________________________________________________________________
 
-<details name="question-9">
+<details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
+    <i class="answer-key"><em>The beautiful flowers have been planted in the park by (the / some) volunteers since last week.</em></i>
 </details>
 
 
@@ -613,14 +609,15 @@ Số trận Minh phải thắng thêm: 30 − 25 = 5 (trận)</em></i>
 ### Question 2
 
 > Trước kỳ thi cuối kỳ, Amy dành 2 tuần để ôn lại các bài thi cũ. Cô ấy ghi lại thời gian ôn tập mỗi ngày (trừ cuối tuần) và vẽ thành biểu đồ cột bên dưới: các thanh màu trắng biểu thị thời gian học trong tuần đầu tiên và các thanh xám biểu thị thời gian học trong tuần thứ 2.
+
 > [Biểu đồ cột: Thời gian (phút) theo các ngày Thứ Hai → Thứ Sáu, thanh trắng = Tuần 1, thanh xám = Tuần 2]
-> Tuy nhiên, Amy quên vẽ thanh màu trắng cuối cùng vào thứ Sáu. Biết rằng trong tuần thứ hai, cô ấy chỉ cần 90% tổng thời gian trong tuần đầu tiên để ôn lại các bài thi cũ. Hỏi cô ấy đã dành bao nhiêu thời gian vào thứ Sáu của tuần đầu tiên để ôn tập? Trình bày lời giải, phép tính, đáp số.
-> Bài làm:
-> _______________________________________________________________________________
-> _______________________________________________________________________________
-> _______________________________________________________________________________
-> _______________________________________________________________________________
-> Trả lời: _____________ phút
+
+> Tuy nhiên, Amy quên vẽ thanh màu trắng cuối cùng vào thứ Sáu. Biết rằng trong tuần thứ hai, cô ấy chỉ cần 90% tổng thời gian trong tuần đầu tiên để ôn lại các bài thi cũ. Hỏi cô ấy đã dành bao nhiêu thời gian vào thứ Sáu của tuần đầu tiên để ôn tập? 
+
+Trình bày lời giải, phép tính, đáp số.
+Bài làm:
+________________________________________________________
+Trả lời: _____________ phút
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -654,14 +651,6 @@ a) Hỏi trong bể còn bao nhiêu nước sau 30 phút? **Trình bày lời gi
 
 **Bài làm:**
 
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
 **Trả lời:** _____________ lít
 
 <details name="question-2-a">
@@ -675,14 +664,6 @@ _______________________________________________________________________________
 b) Tính từ lúc đầu, hỏi cần bơm nước ra khỏi bể trong bao lâu để lượng nước còn lại chỉ bằng một nửa dung tích của bể? Viết đáp án dưới dạng đơn vị giờ và phút. **Trình bày lời giải, phép tính, đáp số.**
 
 **Bài làm:**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
 
 **Trả lời:** _____________
 
@@ -710,9 +691,13 @@ _______________________________________________________________________________
 > Đọc văn bản sau và trả lời câu hỏi:
 > ĐÀ LẠT TRONG MẮT TÔI (trích)
 > Đà Lạt được mệnh danh là "thành phố ngàn hoa". Tôi đã được đi nhiều thành phố, nhưng đây là lần đầu tiên tôi thấy một thành phố có những con phố hai bên trồng đầy hoa đủ loại: hồng, nhài, lan hồ điệp, cẩm tú cầu, hoa đồng tiền, hoa giấy... Môi trường và khí hậu ở Đà Lạt rất thích hợp trồng hoa trồng cỏ. Đà Lạt mang đến cho hoa cỏ một môi trường sinh trưởng tốt, và hoa cỏ không phụ lòng thành phố này. Chúng đã mang lại cho Đà Lạt những cảnh đẹp rực rỡ, làm cuộc sống thêm phần thơ mộng, mang lại chút bình yên và tĩnh lặng cho cuộc sống bận rộn của người hiện đại. [...]
+
 > Nếu ấn tượng đầu tiên là "ngàn hoa", thì ấn tượng sâu sắc nhất lại là ngàn con dốc lớn nhỏ đủ loại của Đà Lạt. Con đường dài 20 km với những đoạn dốc lên dốc xuống, mãi không biết phía bên kia con dốc sẽ có phong cảnh gì. Những cảnh đẹp ẩn giấu sau con dốc thật phong phú: có khi là một ngôi làng nhỏ, có khi là một quán cà phê xinh xắn, có khi là một ngôi nhà đơn độc, có khi là những nhà cổ kính với nhiều hoa cỏ, có khi là một ông lão ngồi uống trà trước hiên nhà, và có khi xuống một con dốc lại nối tiếp một con dốc khác...
+
 > Dù chúng tôi có đến hay không, hoa ở Đà Lạt vẫn nở rộ và rụng xuống, những con dốc vẫn ở đó. Hoa cỏ trang trí cho Đà Lạt, mang lại sức sống cho thành phố, còn những con dốc thì thêm phần quyến rũ theo năm tháng. Dù chúng tôi có mặt hay không, hoa cỏ, con dốc, Đà Lạt vẫn ở đó.
+
 > Chúng ta sống trên thế gian này cũng giống như vậy, chúng ta đến rồi đi, dòng thời gian vẫn trôi qua, trái đất vẫn xoay quay. Đi trên con đường một chiều, chúng ta như đang đi trên những con dốc ở Đà Lạt, không thể dự đoán phong cảnh phía trước sẽ ra sao. Có lẽ chúng ta cũng không cần phải quá bận tâm về những gì sẽ xảy ra ở phía trước. Hãy vừa đi vừa trân trọng, vừa đi vừa ngắm hoa cỏ, khi duyên phận đến, những phong cảnh đẹp sớm hay muộn chắc chắn sẽ đến với chúng ta hội ngộ.
+
 > (Theo Hà Tuyết Giảo, https://vanvn.vn/da-lat-trong-mat-toi-tuy-but-cua-ha-tuyet-giao/)
 
 
@@ -722,10 +707,6 @@ _______________________________________________________________________________
 a) Theo văn bản, hai điều ấn tượng nhất với tác giả khi đến Đà Lạt là gì? (2 điểm)
 
 **Trả lời:**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
 
 <details name="question-0-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -738,9 +719,6 @@ b) Những con dốc ở Đà Lạt có điểm gì đặc biệt? (2 điểm)
 
 **Trả lời:**
 
-_______________________________________________________________________________
-
-_______________________________________________________________________________
 
 <details name="question-1-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -753,10 +731,6 @@ c) Đà Lạt đã cho hoa cỏ điều gì, và hoa cỏ đã đáp trả Đà 
 
 **Trả lời:**
 
-_______________________________________________________________________________
-
-_______________________________________________________________________________
-
 <details name="question-2-c">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>Đà Lạt cho hoa cỏ môi trường sinh trưởng tốt. Hoa cỏ đáp trả: mang lại cảnh đẹp rực rỡ, cuộc sống thơ mộng, bình yên.</em><br><em>Mỗi ý 1đ. Lỗi chính tả: −0.25đ/lỗi. Thiếu CN/VN: −0.25đ/lỗi.</em></i>
@@ -767,10 +741,6 @@ _______________________________________________________________________________
 d) Theo em, tác giả đã khuyên chúng ta nên có thái độ như thế nào đối với những gì sẽ xảy ra ở phía trước? (2 điểm)
 
 **Trả lời:**
-
-_______________________________________________________________________________
-
-_______________________________________________________________________________
 
 ---
 
@@ -785,15 +755,21 @@ _______________________________________________________________________________
 
 > Thế giới chúng ta đang sống được bao quanh bởi rất nhiều khung cảnh khác nhau. Đó có thể là cảnh thiên nhiên núi rừng, biển cả, cũng có thể là khung cảnh phố thị, miền quê... Em hãy viết một đoạn văn (khoảng 8–10 câu) miêu tả một cảnh sắc mà em ấn tượng. (Gợi ý: nơi em đi du lịch, quê nhà, hay thậm chí khung cảnh nơi em sinh sống...). (7 điểm)
 
-Bài làm:
-_______________________________________________________________________________
+**Bài làm:**
+ 
 
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
-    <i class="answer-key"><em>*Đoạn văn tham khảo:*
-Một trong những khung cảnh tôi ấn tượng nhất chính là cảnh biển vào buổi sáng sớm. Lần đầu tiên tôi được tận mắt chiêm ngưỡng vẻ đẹp này khi đi du lịch cùng gia đình ở biển Nha Trang. Mới sáng sớm, biển hiện ra như một bức tranh tĩnh lặng với làn sóng nhẹ nhàng vỗ vào bờ cát. Mặt trời chưa ló dạng, nhưng ánh sáng đầu tiên của ngày đã phản chiếu trên mặt nước, khiến cả không gian như được phủ một lớp ánh vàng óng ả. Từ xa, có thể thấy biển thật mênh mông, rộng lớn, như một tấm gương phản chiếu bầu trời trong lành, mây trắng trôi lững lờ. Khi tiến lại gần, tôi thấy từng con sóng nhỏ đập vào bờ, tạo thành những bọt nước trắng xóa, rồi nhanh chóng tan vào cát. Bãi biển rộng lớn và sạch sẽ, những con sò, vỏ ốc lấp lánh dưới ánh sáng. Dọc bờ biển, vài chiếc thuyền đánh cá của ngư dân đang trở về sau một đêm dài ra khơi. Không khí trong lành, mát mẻ và thơm ngát mùi biển cả khiến tôi cảm thấy thật thư giãn và dễ chịu. Biển thay đổi theo từng khoảnh khắc trong ngày. Buổi sáng, biển yên bình, dịu dàng, như đang chào đón một ngày mới đầy hy vọng. Đến trưa, biển khoác lên mình một tấm áo xanh biếc có hàng triệu hạt nắng lấp lánh chiếu rọi. Khi hoàng hôn buông xuống, biển lại trở nên trầm lắng, sóng vỗ nhẹ nhàng, khiến tôi cảm thấy thật bình yên. Biển không chỉ lộng lẫy mà còn mang lại cho tôi cảm giác thoải mái, giúp tôi tạm gác lại những lo âu của cuộc sống. Đó là một khung cảnh mà tôi sẽ mãi nhớ, một kỷ niệm đáng quý trong đời tôi.</em></i>
+    <i class="answer-key"><em></em></i>
 </details>
 
+**Đoạn văn tham khảo:**
+
+> Một trong những khung cảnh tôi ấn tượng nhất chính là cảnh biển vào buổi sáng sớm. Lần đầu tiên tôi được tận mắt chiêm ngưỡng vẻ đẹp này khi đi du lịch cùng gia đình ở biển Nha Trang. Mới sáng sớm, biển hiện ra như một bức tranh tĩnh lặng với làn sóng nhẹ nhàng vỗ vào bờ cát. Mặt trời chưa ló dạng, nhưng ánh sáng đầu tiên của ngày đã phản chiếu trên mặt nước, khiến cả không gian như được phủ một lớp ánh vàng óng ả. Từ xa, có thể thấy biển thật mênh mông, rộng lớn, như một tấm gương phản chiếu bầu trời trong lành, mây trắng trôi lững lờ. Khi tiến lại gần, tôi thấy từng con sóng nhỏ đập vào bờ, tạo thành những bọt nước trắng xóa, rồi nhanh chóng tan vào cát. Bãi biển rộng lớn và sạch sẽ, những con sò, vỏ ốc lấp lánh dưới ánh sáng.
+
+>  Dọc bờ biển, vài chiếc thuyền đánh cá của ngư dân đang trở về sau một đêm dài ra khơi. Không khí trong lành, mát mẻ và thơm ngát mùi biển cả khiến tôi cảm thấy thật thư giãn và dễ chịu. Biển thay đổi theo từng khoảnh khắc trong ngày. Buổi sáng, biển yên bình, dịu dàng, như đang chào đón một ngày mới đầy hy vọng. Đến trưa, biển khoác lên mình một tấm áo xanh biếc có hàng triệu hạt nắng lấp lánh chiếu rọi. Khi hoàng hôn buông xuống, biển lại trở nên trầm lắng, sóng vỗ nhẹ nhàng, khiến tôi cảm thấy thật bình yên. 
+
+> Biển không chỉ lộng lẫy mà còn mang lại cho tôi cảm giác thoải mái, giúp tôi tạm gác lại những lo âu của cuộc sống. Đó là một khung cảnh mà tôi sẽ mãi nhớ, một kỷ niệm đáng quý trong đời tôi.
 
 ---
 
