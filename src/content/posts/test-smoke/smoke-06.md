@@ -3,13 +3,26 @@ title: "Test Smoke 06 - Full test 90 minutes"
 author: Bob
 pubDatetime: 2026-06-01T06:12:00.000+07:00
 slug: smoke-06
-featured: false
+featured: true
 draft: false
 tags:
   - test-smoke
   - smoke-06
 description: "Bài khảo sát số 6"
 ---
+
+
+<figure>
+  <img
+    src="https://images.pexels.com/photos/7092417/pexels-photo-7092417.jpeg?auto=compress&cs=tinysrgb&w=900"
+    alt="A teacher catching a student cheating during an exam in a classroom"
+  />
+  <figcaption class="text-center">
+    Photo by
+    <a href="https://www.pexels.com/photo/teacher-caught-his-student-cheating-during-an-exam-7092417/">Pexels</a>
+  </figcaption>
+</figure>
+
 
 ## Table of contents
 
@@ -366,6 +379,19 @@ description: "Bài khảo sát số 6"
 ## BÀI KHẢO SÁT SỐ 2 — PHẦN TIẾNG ANH
 
 *Thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)*
+
+
+<figure>
+  <img
+    src="https://images.pexels.com/photos/6684211/pexels-photo-6684211.jpeg?auto=compress&cs=tinysrgb&w=900"
+    alt="A student writing answers on a multiple-choice exam sheet at a desk while cheating"
+  />
+  <figcaption class="text-center">
+    Photo by
+    <a href="https://www.pexels.com/photo/a-person-writing-on-paper-while-cheating-6684211/">Andy Barbour</a>
+    on Pexels
+  </figcaption>
+</figure>
 
 <!-- PART 1: LISTENING — Skipped as per instruction -->
 

@@ -11,6 +11,19 @@ tags:
 description: "Bài khảo sát số 5"
 ---
 
+
+<figure>
+  <img
+    src="https://images.pexels.com/photos/19520596/pexels-photo-19520596.jpeg?auto=compress&cs=tinysrgb&w=900"
+    alt="A diligent schoolboy wearing traditional clothing focuses on writing an exam at his desk"
+  />
+  <figcaption class="text-center">
+    Photo by
+    <a href="https://www.pexels.com/photo/a-boy-taking-a-test-at-school-19520596/">Muhaimin Abdul Aziz</a>
+    on Pexels
+  </figcaption>
+</figure>
+
 ## Table of contents
 
 
@@ -381,6 +394,18 @@ description: "Bài khảo sát số 5"
 
 *Giám thị không giải thích gì thêm*
 
+
+<figure>
+  <img
+    src="https://images.pexels.com/photos/7092466/pexels-photo-7092466.jpeg?auto=compress&cs=tinysrgb&w=900"
+    alt="A student writing notes during an exam with suspicious behavior suggesting cheating"
+  />
+  <figcaption class="text-center">
+    Photo by
+    <a href="https://www.pexels.com/photo/student-cheating-during-an-exam-7092466/">RDNE Stock project</a>
+    on Pexels
+  </figcaption>
+</figure>
 
 ### READING (16 points)
 
