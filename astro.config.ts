@@ -4,7 +4,6 @@ import {
   fontProviders,
   svgoOptimizer,
 } from "astro/config";
-import { unified } from "@astrojs/markdown-remark";
 import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
@@ -36,14 +35,7 @@ export default defineConfig({
     },
   },
   markdown: {
-    ...unified({
-      remarkPlugins: [
-        remarkToc,
-        [remarkCollapse, { test: "Table of contents" }]
-      ]
-    }),
-  
-    // keep shikiConfig OUTSIDE unified()
+    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
     shikiConfig: {
       themes: { light: "min-light", dark: "night-owl" },
       defaultColor: false,
@@ -54,7 +46,7 @@ export default defineConfig({
         transformerNotationWordHighlight(),
         transformerNotationDiff({ matchAlgorithm: "v3" }),
       ],
-    }
+    },
   },
   vite: {
     plugins: [tailwindcss()],
