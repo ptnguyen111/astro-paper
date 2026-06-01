@@ -35,11 +35,15 @@ export default defineConfig({
       prefixDefaultLocale: false,
     },
   },
-  markdown: unified({
-    remarkPlugins: [
-      remarkToc,
-      [remarkCollapse, { test: "Table of contents" }],
-    ],
+  markdown: {
+    ...unified({
+      remarkPlugins: [
+        remarkToc,
+        [remarkCollapse, { test: "Table of contents" }]
+      ]
+    }),
+  
+    // keep shikiConfig OUTSIDE unified()
     shikiConfig: {
       themes: { light: "min-light", dark: "night-owl" },
       defaultColor: false,
@@ -50,8 +54,8 @@ export default defineConfig({
         transformerNotationWordHighlight(),
         transformerNotationDiff({ matchAlgorithm: "v3" }),
       ],
-    },
-  }),
+    }
+  },
   vite: {
     plugins: [tailwindcss()],
   },
