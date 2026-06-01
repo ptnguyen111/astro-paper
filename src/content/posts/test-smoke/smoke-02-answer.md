@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-02
-  - quiz-result
+  - test-result
 description: "Smoke 02: 13/20 (65%) — Science & English perfect (9/9), History & Maths weak (2/8)"
 ---
 

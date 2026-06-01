@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - mc-10
-  - quiz-result
+  - test-result
 description: "MC 10: 13/20 (65%) — Văn hóa 3/3, Math/Logic 5/6, Science 2/6"
 ---
 

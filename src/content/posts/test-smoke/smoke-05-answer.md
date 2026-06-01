@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-05
-  - quiz-result
+  - test-result
 description: "Smoke 05: 13/20 (65%) — English strong (3/3), Science & Maths need review (50%)"
 ---
 

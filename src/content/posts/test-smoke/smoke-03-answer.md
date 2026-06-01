@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-03
-  - quiz-result
+  - test-result
 description: "Smoke 03: 14/20 (70%) — English 3/3, Science 5/6, History 3/4, Maths 1/4"
 ---
 
