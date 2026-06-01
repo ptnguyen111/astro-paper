@@ -11,7 +11,9 @@
 }
 
 /* Light theme values */
-:root,
+:root {
+  font-size: 18px;
+}
 /*[data-theme="light"] {
   --background: #fdfdfd;
   --foreground: #282728;
@@ -21,7 +23,7 @@
   --muted-foreground: #6b7280;
   --border: #ece9e9;
 }*/
-
+:root,
 [data-theme="light"] {
   --background: #f6fcf7;
   --foreground: #060b07;
