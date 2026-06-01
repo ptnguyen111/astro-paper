@@ -24,14 +24,14 @@ export default defineAstroPaperConfig({
     showBackButton: true,
     editPost: {
       enabled: true,
-      url: "https://github.com/satnaing/astro-paper/edit/main/",
+      url: "https://github.com/",
     },
     search: "pagefind",
   },
   socials: [
-    { name: "github",   url: "https://github.com/ptnguyen111" },
-    { name: "x",        url: "https://x.com/ptnguyen111" },
-    { name: "linkedin", url: "https://www.linkedin.com/in/nguyen-pham-vietnam/" }
+    { name: "github",   url: "https://github.com/" },
+    { name: "x",        url: "https://x.com/" },
+    { name: "linkedin", url: "https://www.linkedin.com/" }
   ],
   shareLinks: [    
     { name: "x",        url: "https://x.com/intent/post?url=" },    
