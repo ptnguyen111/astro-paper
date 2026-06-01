@@ -4,6 +4,7 @@ import {
   fontProviders,
   svgoOptimizer,
 } from "astro/config";
+import { unified } from "@astrojs/markdown-remark";
 import tailwindcss from "@tailwindcss/vite";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
@@ -16,6 +17,7 @@ import {
 } from "@shikijs/transformers";
 import { transformerFileName } from "./src/utils/transformers/fileName";
 import config from "./astro-paper.config";
+
 
 export default defineConfig({
   site: config.site.url,
@@ -34,7 +36,14 @@ export default defineConfig({
     },
   },
   markdown: {
-    remarkPlugins: [remarkToc, [remarkCollapse, { test: "Table of contents" }]],
+    ...unified({
+      remarkPlugins: [
+        remarkToc,
+        [remarkCollapse, { test: "Table of contents" }]
+      ]
+    }),
+  
+    // keep shikiConfig OUTSIDE unified()
     shikiConfig: {
       themes: { light: "min-light", dark: "night-owl" },
       defaultColor: false,
@@ -45,7 +54,7 @@ export default defineConfig({
         transformerNotationWordHighlight(),
         transformerNotationDiff({ matchAlgorithm: "v3" }),
       ],
-    },
+    }
   },
   vite: {
     plugins: [tailwindcss()],
@@ -55,7 +64,7 @@ export default defineConfig({
       name: "IBM Plex Sans",
       cssVariable: "--font-google-sans-code",
       provider: fontProviders.google(),
-      fallbacks: ["serif"],
+      fallbacks: ["sans-serif"],
       weights: [100, 200, 300, 400, 500, 600, 700],
       styles: ["normal", "italic"],
       formats: ["woff", "ttf"],
