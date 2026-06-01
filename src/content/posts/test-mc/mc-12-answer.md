@@ -11,18 +11,6 @@ tags:
 description: "MC 12: 10/20 (50%) — Văn hóa 3/3, Science 4/6, Math 2/7, History 1/4"
 ---
 
-<figure>
-  <img
-    src="https://images.pexels.com/photos/159751/book-cover-book-cover-design-book-design-cover-design-159751.jpeg?auto=compress&cs=tinysrgb&w=900"
-    alt="Stack of books and a cup of coffee on a classroom desk"
-  />
-  <figcaption class="text-center">
-    Photo by <a href="https://www.pexels.com/photo/brown-wooden-table-with-books-and-coffee-cup-159751/">Pixabay</a> on Pexels
-  </figcaption>
-</figure>
-
----
-
 ## Table of Contents
 
 - [📊 Kết Quả Tổng Quan](#%f0%9f%93%8a-k%e1%ba%bft-qu%e1%ba%a3-t%e1%bb%95ng-quan)
