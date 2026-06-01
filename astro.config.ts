@@ -59,7 +59,7 @@ export default defineConfig({
       name: "IBM Plex Sans",
       cssVariable: "--font-google-sans-code",
       provider: fontProviders.google(),
-      fallbacks: ["serif"],
+      fallbacks: ["sans-serif"],
       weights: [100, 200, 300, 400, 500, 600, 700],
       styles: ["normal", "italic"],
       formats: ["woff", "ttf"],
