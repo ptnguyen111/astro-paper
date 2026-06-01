@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-01
-  - quiz-result
+  - test-result
 description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán chỉ 1/3 bài"
 ---
 

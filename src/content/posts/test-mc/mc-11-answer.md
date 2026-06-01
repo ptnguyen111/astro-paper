@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - mc-11
-  - quiz-result
+  - test-result
 description: "MC 11: 11/20 (55%) — Văn hóa 3/3, Science 4/6, Math & Logic 2/5, History 3/6"
 ---
 

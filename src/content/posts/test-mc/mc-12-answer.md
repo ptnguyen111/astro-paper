@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - mc-12
-  - quiz-result
+  - test-result
 description: "MC 12: 10/20 (50%) — Văn hóa 3/3, Science 4/6, Math 2/7, History 1/4"
 ---
 
