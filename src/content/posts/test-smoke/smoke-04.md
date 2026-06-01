@@ -11,6 +11,19 @@ tags:
 description: "Bài khảo sát số 4"
 ---
 
+
+<figure>
+  <img
+    src="https://images.pexels.com/photos/5303515/pexels-photo-5303515.jpeg?auto=compress&cs=tinysrgb&w=900"
+    alt="A focused young boy engages in distance learning with a tablet, books, and notebooks on a desk"
+  />
+  <figcaption class="text-center">
+    Photo by
+    <a href="https://www.pexels.com/photo/a-kid-studying-online-5303515/">Tima Miroshnichenko</a>
+    on Pexels
+  </figcaption>
+</figure>
+
 ## Table of contents
 
 
@@ -375,6 +388,19 @@ description: "Bài khảo sát số 4"
 | | | | |
 
 *Giám thị không giải thích gì thêm*
+
+
+<figure>
+  <img
+    src="https://images.pexels.com/photos/6683393/pexels-photo-6683393.jpeg?auto=compress&cs=tinysrgb&w=900"
+    alt="Close-up of exam papers and a pencil on a classroom desk, ready for a test"
+  />
+  <figcaption class="text-center">
+    Photo by
+    <a href="https://www.pexels.com/photo/test-paper-and-pencil-on-a-desk-6683393/">Andy Barbour</a>
+    on Pexels
+  </figcaption>
+</figure>
 
 ### PART 2: READING (16 points)
 
