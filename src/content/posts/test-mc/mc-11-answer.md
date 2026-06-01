@@ -1,7 +1,7 @@
 ---
 title: "Test MC 11 - Total Score 55/100"
 author: Bob
-pubDatetime: 2026-06-02T01:10:00.000+07:00
+pubDatetime: 2026-06-02T00:10:00.000+07:00
 slug: mc-11-answer
 featured: false
 draft: false
