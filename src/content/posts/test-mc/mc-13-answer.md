@@ -29,14 +29,15 @@ description: "MC 13: 13/20 (65%) — Math strong (6/7), Science & Social Studies
 
 **🏆 Overall: 13/20 (65%)**
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 Science (Q1–6) | 3/6 | **50%** ❌ | Cần ôn lại về dòng hải lưu, miễn dịch học và chu kỳ Mặt Trăng |
-| 🌍 Social Studies (Q7–10) | 2/4 | **50%** ❌ | Yếu nhất — cần củng cố về lịch sử và địa lý Việt Nam |
-| 🔢 Math (Q11–17) | 6/7 | **86%** ✅ | Khá tốt, nhưng sai ở hình học không gian |
-| 🇻🇳 Literature (Q18–20) | 2/3 | **67%** ✅ | Cơ bản tốt, còn yếu văn hoá dân gian |
+| Môn                       | Đúng |   Tỉ lệ    | Nhận xét                                                      |
+| :------------------------ | :--: | :--------: | :------------------------------------------------------------ |
+| 🔬 Science (Q1–6)         | 3/6  | **50%** ❌ | Cần ôn lại về dòng hải lưu, miễn dịch học và chu kỳ Mặt Trăng |
+| 🌍 Social Studies (Q7–10) | 2/4  | **50%** ❌ | Yếu nhất — cần củng cố về lịch sử và địa lý Việt Nam          |
+| 🔢 Math (Q11–17)          | 6/7  | **86%** ✅ | Khá tốt, nhưng sai ở hình học không gian                      |
+| 🇻🇳 Literature (Q18–20)    | 2/3  | **67%** ✅ | Cơ bản tốt, còn yếu văn hoá dân gian                          |
 
 ### 📈 Phân tích
+
 > **Điểm 1️⃣: Toán học là điểm sáng** 🎉 — Long đạt 6/7 (86%), làm đúng tất cả các dạng: xác suất, múi giờ, nồng độ dung dịch, công việc chung, tìm số và dãy Fibonacci. Chỉ sai câu 11 (tính diện tích hình tổng hợp lăng trụ + bán trụ). Cần tập trung ôn công thức diện tích các hình không gian phức tạp.
 
 > **Điểm 2️⃣: Văn học tạm ổn** ✅ — Đạt 2/3 (67%), hiểu tốt các tác phẩm văn học Việt Nam. Tuy nhiên còn sai câu 20 (Táo Quân — phong tục Tết). Cần đọc thêm về tín ngưỡng dân gian Việt Nam.
@@ -49,28 +50,28 @@ description: "MC 13: 13/20 (65%) — Math strong (6/7), Science & Social Studies
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:----|:-----------:|:-----------:|:-------:|
-| 1 | Science | B | B | ✅ |
-| 2 | Science | D | B | ❌ |
-| 3 | Science | A | A | ✅ |
-| 4 | Science | A | B | ❌ |
-| 5 | Science | A | B | ❌ |
-| 6 | Science | A | A | ✅ |
-| 7 | Social Studies | D | A | ❌ |
-| 8 | Social Studies | B | C | ❌ |
-| 9 | Social Studies | C | C | ✅ |
-| 10 | Social Studies | B | B | ✅ |
-| 11 | Math | C | A | ❌ |
-| 12 | Math | A | A | ✅ |
-| 13 | Math | A | A | ✅ |
-| 14 | Math | A | A | ✅ |
-| 15 | Math | A | A | ✅ |
-| 16 | Math | A | A | ✅ |
-| 17 | Math | A | A | ✅ |
-| 18 | Literature | B | B | ✅ |
-| 19 | Literature | B | B | ✅ |
-| 20 | Literature | A | D | ❌ |
+| Câu | Môn            | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :------------- | :---------: | :---------: | :-----: |
+|  1  | Science        |      B      |      B      |   ✅    |
+|  2  | Science        |      D      |      B      |   ❌    |
+|  3  | Science        |      A      |      A      |   ✅    |
+|  4  | Science        |      A      |      B      |   ❌    |
+|  5  | Science        |      A      |      B      |   ❌    |
+|  6  | Science        |      A      |      A      |   ✅    |
+|  7  | Social Studies |      D      |      A      |   ❌    |
+|  8  | Social Studies |      B      |      C      |   ❌    |
+|  9  | Social Studies |      C      |      C      |   ✅    |
+| 10  | Social Studies |      B      |      B      |   ✅    |
+| 11  | Math           |      C      |      A      |   ❌    |
+| 12  | Math           |      A      |      A      |   ✅    |
+| 13  | Math           |      A      |      A      |   ✅    |
+| 14  | Math           |      A      |      A      |   ✅    |
+| 15  | Math           |      A      |      A      |   ✅    |
+| 16  | Math           |      A      |      A      |   ✅    |
+| 17  | Math           |      A      |      A      |   ✅    |
+| 18  | Literature     |      B      |      B      |   ✅    |
+| 19  | Literature     |      B      |      B      |   ✅    |
+| 20  | Literature     |      A      |      D      |   ❌    |
 
 ---
 
