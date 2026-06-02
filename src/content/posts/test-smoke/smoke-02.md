@@ -26,8 +26,8 @@ description: "Bài khảo sát số 2"
 
 ## BÀI KHẢO SÁT SỐ 1
 
-**Họ và tên:** ****\*\*****\_\_\_\_****\*\***** **Lớp:** **\_\_\_\_**\
-**Ngày thi:** ****\*\*****\_\_\_\_****\*\***** **SBD:** **\_\_\_\_**
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**\
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
 _Thời gian làm bài: 30 phút (không kể thời gian phát đề)_\
 _THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI_
@@ -361,8 +361,8 @@ _THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI_
 
 ## BÀI KHẢO SÁT SỐ 2 — PHẦN TIẾNG ANH
 
-**Họ và tên:** ****\*\*****\_\_\_\_****\*\***** **Lớp:** **\_\_\_\_**
-**Ngày thi:** ****\*\*****\_\_\_\_****\*\***** **SBD:** **\_\_\_\_**
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
 _Tổng thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)_
 
@@ -518,7 +518,7 @@ Example: `teacher / Mr. Harry / nice / a / is / English //`
 ### Question 1
 
 `ago / three years / Sarah / doll / cute / a / bought //`
-→ ****************\*\*****************\_\_\_\_****************\*\*****************
+→ ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -535,7 +535,7 @@ Example: `Tuan / be / tallest / student / class //`
 ### Question 2
 
 > `learning / English / not be / difficult / than / learning / French //`
-> → ****************\*\*****************\_\_\_\_****************\*\*****************
+> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -546,7 +546,7 @@ Example: `Tuan / be / tallest / student / class //`
 
 ### Question 3
 
-> `Rosie / be speak / English / fluent / and / clear / now //` → ****************\*\*****************\_\_\_\_****************\*\*****************
+> `Rosie / be speak / English / fluent / and / clear / now //` → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
