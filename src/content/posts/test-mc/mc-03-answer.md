@@ -27,12 +27,12 @@ description: "MC 03: 10/20 (50%) — Vietnamese Culture strong (3/3), Science we
 
 **🏆 Overall: 10/20 (50%)**
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 Science (Q1–6) | 2/6 | **33%** ❌ | Yếu — spinal cord, coral bleaching, solar PV, composting |
-| 🌍 Social Studies (Q7–10) | 3/4 | **75%** ✅ | Ổn — nhầm Machu Picchu (Inca vs Maya) |
-| 🔢 Math & Logic (Q11–17) | 3/7 | **43%** ❌ | Cần luyện speed-distance, LCM, percentage |
-| 🇻🇳 Văn hóa & Văn học (Q18–20) | 3/3 | **100%** 🎉 | Hoàn hảo! |
+| Môn                           | Đúng |    Tỉ lệ    | Nhận xét                                                 |
+| :---------------------------- | :--: | :---------: | :------------------------------------------------------- |
+| 🔬 Science (Q1–6)             | 2/6  | **33%** ❌  | Yếu — spinal cord, coral bleaching, solar PV, composting |
+| 🌍 Social Studies (Q7–10)     | 3/4  | **75%** ✅  | Ổn — nhầm Machu Picchu (Inca vs Maya)                    |
+| 🔢 Math & Logic (Q11–17)      | 3/7  | **43%** ❌  | Cần luyện speed-distance, LCM, percentage                |
+| 🇻🇳 Văn hóa & Văn học (Q18–20) | 3/3  | **100%** 🎉 | Hoàn hảo!                                                |
 
 ### 📈 Phân tích
 
@@ -52,28 +52,28 @@ description: "MC 03: 10/20 (50%) — Vietnamese Culture strong (3/3), Science we
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:---|:-----------:|:-----------:|:-------:|
-| 1 | Science | D | B | ❌ |
-| 2 | Science | B | C | ❌ |
-| 3 | Science | B | A | ❌ |
-| 4 | Science | C | C | ✅ |
-| 5 | Science | B | A | ❌ |
-| 6 | Science | B | B | ✅ |
-| 7 | Social | C | C | ✅ |
-| 8 | Social | B | C | ❌ |
-| 9 | Social | B | B | ✅ |
-| 10 | Social | B | B | ✅ |
-| 11 | Math | C | C | ✅ |
-| 12 | Math | B | A | ❌ |
-| 13 | Math | D | C | ❌ |
-| 14 | Math | C | B | ❌ |
-| 15 | Math | B | B | ✅ |
-| 16 | Văn hóa | A | B | ❌ |
-| 17 | Math | A | A | ✅ |
-| 18 | Văn học | C | C | ✅ |
-| 19 | Văn học | C | C | ✅ |
-| 20 | Văn học | B | B | ✅ |
+| Câu | Môn     | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :------ | :---------: | :---------: | :-----: |
+|  1  | Science |      D      |      B      |   ❌    |
+|  2  | Science |      B      |      C      |   ❌    |
+|  3  | Science |      B      |      A      |   ❌    |
+|  4  | Science |      C      |      C      |   ✅    |
+|  5  | Science |      B      |      A      |   ❌    |
+|  6  | Science |      B      |      B      |   ✅    |
+|  7  | Social  |      C      |      C      |   ✅    |
+|  8  | Social  |      B      |      C      |   ❌    |
+|  9  | Social  |      B      |      B      |   ✅    |
+| 10  | Social  |      B      |      B      |   ✅    |
+| 11  | Math    |      C      |      C      |   ✅    |
+| 12  | Math    |      B      |      A      |   ❌    |
+| 13  | Math    |      D      |      C      |   ❌    |
+| 14  | Math    |      C      |      B      |   ❌    |
+| 15  | Math    |      B      |      B      |   ✅    |
+| 16  | Văn hóa |      A      |      B      |   ❌    |
+| 17  | Math    |      A      |      A      |   ✅    |
+| 18  | Văn học |      C      |      C      |   ✅    |
+| 19  | Văn học |      C      |      C      |   ✅    |
+| 20  | Văn học |      B      |      B      |   ✅    |
 
 ---
 

@@ -11,7 +11,6 @@ tags:
 description: "Bài khảo sát số 5"
 ---
 
-
 <figure>
   <img
     src="https://images.pexels.com/photos/19520596/pexels-photo-19520596.jpeg?auto=compress&cs=tinysrgb&w=900"
@@ -26,14 +25,11 @@ description: "Bài khảo sát số 5"
 
 ## Table of contents
 
-
 ## BÀI KHẢO SÁT SỐ 1
-
 
 **Thời gian làm bài: 30 phút (không kể thời gian phát đề)**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính)*
-
+_(Thí sinh KHÔNG được phép sử dụng máy tính)_
 
 ### Question 1
 
@@ -43,11 +39,11 @@ description: "Bài khảo sát số 5"
 **B.** Chicken, fish, eggs, beans \
 **C.** Brown rice, bread, pasta \
 **D.** Vegetables, fruits, whole grains
+
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Protein chủ yếu có trong thịt, cá, trứng, đậu. (Butter/cheese/avocado = chất béo; rice/bread/pasta = tinh bột; veg/fruits = chất xơ).</em></i>
 </details>
-
 
 ---
 
@@ -59,11 +55,11 @@ description: "Bài khảo sát số 5"
 **B.** Because sound cannot travel through the astronauts' special suits. \
 **C.** Because the sound traveled in a different direction and did not reach them. \
 **D.** Because space is a vacuum, and sound cannot travel.
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Âm thanh không thể truyền trong chân không vì không có hạt vật chất dao động.</em></i>
 </details>
-
 
 ---
 
@@ -75,16 +71,15 @@ description: "Bài khảo sát số 5"
 **B.** [Image: diagram B] \
 **C.** [Image: diagram C] \
 **D.** [Image: diagram D]
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Nóng chảy (ice melting) là biến đổi vật lý (thay đổi trạng thái), KHÔNG phải hóa học. Các trường hợp còn lại (đinh gỉ, trái cây thối, đốt than) đều có chất mới hình thành.</em></i>
 </details>
 
-
 ---
 
-*(Hình vẽ các thí nghiệm hóa học — vui lòng xem hình trong đề gốc)*
-
+_(Hình vẽ các thí nghiệm hóa học — vui lòng xem hình trong đề gốc)_
 
 ### Question 4
 
@@ -93,19 +88,20 @@ description: "Bài khảo sát số 5"
 > Arun measures 10ml of hydrochloric acid in a test tube. He measures the temperature and then places a large piece of metal Y into the acid. He also sees bubbles given off. When the reaction finishes, he measures the temperature again.
 > [Diagram: Zara's experiment with metal X and Arun's experiment with metal Y]
 > Here are the results:
+>
 > - In the reaction with metal X, Zara finds the temperature increases by 2°C.
 > - In the reaction with metal Y, Arun finds the temperature increases by 6°C.
-> What conclusion can you draw from these results? Why?
+>   What conclusion can you draw from these results? Why?
 
 **A.** Metal X can make the temperature increase more. \
 **B.** Metal Y can make the temperature increase more. \
 **C.** Cannot make any conclusion because of the difference in the amount of metal. \
 **D.** Cannot make any conclusion because both of them made the temperature increase.
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Không thể kết luận vì lượng kim loại khác nhau (1 miếng nhỏ vs 1 miếng lớn) → không phải fair test.</em></i>
 </details>
-
 
 ---
 
@@ -117,11 +113,11 @@ description: "Bài khảo sát số 5"
 **B.** Squirrel \
 **C.** Eagle \
 **D.** Snake
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Nấm là sinh vật phân giải, thường đứng cuối chuỗi thức ăn (SX → TT → PG).</em></i>
 </details>
-
 
 ---
 
@@ -133,14 +129,13 @@ description: "Bài khảo sát số 5"
 **B.** Wine \
 **C.** Yogurt \
 **D.** Fish sauce
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Rượu (Wine) dùng nấm men (fungi) để chuyển đường → cồn. Sữa chua = vi khuẩn; Dưa cải = vi khuẩn; Nước mắm = vi khuẩn.</em></i>
 </details>
 
-
 ---
-
 
 ### Question 7
 
@@ -151,11 +146,11 @@ description: "Bài khảo sát số 5"
 **B.** Thanh Ba, Thị xã Phú Thọ, Lâm Thao \
 **C.** Việt Trì, Lâm Thao, Phù Ninh \
 **D.** Cẩm Khê, Tam Nông, Lâm Thao
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Đền Hùng nằm ở Việt Trì + Lâm Thao + Phù Ninh tỉnh Phú Thọ. Đáp án C là nhóm đúng, câu hỏi yêu cầu chọn nhóm KHÔNG thuộc Phú Thọ. (Xem lại câu hỏi: Which is NOT in Phú Thọ).</em></i>
 </details>
-
 
 ---
 
@@ -167,14 +162,13 @@ description: "Bài khảo sát số 5"
 **B.** Vietnam has many rivers that provide water and alluvium (phù sa). \
 **C.** Vietnam's climate is the same in both the North and the South. \
 **D.** Vietnam's soil is mainly alluvial and feralit soil.
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Khí hậu Việt Nam có sự khác nhau giữa miền Bắc và miền Nam. Đáp án "climate is the same" là SAI.</em></i>
 </details>
 
-
 ---
-
 
 ### Question 9
 
@@ -185,11 +179,11 @@ description: "Bài khảo sát số 5"
 **B.** Hồ Chí Minh Campaign \
 **C.** August Revolution \
 **D.** Tây Bắc Campaign
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Hình ảnh xe tăng vào Dinh Độc Lập 30/4/1975 là kết quả Chiến dịch Hồ Chí Minh.</em></i>
 </details>
-
 
 ---
 
@@ -201,14 +195,13 @@ description: "Bài khảo sát số 5"
 **B.** Ngọc Hồi \
 **C.** Bạch Đằng \
 **D.** Như Nguyệt
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Chiến thuật "Vây thành, diệt viện" được nghĩa quân Lam Sơn sử dụng trong trận Chi Lăng.</em></i>
 </details>
 
-
 ---
-
 
 ### Question 11
 
@@ -218,11 +211,11 @@ description: "Bài khảo sát số 5"
 **B.** 60 carrots \
 **C.** 30 carrots \
 **D.** 40 carrots
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Số ngày ăn bắp cải: 6 ÷ 2 = 3 ngày. Số ngày ăn cà rốt: 7 − 3 = 4 ngày. Số cà rốt: 4 × 10 = 40.</em></i>
 </details>
-
 
 ---
 
@@ -234,11 +227,11 @@ description: "Bài khảo sát số 5"
 **B.** 21 minutes \
 **C.** 30 minutes \
 **D.** 26.25 minutes
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Cưa 5 phần = 4 nhát cắt. Mỗi nhát: 15 ÷ 4 = 3.75 phút. Cưa 8 phần = 7 nhát: 3.75 × 7 = 26.25 phút.</em></i>
 </details>
-
 
 ---
 
@@ -250,14 +243,13 @@ description: "Bài khảo sát số 5"
 **B.** 11:15 am \
 **C.** 11:20 am \
 **D.** 11:30 am
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Kha nghĩ 11:00, đồng hồ Kha chạy chậm 10p, Kha nghĩ nhanh 5p. Giờ thật = 11:15. Đồng hồ Thịnh chạy nhanh 5p, Thịnh nghĩ chậm 10p → Thịnh nghĩ 11:30.</em></i>
 </details>
 
-
 ---
-
 
 ### Question 14
 
@@ -268,14 +260,13 @@ description: "Bài khảo sát số 5"
 **B.** North \
 **C.** South \
 **D.** West
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Bản đồ đảo: từ đảo đen ở trung tâm, cần đi về hướng East để hoàn thành đường đi.</em></i>
 </details>
 
-
 ---
-
 
 ### Question 15
 
@@ -286,49 +277,47 @@ description: "Bài khảo sát số 5"
 **B.** The third time you visit, you get a free pizza. \
 **C.** Pedro's Pizza closes at weekends. \
 **D.** Three pizzas cost the same as two.
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Mua 2 tặng 1 → giá 3 cái bằng 2 cái. A sai (mua 3 mới được free). B sai (không phải lần thứ 3 ghé). C sai (không nói đến đóng cửa).</em></i>
 </details>
 
-
 ---
-
 
 ### Question 16
 
 > Choose the best answer to fill in the blank.
-> Someone ______ guitar loudly in the building at the moment. It's so annoying!
+> Someone **\_\_** guitar loudly in the building at the moment. It's so annoying!
 
 **A.** Someone aren't playing \
 **B.** Someone are playing \
 **C.** Someone isn't playing \
 **D.** Someone is playing
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>"Someone" là số ít → chia "is playing". A sai (aren't = số nhiều). B sai (are = số nhiều). C sai (isn't = trái nghĩa).</em></i>
 </details>
-
 
 ---
 
 ### Question 17
 
 > Choose the best answer to fill in the blank.
-> My dad is a responsible person. He always ______ my grandparents 10 hours a day.
+> My dad is a responsible person. He always **\_\_** my grandparents 10 hours a day.
 
 **A.** breaks down \
 **B.** put up with \
 **C.** takes care of \
 **D.** get along with
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>"Takes care of" = chăm sóc → phù hợp với hành động chăm sóc ông bà.</em></i>
 </details>
 
-
 ---
-
 
 ### Question 18
 
@@ -339,11 +328,11 @@ description: "Bài khảo sát số 5"
 **B.** chúng tôi, đó, vậy \
 **C.** vậy, tôi, nhau \
 **D.** Vậy, đó, Con đường
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>"chúng tôi" = đại từ xưng hô; "đó" = đại từ thay thế cho "con đường rợp hoa..."; "vậy" = đại từ thay thế cho câu phía trước.</em></i>
 </details>
-
 
 ---
 
@@ -356,11 +345,11 @@ description: "Bài khảo sát số 5"
 **B.** Thương, yêu, mến \
 **C.** Rẻ mạt, tầm thường, vô giá trị \
 **D.** Đắt, quý hiếm
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>"quý" = trân trọng, mến thương. Trái nghĩa: ghét, chán ghét, thù hận. (C chứa từ trái nghĩa với "quý" theo nghĩa giá trị vật chất, không phù hợp).</em></i>
 </details>
-
 
 ---
 
@@ -374,26 +363,21 @@ description: "Bài khảo sát số 5"
 **B.** khổ, là, tươi đẹp \
 **C.** khổ, vang dội lên mạnh mẽ, chao ôi \
 **D.** Chao ôi, nghệ thuật, ánh trăng
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Điệp từ/ngữ: "khổ" (lặp 4 lần), "vang dội lên mạnh mẽ" (lặp 2 lần), "chao ôi" (lặp 2 lần).</em></i>
 </details>
 
-
 ---
-
 
 **THIS IS THE END OF BÀI KHẢO SÁT SỐ 1**
 
-
-
 ## BÀI KHẢO SÁT SỐ 2 — PHẦN TIẾNG ANH
-
 
 **Tổng thời gian làm bài 3 phần: 60 phút**
 
-*Giám thị không giải thích gì thêm*
-
+_Giám thị không giải thích gì thêm_
 
 <figure>
   <img
@@ -423,7 +407,6 @@ Everyone is different. So, we need to find out what helps us feel good again whe
 
 Being resilient doesn't mean we never feel bad. It means we know how to deal with our bad feelings and become strong again. It's like having a superpower that helps us do well when things are hard and stay happy.
 
-
 ### Question 1
 
 > Choose the best answer A, B, or C to fill in the blank.
@@ -432,13 +415,13 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 **A.** It's when you feel a little worried or upset. \
 **B.** It's when you feel happy and comfortable. \
 **C.** It's when you are very sad or angry.
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A (It's when you feel a little worried or upset)</strong><br><em>—</em></i>
 </details>
 
-*(Write A, B, or C in the blank)* ___________
-
+_(Write A, B, or C in the blank)_ ****\_\_\_****
 
 ---
 
@@ -450,26 +433,26 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 **A.** red zone \
 **B.** yellow zone \
 **C.** green zone
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C (green zone)</strong><br><em>—</em></i>
 </details>
 
-*(Write A, B, or C in the blank)* ___________
-
+_(Write A, B, or C in the blank)_ ****\_\_\_****
 
 ---
 
 ### Question 3
 
 > Choose the best answer A, B, or C to fill in the blank.
-> The passage is mainly about _________
+> The passage is mainly about ****\_****
 
 **A.** how to build strong feelings and find your resilient zone. \
 **B.** how to avoid feeling sad or angry forever. \
 **C.** how to find fun places to play with your friends.
 
-*(Write A, B, or C in the blank)* ___________
+_(Write A, B, or C in the blank)_ ****\_\_\_****
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
@@ -483,13 +466,12 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 > Decide whether this statement is True or False:
 > According to the passage, it's not normal to have different feelings or move through different zones.
 
-(Write True or False in the blank) ___________
+(Write True or False in the blank) ****\_\_\_****
 
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
 </details>
-
 
 ---
 
@@ -498,13 +480,12 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 > Decide whether this statement is True or False:
 > The passage suggests that you should avoid talking with adults like parents and teachers to find your resilient zone.
 
-(Write True or False in the blank) ___________
+(Write True or False in the blank) ****\_\_\_****
 
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
 </details>
-
 
 ---
 
@@ -513,42 +494,39 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
 > Decide whether this statement is True or False:
 > The passage implies that people are born with the natural ability to go back to the "resilient zone."
 
-(Write True or False in the blank) ___________
+(Write True or False in the blank) ****\_\_\_****
 
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>—</em></i>
 </details>
 
-
 ---
 
 ### Question 7
 
 > What THREE things can we do to find our resilient zone? Write NO MORE THAN fifteen words for your answer.
-> _______________________________________________________________________________
+>
+> ---
 
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>Breathing/breath slowly, thinking/think of good things, (and) talking/talk to someone we trust</em><br><em>Chấp nhận viết ý hoặc thành câu. Cho 0.5đ mỗi ý đúng. Trừ 0.25đ/lỗi (chính tả, ngữ pháp, hình thức, dư từ).</em></i>
 </details>
 
-
 ---
 
 ### Question 8
 
 > Find TWO words in the passage that mean "to handle, manage negative feelings or solve problems."
-> (Write your answer in the blank) ___________
+> (Write your answer in the blank) ****\_\_\_****
 
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>deal / handle</strong><br><em>Trừ 0.5đ/lỗi (chính tả, ngữ pháp, hình thức). Không cho điểm nếu ghi sai chính tả.</em></i>
 </details>
 
-
 ---
-
 
 ### WRITING (6 points)
 
@@ -561,7 +539,7 @@ Example: badminton / great / player / Anna / a / is //
 
 > Rosie / finish / doesn't / homework / her / if / she / go / will / not / outside / this / weekend //
 
-→ _______________________
+→ **********\_\_\_**********
 
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
@@ -580,44 +558,37 @@ Example: Tuan / be / tall / Anna //
 ### Question 10
 
 > mom / think / sister / not / get / bad scores / test / tomorrow //
-> → _______________________
+> → **********\_\_\_**********
 
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>(My) Mom thinks my sister(s) will not / won't get bad score(s) in the test tomorrow.</em></i>
 </details>
 
-
 ---
 
 ### Question 11
 
 > beautiful / flowers / be / plant / park / volunteers / since / last week //
-> → _______________________________________________________________________________
+> → **************************************\_\_\_**************************************
 
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>The beautiful flowers have been planted in the park by (the / some) volunteers since last week.</em></i>
 </details>
 
-
 ---
-
 
 **KẾT THÚC PHẦN TIẾNG ANH**
 
-
-
 ## PHẦN TOÁN & IQ
 
-
 **Thí sinh KHÔNG được sử dụng máy tính bỏ túi**
-
 
 ### Question 1
 
 > Minh đã chơi 25 ván cờ và có tỉ lệ thắng 52%. Nếu các ván cờ sau đó Minh đều thắng thì Minh cần phải thắng thêm bao nhiêu trận nữa để đạt tỉ lệ thắng là 60%? Chỉ viết kết quả.
-> Trả lời: _____________
+> Trả lời: ******\_******
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -627,9 +598,7 @@ Tổng số trận Minh phải chơi: 12 ÷ 40 × 100 = 30 (trận)
 Số trận Minh phải thắng thêm: 30 − 25 = 5 (trận)</em></i>
 </details>
 
-
 ---
-
 
 ### Question 2
 
@@ -637,12 +606,14 @@ Số trận Minh phải thắng thêm: 30 − 25 = 5 (trận)</em></i>
 
 > [Biểu đồ cột: Thời gian (phút) theo các ngày Thứ Hai → Thứ Sáu, thanh trắng = Tuần 1, thanh xám = Tuần 2]
 
-> Tuy nhiên, Amy quên vẽ thanh màu trắng cuối cùng vào thứ Sáu. Biết rằng trong tuần thứ hai, cô ấy chỉ cần 90% tổng thời gian trong tuần đầu tiên để ôn lại các bài thi cũ. Hỏi cô ấy đã dành bao nhiêu thời gian vào thứ Sáu của tuần đầu tiên để ôn tập? 
+> Tuy nhiên, Amy quên vẽ thanh màu trắng cuối cùng vào thứ Sáu. Biết rằng trong tuần thứ hai, cô ấy chỉ cần 90% tổng thời gian trong tuần đầu tiên để ôn lại các bài thi cũ. Hỏi cô ấy đã dành bao nhiêu thời gian vào thứ Sáu của tuần đầu tiên để ôn tập?
 
 Trình bày lời giải, phép tính, đáp số.
 Bài làm:
-________________________________________________________
-Trả lời: _____________ phút
+
+---
+
+Trả lời: ******\_****** phút
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -658,17 +629,15 @@ Thời gian tuần 1 = 180 ÷ 90% = 200 (phút)
 Thời gian thứ Sáu tuần 1: 200 − (30 + 45 + 35 + 45) = 45 (phút)</em></i>
 </details>
 
-
 ---
-
 
 ### Question 3
 
 > Một bể chứa hình hộp chữ nhật có kích thước 180cm x 50cm x 40cm đang chứa một lượng nước bằng 3/4 dung tích của bể. Lượng nước được bơm ra khỏi bể theo kế hoạch sau:
+>
 > - Trong giờ đầu tiên: 500ml mỗi phút
 > - Trong giờ thứ hai: 450ml mỗi phút
 > - Kể từ giờ thứ ba trở đi: 300ml mỗi phút
-
 
 ---
 
@@ -676,7 +645,7 @@ a) Hỏi trong bể còn bao nhiêu nước sau 30 phút? **Trình bày lời gi
 
 **Bài làm:**
 
-**Trả lời:** _____________ lít
+**Trả lời:** ******\_****** lít
 
 <details name="question-2-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -690,13 +659,14 @@ b) Tính từ lúc đầu, hỏi cần bơm nước ra khỏi bể trong bao lâ
 
 **Bài làm:**
 
-**Trả lời:** _____________
+**Trả lời:** ******\_******
 
 ---
 
 **KẾT THÚC PHẦN TOÁN & IQ**
 
 ---
+
 ---
 
 <details name="question-3-b">
@@ -706,10 +676,7 @@ b) Tính từ lúc đầu, hỏi cần bơm nước ra khỏi bể trong bao lâ
 
 ---
 
-
 ## PHẦN ĐỌC HIỂU VÀ LÀM VĂN
-
-
 
 ### Question 1
 
@@ -725,9 +692,7 @@ b) Tính từ lúc đầu, hỏi cần bơm nước ra khỏi bể trong bao lâ
 
 > (Theo Hà Tuyết Giảo, https://vanvn.vn/da-lat-trong-mat-toi-tuy-but-cua-ha-tuyet-giao/)
 
-
 ---
-
 
 a) Theo văn bản, hai điều ấn tượng nhất với tác giả khi đến Đà Lạt là gì? (2 điểm)
 
@@ -743,7 +708,6 @@ a) Theo văn bản, hai điều ấn tượng nhất với tác giả khi đến
 b) Những con dốc ở Đà Lạt có điểm gì đặc biệt? (2 điểm)
 
 **Trả lời:**
-
 
 <details name="question-1-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -781,7 +745,6 @@ d) Theo em, tác giả đã khuyên chúng ta nên có thái độ như thế n�
 > Thế giới chúng ta đang sống được bao quanh bởi rất nhiều khung cảnh khác nhau. Đó có thể là cảnh thiên nhiên núi rừng, biển cả, cũng có thể là khung cảnh phố thị, miền quê... Em hãy viết một đoạn văn (khoảng 8–10 câu) miêu tả một cảnh sắc mà em ấn tượng. (Gợi ý: nơi em đi du lịch, quê nhà, hay thậm chí khung cảnh nơi em sinh sống...). (7 điểm)
 
 **Bài làm:**
- 
 
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
@@ -792,15 +755,12 @@ d) Theo em, tác giả đã khuyên chúng ta nên có thái độ như thế n�
 
 > Một trong những khung cảnh tôi ấn tượng nhất chính là cảnh biển vào buổi sáng sớm. Lần đầu tiên tôi được tận mắt chiêm ngưỡng vẻ đẹp này khi đi du lịch cùng gia đình ở biển Nha Trang. Mới sáng sớm, biển hiện ra như một bức tranh tĩnh lặng với làn sóng nhẹ nhàng vỗ vào bờ cát. Mặt trời chưa ló dạng, nhưng ánh sáng đầu tiên của ngày đã phản chiếu trên mặt nước, khiến cả không gian như được phủ một lớp ánh vàng óng ả. Từ xa, có thể thấy biển thật mênh mông, rộng lớn, như một tấm gương phản chiếu bầu trời trong lành, mây trắng trôi lững lờ. Khi tiến lại gần, tôi thấy từng con sóng nhỏ đập vào bờ, tạo thành những bọt nước trắng xóa, rồi nhanh chóng tan vào cát. Bãi biển rộng lớn và sạch sẽ, những con sò, vỏ ốc lấp lánh dưới ánh sáng.
 
->  Dọc bờ biển, vài chiếc thuyền đánh cá của ngư dân đang trở về sau một đêm dài ra khơi. Không khí trong lành, mát mẻ và thơm ngát mùi biển cả khiến tôi cảm thấy thật thư giãn và dễ chịu. Biển thay đổi theo từng khoảnh khắc trong ngày. Buổi sáng, biển yên bình, dịu dàng, như đang chào đón một ngày mới đầy hy vọng. Đến trưa, biển khoác lên mình một tấm áo xanh biếc có hàng triệu hạt nắng lấp lánh chiếu rọi. Khi hoàng hôn buông xuống, biển lại trở nên trầm lắng, sóng vỗ nhẹ nhàng, khiến tôi cảm thấy thật bình yên. 
+> Dọc bờ biển, vài chiếc thuyền đánh cá của ngư dân đang trở về sau một đêm dài ra khơi. Không khí trong lành, mát mẻ và thơm ngát mùi biển cả khiến tôi cảm thấy thật thư giãn và dễ chịu. Biển thay đổi theo từng khoảnh khắc trong ngày. Buổi sáng, biển yên bình, dịu dàng, như đang chào đón một ngày mới đầy hy vọng. Đến trưa, biển khoác lên mình một tấm áo xanh biếc có hàng triệu hạt nắng lấp lánh chiếu rọi. Khi hoàng hôn buông xuống, biển lại trở nên trầm lắng, sóng vỗ nhẹ nhàng, khiến tôi cảm thấy thật bình yên.
 
 > Biển không chỉ lộng lẫy mà còn mang lại cho tôi cảm giác thoải mái, giúp tôi tạm gác lại những lo âu của cuộc sống. Đó là một khung cảnh mà tôi sẽ mãi nhớ, một kỷ niệm đáng quý trong đời tôi.
 
 ---
 
-
 **KẾT THÚC PHẦN ĐỌC HIỂU VÀ LÀM VĂN**
 
 **--- HẾT ---**
-
-

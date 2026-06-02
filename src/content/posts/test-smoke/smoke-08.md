@@ -13,20 +13,21 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 
 ## Table of contents
 
-
 ## BÀI KHẢO SÁT SỐ 1
 
 **Thời gian: 30 phút (không kể thời gian phát đề)**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Question 1
+
 > Which of the following animals is an invertebrate?
 
 **A.** Frog \
 **B.** Snail \
 **C.** Snake \
 **D.** Fish
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Snail is an invertebrate (no backbone). Frog, snake, fish all have backbones.</em></i>
@@ -35,12 +36,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 2
+
 > Anna is helping her grandmother in the garden. She notices that some parts of the plants are under the soil. Her grandmother tells her that this part helps the plant take in water and nutrients. Which part of the plant is Anna's grandmother talking about?
 
 **A.** Leaf \
 **B.** Stem \
 **C.** Root \
 **D.** Flower
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Root is the part under soil that absorbs water and nutrients.</em></i>
@@ -49,12 +52,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 3
+
 > Lily is looking at a red apple under the sunlight. Why does she see the apple as red?
 
 **A.** Because the apple reflects red light to her eyes. \
 **B.** Because apples create their own color. \
 **C.** Because apples only absorb red light. \
 **D.** Because red apples are always painted red.
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Objects reflect light of their own color. Red apple reflects red light.</em></i>
@@ -63,12 +68,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 4
+
 > Tom and his classmates wanted to find out which type of liquid helps plants grow best. They carried out an experiment on 3 pots of plants... Was it a fair test? Why or why not?
 
 **A.** No, because the plants should be watered with the same amount of liquid in different types. \
 **B.** No, because plants should only be given clean water, not juice. \
 **C.** Yes, because all the plants were the same kind, placed in the same sunny spot, same soil. \
 **D.** Yes, because they used different types and amounts of liquids to test the plants.
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Not a fair test: different amounts AND one type is juice. Fair test needs same amount of different liquids.</em></i>
@@ -77,12 +84,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 5
+
 > A student observed two types of organisms growing on a piece of old bread. The first one was green and fuzzy. The second one was invisible to the naked eye, but it made the bread smell bad. Based on this description, were they fungi or bacteria?
 
 **A.** Both are fungi because they grow in warm places. \
 **B.** Both are bacteria because fungi cannot grow on bread. \
 **C.** The green fuzzy one is a fungus, and the invisible one is likely a bacterium. \
 **D.** The green one is a bacterium, and the invisible one is likely a fungus.
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Green fuzzy = mold (fungi). Invisible but smells bad = bacteria making bread spoil.</em></i>
@@ -91,12 +100,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 6
+
 > Harvey used a large glass to cover a burning candle without touching the flame. At first, the candle kept burning, but very quickly after that, the flame weakened and went out completely. Which of the following facts about air is **no longer true** about the air inside the glass after the flame went out?
 
 **A.** Air can be compressed. \
 **B.** Air contains about 21% oxygen. \
 **C.** Air does not have a definite shape. \
 **D.** Air is made up of different gases.
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>After the flame goes out, oxygen is used up, so air no longer contains 21% oxygen inside the glass.</em></i>
@@ -105,12 +116,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 7
+
 > The Parthenon is a famous ancient temple with tall marble columns built to honor the goddess Athena. Which country is it located in?
 
 **A.** Italy \
 **B.** Egypt \
 **C.** Greece \
 **D.** Turkey
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Parthenon is in Athens, Greece — built for goddess Athena.</em></i>
@@ -119,6 +132,7 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 8
+
 > Choose the correct place name to fill in the blank in the folk verse below.
 > "Lên non cố tích, lên đền Hùng Vương / Đền này thờ tổ Nam Phương / Quy mô trước đã sửa sang rõ ràng."
 
@@ -126,6 +140,7 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 **B.** Bắc Kạn \
 **C.** Phú Thọ \
 **D.** Thanh Hoá
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Đền Hùng is in Phú Thọ province. Đền thờ các Vua Hùng.</em></i>
@@ -134,12 +149,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 9
+
 > On April 30, 1975, when tanks of the Vietnamese People's Army entered the Independence Palace, which flag was raised on top of the Palace to signal the victory?
 
 **A.** Flag of the Socialist Republic of Vietnam \
 **B.** Flag of the National Front for the Liberation of South Vietnam \
 **C.** Flag of the Democratic Republic of Vietnam \
 **D.** Flag of the Republic of Vietnam
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Flag of the National Front for the Liberation of South Vietnam (blue top, red bottom, yellow star).</em></i>
@@ -148,12 +165,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 10
+
 > In 1285, a young general under Trần Hưng Đạo was captured by Mongol invaders. When offered a kingdom to surrender, he replied: "Ta thà làm ma nước Nam, chứ không thèm làm vương đất Bắc." Who was this general?
 
 **A.** Trần Hưng Đạo \
 **B.** Lê Lai \
 **C.** Phạm Ngũ Lão \
 **D.** Trần Bình Trọng
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Trần Bình Trọng — famous quote in 1285 against Mongol invaders.</em></i>
@@ -162,12 +181,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 11
+
 > What is the area of the shaded region shown in the grid?
 
 **A.** 1.72 units² \
 **B.** 2.72 units² \
 **C.** 2.86 units² \
 **D.** 4.16 units²
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Area of shaded region = 2.86 units².</em></i>
@@ -176,12 +197,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 12
+
 > The number on top of each cylinder is its capacity. Which cylinder has the most liquid?
 
 **A.** Cylinder 1 \
 **B.** Cylinder 2 \
 **C.** Cylinder 3 \
 **D.** Cylinder 4
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Cyl 1: 630×4/9=280ml, Cyl 2: 720×1/3=240ml, Cyl 3: 690×2/5=276ml, Cyl 4: 560×4/7=320ml.</em></i>
@@ -190,12 +213,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 13
+
 > A calculator operates following the flow diagram below. When Anna inputs whole number A, the final result is 290. What is the value of A?
 
 **A.** 33 \
 **B.** 58 \
 **C.** 88 \
 **D.** 100
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>A=88 (working backwards from 290).</em></i>
@@ -204,12 +229,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 14
+
 > Six teams (A–F) play a tournament. Each team plays one match per day for 5 days. Each team plays every other team once. The table shows some matches. Which team does A play on Day 5?
 
 **A.** Team F \
 **B.** Team C \
 **C.** Team D \
 **D.** Team E
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Team D — deduced from match schedule table.</em></i>
@@ -218,12 +245,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 15
+
 > Read the advertisement: "FOR SALE - Girl's bike, suitable for ages 7–12... Any offers above £40 considered. Buyer must collect." What does it mean?
 
 **A.** Adrian will deliver the bike for free if you pay £40. \
 **B.** Girls aged 7–12 can get new bikes at a special price of £40. \
 **C.** The buyer who offers above £40 hardly uses the bike. \
 **D.** The bike's new owner will have to pay £40 or more to get the bike.
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Ad says "offers above £40 considered" and "buyer must collect" — so new owner pays ≥£40.</em></i>
@@ -232,14 +261,16 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 16
+
 > Choose the best response:
 > Beverly: The party is at 6:30. Can you bring some music?
-> Amanda: _______________
+> Amanda: ******\_\_\_******
 
 **A.** I'd love to, thanks. The music is great! \
 **B.** Sure! You can use my dance CDs. \
 **C.** I'll be there with some good food. \
 **D.** We'll play some fantastic games.
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Amanda agrees to bring music: "Sure! You can use my dance CDs."</em></i>
@@ -248,13 +279,15 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 17
+
 > Choose the best option to fill in the blank:
-> At the present time, everyone in the badminton club _______________ monthly membership fees.
+> At the present time, everyone in the badminton club ******\_\_\_****** monthly membership fees.
 
 **A.** will be reminded to \
 **B.** is being reminded about \
 **C.** are being reminded about \
 **D.** was reminded to
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>"is being reminded about" — passive present continuous, singular subject "everyone".</em></i>
@@ -263,12 +296,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 18
+
 > Từ nào dưới đây là đồng nghĩa với "nghị lực"?
 
 **A.** Kiên trì \
 **B.** Thông minh \
 **C.** Mạnh mẽ \
 **D.** Quả quyết
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Nghị lực = kiên trì (perseverance).</em></i>
@@ -277,12 +312,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 19
+
 > Thành ngữ nào có nghĩa "chỉ việc tìm kiếm hết sức gian nan khó nhọc và hầu như không có hi vọng thành công"?
 
 **A.** Vạch lá tìm sâu \
 **B.** Xa tận chân trời, gần ngay trước mắt \
 **C.** Mò kim đáy bể \
 **D.** Đã tràng xe cát biển Đông
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Mò kim đáy bể = looking for a needle at the bottom of the ocean (hopeless search).</em></i>
@@ -291,6 +328,7 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 20
+
 > Đâu **không phải** là đại từ trong câu sau:
 > "Khi tôi đi, anh ấy không nói gì, chỉ lặng lẽ đứng nhìn."
 
@@ -298,13 +336,13 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 **B.** anh ấy \
 **C.** gì \
 **D.** chỉ
+
 <details name="question-20">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>"chỉ" là từ chỉ sự giới hạn (adverb), không phải đại từ. "tôi", "anh ấy", "gì" đều là đại từ.</em></i>
 </details>
 
 ---
-
 
 ## BÀI KHẢO SÁT SỐ 2 - PHẦN TIẾNG ANH
 
@@ -319,6 +357,7 @@ Read the following passage carefully.
 > First, remember the important things like passports, tickets and money. Mum usually takes those for me but check the date on your passport. Children need a new passport every five years, but our parents only change theirs every ten years, so they sometimes forget! Use a rucksack or a suitcase on wheels. If you put your name and address on it, you won't lose it. Take shorts and flip-flops for sunny days. Take a raincoat or an umbrella for rainy days. Take a washbag with your toothbrush, toothpaste, shampoo, soap and don't forget medicines if you need them. Don't take guidebooks; they're heavy and you can download apps about the places you're going to visit. But remember to take a charger for your phone or tablet! If you're travelling at night, take a pillow so you can sleep. Have a good trip!
 
 ### Question 1
+
 > True or False? "Everybody has to renew their passports every ten years."
 
 > Answer: \_\_\_\_\_\_
@@ -331,6 +370,7 @@ Read the following passage carefully.
 ---
 
 ### Question 2
+
 > True or False? "Using travelling apps is better than taking guide books when people travel."
 
 > Answer: \_\_\_\_\_\_
@@ -343,6 +383,7 @@ Read the following passage carefully.
 ---
 
 ### Question 3
+
 > The best title of the passage is \_\_\_\_\_\_.
 
 **A.** Fun Holidays \
@@ -359,6 +400,7 @@ Read the following passage carefully.
 ---
 
 ### Question 4
+
 > To avoid losing our luggage, we should \_\_\_\_\_\_.
 
 **A.** remember the important things like passport, ticket and money \
@@ -375,6 +417,7 @@ Read the following passage carefully.
 ---
 
 ### Question 5
+
 > Write down NO MORE THAN TWO WORDS that mean "a small waterproof bag used for carrying your shower gel, sunscreen, facecloth, lotion, etc. when you are travelling."
 
 > Answer: \_\_\_\_\_\_
@@ -391,6 +434,7 @@ Read the following passage carefully.
 **Task 1: Rearrange the words to make a meaningful sentence. (2 points)**
 
 ### Question 6
+
 > never / have / a Vietnamese chess player / I / defeated / been / in / by / an international match / before //
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -405,6 +449,7 @@ Read the following passage carefully.
 **Task 2: Write complete sentences with the given cues. Max 15 words each. (4 points)**
 
 ### Question 7
+
 > everybody / the basketball club / practice / coach / the moment //
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -417,6 +462,7 @@ Read the following passage carefully.
 ---
 
 ### Question 8
+
 > Anna / play / badminton / very well / because / practice / six days / week //
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -428,16 +474,16 @@ Read the following passage carefully.
 
 ---
 
-
 ## PHẦN TOÁN & IQ
 
 **Thời gian: 30 phút**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Câu 1 (3 điểm)
 
 > Người ta viết các số tự nhiên từ 1 đến 100. Trong các số đó:
+>
 > - Các số chia hết cho 3 thì bị gạch chéo.
 > - Các số chia hết cho 5 thì bị khoanh tròn.
 >
@@ -474,6 +520,7 @@ Bài làm:
 ### Câu 3 (8 điểm)
 
 > Nhà Bảo và nhà Châu cùng nằm trên một con đường thẳng dẫn đến trường, nhà Bảo gần trường hơn.
+>
 > - Bảo đi với vận tốc 12 km/giờ.
 > - Châu đi với vận tốc 13 km/giờ.
 > - Lúc Châu vừa về đến nhà thì Bảo còn cách nhà mình 2 km.
@@ -503,11 +550,9 @@ Bài làm:
 
 ---
 
-
 ## PHẦN ĐỌC HIỂU & LÀM VĂN
 
 **Thời gian: 30 phút**
-
 
 ### Câu 1. Đọc hiểu (8 điểm)
 
@@ -523,7 +568,7 @@ Khỉ Em chưa kể hết chuyện thì một hột đậu phộng bay trúng đ
 
 Khỉ Anh chỉ biết đứng lặng trong một góc chuồng, buồn bã khôn nguôi. Nó không biết điều gì đang chờ em phía trước.
 
-*(Theo truyện ngắn "Hai chú khỉ" — sách giáo dục công dân)*
+_(Theo truyện ngắn "Hai chú khỉ" — sách giáo dục công dân)_
 
 **a) (2 điểm)** Theo câu chuyện, thoạt đầu Khỉ Anh sống ở đâu và Khỉ Em sống ở đâu?
 

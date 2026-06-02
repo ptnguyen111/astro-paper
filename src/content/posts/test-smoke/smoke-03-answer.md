@@ -39,23 +39,23 @@ description: "Smoke 03: 14/20 (70%) — English 3/3, Science 5/6, History 3/4, M
 
 **📊 Điểm tổng: 67/100** (MC 14/20 + Reading 11/16 + Writing 3.5/6 + Toán 8/15 + Đọc hiểu 6.5/8 + Bài văn 5/7)
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 **Science** (Q1–6) | 5/6 | **83%** ✅ | Chỉ sai Q4 (vòng tuần hoàn nước) |
-| 📜 **History** (Q7–10) | 3/4 | **75%** ✅ | Sai Q8 (cột mốc ba biên Kon Tum) |
-| 🧮 **Maths & IQ** (Q11–14) | 1/4 | **25%** ❌ | Sai 3/4 — yếu nhất! |
-| 📘 **English** (Q15–17) | 3/3 | **100%** ✅ | Perfect! |
-| 📖 **Literature** (Q18–20) | 2/3 | **66%** ✅ | Sai Q19 (tục ngữ # thành ngữ) |
+| Môn                        | Đúng |    Tỉ lệ    | Nhận xét                         |
+| :------------------------- | :--: | :---------: | :------------------------------- |
+| 🔬 **Science** (Q1–6)      | 5/6  | **83%** ✅  | Chỉ sai Q4 (vòng tuần hoàn nước) |
+| 📜 **History** (Q7–10)     | 3/4  | **75%** ✅  | Sai Q8 (cột mốc ba biên Kon Tum) |
+| 🧮 **Maths & IQ** (Q11–14) | 1/4  | **25%** ❌  | Sai 3/4 — yếu nhất!              |
+| 📘 **English** (Q15–17)    | 3/3  | **100%** ✅ | Perfect!                         |
+| 📖 **Literature** (Q18–20) | 2/3  | **66%** ✅  | Sai Q19 (tục ngữ # thành ngữ)    |
 
 ### Các phần đã hoàn thành khác
 
-| Phần | Điểm đạt | Tổng | Nhận xét |
-|:-----|:--------:|:----:|:---------|
-| 📖 Reading | 11/16 | 16đ | 5/8 câu — sai 3 câu + 1 câu nửa điểm |
-| ✍️ Writing | 3.5/6 | 6đ | Sai cấu trúc so sánh & thì hiện tại hoàn thành |
-| 🧮 Toán & IQ | 8/15 | 15đ | Sai Bài 1 (tỉ lệ thể tích) & Bài 3b (tỉ số bi) |
-| 📝 Đọc hiểu | 6.5/8 | 8đ | Gần perfect — sai 1c (1/2đ) & 1d (1.5/2đ) |
-| 📝 Bài văn | 5/7 | 7đ | Còn thiếu cảm xúc & hình ảnh miêu tả |
+| Phần         | Điểm đạt | Tổng | Nhận xét                                       |
+| :----------- | :------: | :--: | :--------------------------------------------- |
+| 📖 Reading   |  11/16   | 16đ  | 5/8 câu — sai 3 câu + 1 câu nửa điểm           |
+| ✍️ Writing   |  3.5/6   |  6đ  | Sai cấu trúc so sánh & thì hiện tại hoàn thành |
+| 🧮 Toán & IQ |   8/15   | 15đ  | Sai Bài 1 (tỉ lệ thể tích) & Bài 3b (tỉ số bi) |
+| 📝 Đọc hiểu  |  6.5/8   |  8đ  | Gần perfect — sai 1c (1/2đ) & 1d (1.5/2đ)      |
+| 📝 Bài văn   |   5/7    |  7đ  | Còn thiếu cảm xúc & hình ảnh miêu tả           |
 
 ### 📈 Phân tích
 
@@ -78,28 +78,28 @@ description: "Smoke 03: 14/20 (70%) — English 3/3, Science 5/6, History 3/4, M
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:---|:-----------:|:-----------:|:-------:|
-| 1 | Science | B | B | ✅ |
-| 2 | Science | C | C | ✅ |
-| 3 | Science | C | C | ✅ |
-| 4 | Science | A | D | ❌ |
-| 5 | Science | C | C | ✅ |
-| 6 | Science | A | A | ✅ |
-| 7 | History | C | C | ✅ |
-| 8 | History | A | D | ❌ |
-| 9 | History | A | A | ✅ |
-| 10 | History | B | B | ✅ |
-| 11 | Maths | C | C | ✅ |
-| 12 | Maths | C | D | ❌ |
-| 13 | Maths/IQ | D | B | ❌ |
-| 14 | Maths/IQ | B | A | ❌ |
-| 15 | English | D | D | ✅ |
-| 16 | English | D | D | ✅ |
-| 17 | English | C | C | ✅ |
-| 18 | Literature | D | D | ✅ |
-| 19 | Literature | C | B | ❌ |
-| 20 | Literature | D | D | ✅ |
+| Câu | Môn        | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :--------- | :---------: | :---------: | :-----: |
+|  1  | Science    |      B      |      B      |   ✅    |
+|  2  | Science    |      C      |      C      |   ✅    |
+|  3  | Science    |      C      |      C      |   ✅    |
+|  4  | Science    |      A      |      D      |   ❌    |
+|  5  | Science    |      C      |      C      |   ✅    |
+|  6  | Science    |      A      |      A      |   ✅    |
+|  7  | History    |      C      |      C      |   ✅    |
+|  8  | History    |      A      |      D      |   ❌    |
+|  9  | History    |      A      |      A      |   ✅    |
+| 10  | History    |      B      |      B      |   ✅    |
+| 11  | Maths      |      C      |      C      |   ✅    |
+| 12  | Maths      |      C      |      D      |   ❌    |
+| 13  | Maths/IQ   |      D      |      B      |   ❌    |
+| 14  | Maths/IQ   |      B      |      A      |   ❌    |
+| 15  | English    |      D      |      D      |   ✅    |
+| 16  | English    |      D      |      D      |   ✅    |
+| 17  | English    |      C      |      C      |   ✅    |
+| 18  | Literature |      D      |      D      |   ✅    |
+| 19  | Literature |      C      |      B      |   ❌    |
+| 20  | Literature |      D      |      D      |   ✅    |
 
 ---
 
@@ -107,25 +107,25 @@ description: "Smoke 03: 14/20 (70%) — English 3/3, Science 5/6, History 3/4, M
 
 ### 📖 Reading (16 điểm)
 
-| # | Đáp án của Long | Đáp án đúng | Kết quả |
-|:-:|:--------------:|:-----------:|:-------:|
-| 1 | C | C | ✅ |
-| 2 | B | B | ✅ |
-| 3 | D | B | ❌ |
-| 4 | False | False | ✅ |
-| 5 | True | True | ✅ |
-| 6 | False | False | ✅ |
-| 7 | Critical thinking requires analyzing... | blindly accepting information | ❌ (1/2đ) |
-| 8 | Acceptance | advantage | ❌ |
+|  #  |             Đáp án của Long             |          Đáp án đúng          |  Kết quả  |
+| :-: | :-------------------------------------: | :---------------------------: | :-------: |
+|  1  |                    C                    |               C               |    ✅     |
+|  2  |                    B                    |               B               |    ✅     |
+|  3  |                    D                    |               B               |    ❌     |
+|  4  |                  False                  |             False             |    ✅     |
+|  5  |                  True                   |             True              |    ✅     |
+|  6  |                  False                  |             False             |    ✅     |
+|  7  | Critical thinking requires analyzing... | blindly accepting information | ❌ (1/2đ) |
+|  8  |               Acceptance                |           advantage           |    ❌     |
 
 **Kết quả: 11/16đ (5/8 câu)**
 
 ### ✍️ Writing (6 điểm)
 
-| # | Câu viết của Long | Đáp án mẫu | Kết quả |
-|:-:|:-----------------|:-----------|:-------:|
-| 1 | My village is the peaceful place in the world | the most peaceful | ❌ (2/3đ) |
-| 2 | They never travel abroad since they started university | have never travelled | ❌ (1.5/3đ) |
+|  #  | Câu viết của Long                                      | Đáp án mẫu           |   Kết quả   |
+| :-: | :----------------------------------------------------- | :------------------- | :---------: |
+|  1  | My village is the peaceful place in the world          | the most peaceful    |  ❌ (2/3đ)  |
+|  2  | They never travel abroad since they started university | have never travelled | ❌ (1.5/3đ) |
 
 **Kết quả: 3.5/6đ (1.5/2 task)**
 
@@ -133,12 +133,12 @@ description: "Smoke 03: 14/20 (70%) — English 3/3, Science 5/6, History 3/4, M
 
 ## 🧮 Kết Quả Toán & IQ
 
-| Bài | Đáp án của Long | Đáp án đúng | Kết quả |
-|:---:|:--------------:|:-----------:|:-------:|
-| 1 (3đ) | 9 cm | 8 cm | ❌ |
-| 2 (4đ) | 10.200.000đ | 10.200.000đ | ✅ |
-| 3a (4đ) | 3:2 và 4:1 | 3:2 và 4:1 | ✅ |
-| 3b (4đ) | 100 viên | 20 viên | ❌ |
+|   Bài   | Đáp án của Long | Đáp án đúng | Kết quả |
+| :-----: | :-------------: | :---------: | :-----: |
+| 1 (3đ)  |      9 cm       |    8 cm     |   ❌    |
+| 2 (4đ)  |   10.200.000đ   | 10.200.000đ |   ✅    |
+| 3a (4đ) |   3:2 và 4:1    | 3:2 và 4:1  |   ✅    |
+| 3b (4đ) |    100 viên     |   20 viên   |   ❌    |
 
 **Kết quả: 8/15đ (2/4 bài)**
 
@@ -148,7 +148,7 @@ description: "Smoke 03: 14/20 (70%) — English 3/3, Science 5/6, History 3/4, M
 
 **Bài làm (đạt 5/7):**
 
-> *(Bài viết của học sinh trống trong file gốc)*
+> _(Bài viết của học sinh trống trong file gốc)_
 
 ---
 

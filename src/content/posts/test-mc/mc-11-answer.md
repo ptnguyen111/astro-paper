@@ -34,12 +34,12 @@ description: "MC 11: 11/20 (55%) — Văn hóa 3/3, Science 4/6, Math & Logic 2/
 
 **🏆 11/20 (55%)**
 
-| Phần | Đúng | Tỉ lệ | Nhận xét |
-|:-----|:---:|:-----:|:---------|
-| 🔬 **Science & Technology** (Q1–6) | 4/6 | **67%** ✅ | Sai CRISPR (Q1) & Olo single-cone stimulation (Q3) |
-| 📜 **History/Geography** (Q7–10, Q13, Q15) | 3/6 | **50%** ❌ | Sai Q10 (blue dragon), Q13 (Bưu điện TP), Q15 (rừng ngập mặn) |
-| 🧮 **Math & Logic** (Q11–12, Q14, Q16–17) | 2/5 | **40%** ❌ | Sai Q14 (toán bán vé số), Q16 (dãy số), Q17 (thể tích hình trụ) |
-| 🎋 **Văn học & Văn hóa** (Q18–20) | 2/3 | **67%** ✅ | Sai Q18 (thơ "Đất nước" - nhầm hương cốm) |
+| Phần                                       | Đúng |   Tỉ lệ    | Nhận xét                                                        |
+| :----------------------------------------- | :--: | :--------: | :-------------------------------------------------------------- |
+| 🔬 **Science & Technology** (Q1–6)         | 4/6  | **67%** ✅ | Sai CRISPR (Q1) & Olo single-cone stimulation (Q3)              |
+| 📜 **History/Geography** (Q7–10, Q13, Q15) | 3/6  | **50%** ❌ | Sai Q10 (blue dragon), Q13 (Bưu điện TP), Q15 (rừng ngập mặn)   |
+| 🧮 **Math & Logic** (Q11–12, Q14, Q16–17)  | 2/5  | **40%** ❌ | Sai Q14 (toán bán vé số), Q16 (dãy số), Q17 (thể tích hình trụ) |
+| 🎋 **Văn học & Văn hóa** (Q18–20)          | 2/3  | **67%** ✅ | Sai Q18 (thơ "Đất nước" - nhầm hương cốm)                       |
 
 ### 📈 Phân tích
 
@@ -61,38 +61,38 @@ description: "MC 11: 11/20 (55%) — Văn hóa 3/3, Science 4/6, Math & Logic 2/
 
 ### Part I: Science & Technology 🔬
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic |
-|:---:|:-------:|:------:|:-------:|:------|
-| 1 | A | B | ❌ | CRISPR gene-editing & dire wolf de-extinction |
-| 2 | C | C | ✅ | Dire wolf vs grey wolf genetic differences |
-| 3 | D | B | ❌ | Olo — single cone cell artificial stimulation |
-| 4 | D | D | ✅ | Distance / speed = time calculation |
-| 5 | B | B | ✅ | Mycelium-based materials biodegradability |
-| 6 | B | B | ✅ | Speed reduction percentage calculation |
+| Câu | Trả lời | Đáp án | Kết quả | Topic                                         |
+| :-: | :-----: | :----: | :-----: | :-------------------------------------------- |
+|  1  |    A    |   B    |   ❌    | CRISPR gene-editing & dire wolf de-extinction |
+|  2  |    C    |   C    |   ✅    | Dire wolf vs grey wolf genetic differences    |
+|  3  |    D    |   B    |   ❌    | Olo — single cone cell artificial stimulation |
+|  4  |    D    |   D    |   ✅    | Distance / speed = time calculation           |
+|  5  |    B    |   B    |   ✅    | Mycelium-based materials biodegradability     |
+|  6  |    B    |   B    |   ✅    | Speed reduction percentage calculation        |
 
 ### Part II: Social Studies, Math & Logic 📜🧮
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic |
-|:---:|:-------:|:------:|:-------:|:------|
-| 7 | B | B | ✅ | Imperial Citadel of Thăng Long (Lý Dynasty) |
-| 8 | B | B | ✅ | Record flooding 2025 — multiple typhoons |
-| 9 | B | B | ✅ | Mekong Delta floating markets |
-| 10 | A | B | ❌ | Blue dragon (Glaucus atlanticus) — venom storage |
-| 11 | A | A | ✅ | Trap distribution — 18 extra traps ÷ 9 zones |
-| 12 | B | B | ✅ | Average speed — 60 km in 9 hours |
-| 13 | A | B | ❌ | Saigon Central Post Office (Gustave Eiffel) |
-| 14 | C | A | ❌ | Bottle collection — equation with 3 variables |
-| 15 | C | B | ❌ | Cần Giờ mangrove — coastal barrier function |
-| 16 | B | D | ❌ | Sequence: product of two preceding terms |
-| 17 | A | C | ❌ | Cylinder volume — 60% full, 1848 L |
+| Câu | Trả lời | Đáp án | Kết quả | Topic                                            |
+| :-: | :-----: | :----: | :-----: | :----------------------------------------------- |
+|  7  |    B    |   B    |   ✅    | Imperial Citadel of Thăng Long (Lý Dynasty)      |
+|  8  |    B    |   B    |   ✅    | Record flooding 2025 — multiple typhoons         |
+|  9  |    B    |   B    |   ✅    | Mekong Delta floating markets                    |
+| 10  |    A    |   B    |   ❌    | Blue dragon (Glaucus atlanticus) — venom storage |
+| 11  |    A    |   A    |   ✅    | Trap distribution — 18 extra traps ÷ 9 zones     |
+| 12  |    B    |   B    |   ✅    | Average speed — 60 km in 9 hours                 |
+| 13  |    A    |   B    |   ❌    | Saigon Central Post Office (Gustave Eiffel)      |
+| 14  |    C    |   A    |   ❌    | Bottle collection — equation with 3 variables    |
+| 15  |    C    |   B    |   ❌    | Cần Giờ mangrove — coastal barrier function      |
+| 16  |    B    |   D    |   ❌    | Sequence: product of two preceding terms         |
+| 17  |    A    |   C    |   ❌    | Cylinder volume — 60% full, 1848 L               |
 
 ### Part III: Vietnamese Culture & Literature 🎋
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic |
-|:---:|:-------:|:------:|:-------:|:------|
-| 18 | D | B | ❌ | Thơ thu — hương cốm mới gợi nhớ Hà Nội |
-| 19 | B | B | ✅ | Dế Mèn phiêu lưu ký — ăn uống điều độ |
-| 20 | B | B | ✅ | Phong tục xông đất đầu năm |
+| Câu | Trả lời | Đáp án | Kết quả | Topic                                  |
+| :-: | :-----: | :----: | :-----: | :------------------------------------- |
+| 18  |    D    |   B    |   ❌    | Thơ thu — hương cốm mới gợi nhớ Hà Nội |
+| 19  |    B    |   B    |   ✅    | Dế Mèn phiêu lưu ký — ăn uống điều độ  |
+| 20  |    B    |   B    |   ✅    | Phong tục xông đất đầu năm             |
 
 ---
 

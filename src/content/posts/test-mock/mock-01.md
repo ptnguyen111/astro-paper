@@ -31,17 +31,17 @@ MOCK TEST #1 — NĂM HỌC 2025-2026
 
 MÔN: ĐÁNH GIÁ NĂNG LỰC (90 phút)
 
-Họ và tên: _________________________    Lớp: _____    SBD: ________
+Họ và tên: ************\_************ Lớp: **\_** SBD: **\_\_\_\_**
 
-Ngày thi: ____/____/2026    Phòng thi: _____
+Ngày thi: \_**\_/\_\_**/2026 Phòng thi: **\_**
 
-| 🧪 A. Trắc nghiệm (40đ) | 📘 B1. English (30đ) | 🔢 B2. Toán (15đ) | 🇻🇳 B3. Văn (15đ) | 🏆 TỔNG |
-|---|---|---|---|---|
-| ___/40 | ___/30 | ___/15 | ___/15 | ___/100 |
+| 🧪 A. Trắc nghiệm (40đ) | 📘 B1. English (30đ) | 🔢 B2. Toán (15đ) | 🇻🇳 B3. Văn (15đ) | 🏆 TỔNG    |
+| ----------------------- | -------------------- | ----------------- | ---------------- | ---------- |
+| \_\_\_/40               | \_\_\_/30            | \_\_\_/15         | \_\_\_/15        | \_\_\_/100 |
 
-*Thời gian làm bài: 90 phút (không kể thời gian phát đề)*
+_Thời gian làm bài: 90 phút (không kể thời gian phát đề)_
 
-*Thí sinh không được sử dụng tài liệu và máy tính bỏ túi.*
+_Thí sinh không được sử dụng tài liệu và máy tính bỏ túi._
 
 ---
 
@@ -49,7 +49,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ## BÀI KHẢO SÁT SỐ 1 — TRẮC NGHIỆM (40 điểm — 30 phút)
 
-*Khoanh tròn chữ cái trước câu trả lời đúng nhất (A, B, C hoặc D).*
+_Khoanh tròn chữ cái trước câu trả lời đúng nhất (A, B, C hoặc D)._
 
 ---
 
@@ -231,7 +231,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ### Câu 12 (English)
 
-> Choose the best option: &quot;My brother is not tall enough _____ the top shelf.&quot;
+> Choose the best option: &quot;My brother is not tall enough **\_** the top shelf.&quot;
 
 **A**. reaching \
 **B**. to reach \
@@ -360,8 +360,8 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 ### Câu 20 (Văn)
 
 > Đọc hai câu thơ sau và cho biết biện pháp tu từ nào được sử dụng?
-> *&quot;Trâu ơi, ta bảo trâu này*
-> *Trâu ra ngoài ruộng, trâu cày với ta.&quot;*
+> _&quot;Trâu ơi, ta bảo trâu này_
+> _Trâu ra ngoài ruộng, trâu cày với ta.&quot;_
 
 **A**. So sánh \
 **B**. Nhân hóa \
@@ -375,7 +375,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ---
 
-*— HẾT PHẦN TRẮC NGHIỆM —*
+_— HẾT PHẦN TRẮC NGHIỆM —_
 
 ## BÀI KHẢO SÁT SỐ 2 — TIẾNG ANH (30 điểm — 60 phút)
 
@@ -394,17 +394,17 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ## I. CLOZE (8 điểm — 2đ/câu)
 
-*Read the passage. Choose the correct form of the word in brackets to fill each blank.*
+_Read the passage. Choose the correct form of the word in brackets to fill each blank._
 
 > **Robots in Our Lives**
 >
-> Robots are becoming more common in our daily lives. In factories, robots can (1) ______ (performer) repetitive tasks without getting tired. Some hospitals use robots to help doctors during (2) ______ (surgery) operations. In the future, robots may be able to (3) ______ (communication) with humans more naturally. Many scientists believe that robots will never (4) ______ (replacement) humans completely, but they will make our lives easier.
+> Robots are becoming more common in our daily lives. In factories, robots can (1) **\_\_** (performer) repetitive tasks without getting tired. Some hospitals use robots to help doctors during (2) **\_\_** (surgery) operations. In the future, robots may be able to (3) **\_\_** (communication) with humans more naturally. Many scientists believe that robots will never (4) **\_\_** (replacement) humans completely, but they will make our lives easier.
 
 ---
 
 ### Question 1
 
-> can (1) ______ (performer)
+> can (1) **\_\_** (performer)
 
 <details name="question-1">
     <summary><i>Show answer key</i></summary>    
@@ -415,7 +415,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ### Question 2
 
-> during (2) ______ (surgery) operations
+> during (2) **\_\_** (surgery) operations
 
 <details name="question-2">
     <summary><i>Show answer key</i></summary>    
@@ -426,7 +426,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ### Question 3
 
-> be able to (3) ______ (communication)
+> be able to (3) **\_\_** (communication)
 
 <details name="question-3">
     <summary><i>Show answer key</i></summary>    
@@ -437,7 +437,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ### Question 4
 
-> will never (4) ______ (replacement)
+> will never (4) **\_\_** (replacement)
 
 <details name="question-4">
     <summary><i>Show answer key</i></summary>    
@@ -448,7 +448,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ## II. READING COMPREHENSION (8 điểm — 2đ/câu)
 
-*Read the passage and answer the questions that follow.*
+_Read the passage and answer the questions that follow._
 
 > **The Great Barrier Reef**
 >
@@ -517,7 +517,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ## III. REARRANGE WORDS (8 điểm — 2đ/câu)
 
-*Rearrange the words to make complete sentences. Use each word once.*
+_Rearrange the words to make complete sentences. Use each word once._
 
 ---
 
@@ -567,7 +567,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ## IV. WRITE FROM CUES (6 điểm — 2đ/câu)
 
-*Write complete sentences using the cues given. Do NOT write more than 15 words.*
+_Write complete sentences using the cues given. Do NOT write more than 15 words._
 
 ---
 
@@ -604,11 +604,11 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ---
 
-*— HẾT PHẦN TIẾNG ANH —*
+_— HẾT PHẦN TIẾNG ANH —_
 
 ## PHẦN TOÁN & IQ (15 điểm — 30 phút)
 
-*Trình bày lời giải chi tiết cho mỗi bài toán. Thí sinh không được sử dụng máy tính bỏ túi.*
+_Trình bày lời giải chi tiết cho mỗi bài toán. Thí sinh không được sử dụng máy tính bỏ túi._
 
 ---
 
@@ -678,7 +678,6 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 > Nhà trường dự định mua thêm truyện thiếu nhi để số truyện thiếu nhi chiếm 40% tổng số sách. Hỏi cần mua thêm ít nhất bao nhiêu quyển truyện thiếu nhi?
 
-
 <details name="question-3-a">
     <summary><i>Show answer key — a) (3 điểm)</i></summary>    
     <i class="answer-key">
@@ -721,7 +720,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ---
 
-*— HẾT PHẦN TOÁN & IQ —*
+_— HẾT PHẦN TOÁN & IQ —_
 
 ## PHẦN ĐỌC HIỂU VÀ LÀM VĂN (15 điểm — 30 phút)
 
@@ -729,7 +728,7 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ### Câu 1. Đọc hiểu (8 điểm)
 
-*Đọc đoạn văn sau và trả lời các câu hỏi.*
+_Đọc đoạn văn sau và trả lời các câu hỏi._
 
 > **Học từ thất bại**
 >
@@ -806,4 +805,4 @@ Ngày thi: ____/____/2026    Phòng thi: _____
 
 ---
 
-*— HẾT —*
+_— HẾT —_

@@ -41,13 +41,13 @@ description: "Smoke 05: 13/20 (65%) — English strong (3/3), Science & Maths ne
 
 **📊 Điểm tổng: 77/100** (từ MC + Đọc hiểu + Bài văn)
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 **Science** (Q1–6) | 3/6 | **50%** ❌ | Sai cơ bản: tropism, fossil types, phase changes |
-| 📜 **History** (Q7–10) | 2/4 | **50%** ❌ | Sai địa lý VN — cần ôn kiến thức liên vùng |
-| 🧮 **Maths & IQ** (Q11–14) | 2/4 | **50%** ❌ | Sai rate/time & logic — mất thời gian suy luận |
-| 📘 **English** (Q15–17) | 3/3 | **100%** ✅ | Perfect! Phần mạnh nhất |
-| 📖 **Literature** (Q18–20) | 2/3 | **66%** ✅ | Gần perfect — sai 1 câu ca dao |
+| Môn                        | Đúng |    Tỉ lệ    | Nhận xét                                         |
+| :------------------------- | :--: | :---------: | :----------------------------------------------- |
+| 🔬 **Science** (Q1–6)      | 3/6  | **50%** ❌  | Sai cơ bản: tropism, fossil types, phase changes |
+| 📜 **History** (Q7–10)     | 2/4  | **50%** ❌  | Sai địa lý VN — cần ôn kiến thức liên vùng       |
+| 🧮 **Maths & IQ** (Q11–14) | 2/4  | **50%** ❌  | Sai rate/time & logic — mất thời gian suy luận   |
+| 📘 **English** (Q15–17)    | 3/3  | **100%** ✅ | Perfect! Phần mạnh nhất                          |
+| 📖 **Literature** (Q18–20) | 2/3  | **66%** ✅  | Gần perfect — sai 1 câu ca dao                   |
 
 ### 📈 Phân tích
 
@@ -70,57 +70,60 @@ description: "Smoke 05: 13/20 (65%) — English strong (3/3), Science & Maths ne
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:---|:-----------:|:-----------:|:-------:|
-| 1 | Science | B | B | ✅ |
-| 2 | Science | D | D | ✅ |
-| 3 | Science | D | D | ✅ |
-| 4 | Science | B | C | ❌ |
-| 5 | Science | C | A | ❌ |
-| 6 | Science | A | B | ❌ |
-| 7 | History | C | C | ✅ |
-| 8 | History | A | C | ❌ |
-| 9 | History | B | B | ✅ |
-| 10 | History | A | A | ✅ |
-| 11 | Maths | D | D | ✅ |
-| 12 | Maths | A | D | ❌ |
-| 13 | Maths/IQ | B | D | ❌ |
-| 14 | Maths/IQ | A | A | ✅ |
-| 15 | English | D | D | ✅ |
-| 16 | English | D | D | ✅ |
-| 17 | English | C | C | ✅ |
-| 18 | Literature | B | B | ✅ |
-| 19 | Literature | A | A | ✅ |
-| 20 | Literature | A | C | ❌ |
+| Câu | Môn        | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :--------- | :---------: | :---------: | :-----: |
+|  1  | Science    |      B      |      B      |   ✅    |
+|  2  | Science    |      D      |      D      |   ✅    |
+|  3  | Science    |      D      |      D      |   ✅    |
+|  4  | Science    |      B      |      C      |   ❌    |
+|  5  | Science    |      C      |      A      |   ❌    |
+|  6  | Science    |      A      |      B      |   ❌    |
+|  7  | History    |      C      |      C      |   ✅    |
+|  8  | History    |      A      |      C      |   ❌    |
+|  9  | History    |      B      |      B      |   ✅    |
+| 10  | History    |      A      |      A      |   ✅    |
+| 11  | Maths      |      D      |      D      |   ✅    |
+| 12  | Maths      |      A      |      D      |   ❌    |
+| 13  | Maths/IQ   |      B      |      D      |   ❌    |
+| 14  | Maths/IQ   |      A      |      A      |   ✅    |
+| 15  | English    |      D      |      D      |   ✅    |
+| 16  | English    |      D      |      D      |   ✅    |
+| 17  | English    |      C      |      C      |   ✅    |
+| 18  | Literature |      B      |      B      |   ✅    |
+| 19  | Literature |      A      |      A      |   ✅    |
+| 20  | Literature |      A      |      C      |   ❌    |
 
 ---
 
 ## ⏳ Các Phần Chưa Hoàn Thành
 
 ### 📖 Reading (16 điểm)
-| # | Đáp án đúng | Điểm |
-|:-:|:-----------:|:----:|
-| 1 | **A** (It's when you feel a little worried or upset) | 2đ |
-| 2 | **C** (green zone) | 2đ |
-| 3 | **A** (how to build strong feelings and find your resilient zone) | 2đ |
-| 4 | **False** | 2đ |
-| 5 | **False** | 2đ |
-| 6 | **False** | 2đ |
-| 7 | Breathing slowly, thinking of good things, talking to someone we trust | 2đ |
-| 8 | deal / handle | 2đ |
+
+|  #  |                              Đáp án đúng                               | Điểm |
+| :-: | :--------------------------------------------------------------------: | :--: |
+|  1  |          **A** (It's when you feel a little worried or upset)          |  2đ  |
+|  2  |                           **C** (green zone)                           |  2đ  |
+|  3  |   **A** (how to build strong feelings and find your resilient zone)    |  2đ  |
+|  4  |                               **False**                                |  2đ  |
+|  5  |                               **False**                                |  2đ  |
+|  6  |                               **False**                                |  2đ  |
+|  7  | Breathing slowly, thinking of good things, talking to someone we trust |  2đ  |
+|  8  |                             deal / handle                              |  2đ  |
 
 ### ✍️ Writing (6 điểm)
-| # | Đáp án mẫu | Điểm |
-|:-:|:----------:|:----:|
-| Task 1 | If Rosie doesn't finish her homework, she will not go outside this weekend. | 3đ |
-| Task 2a | (My) Mom thinks my sister(s) will not / won't get bad score(s) in the test tomorrow. | 1.5đ |
+
+|    #    |                                           Đáp án mẫu                                            | Điểm |
+| :-----: | :---------------------------------------------------------------------------------------------: | :--: |
+| Task 1  |           If Rosie doesn't finish her homework, she will not go outside this weekend.           |  3đ  |
+| Task 2a |      (My) Mom thinks my sister(s) will not / won't get bad score(s) in the test tomorrow.       | 1.5đ |
 | Task 2b | The beautiful flowers have been planted in the park by (the / some) volunteers since last week. | 1.5đ |
 
 ### 🧮 Toán & IQ (7 điểm)
-| # | Đáp án | Điểm |
-|:-:|:------:|:----:|
-| 1 | **5 trận** | 3đ |
-| 2 | Thứ Sáu tuần 1: **45 phút** | 4đ |
+
+|  #  |           Đáp án            | Điểm |
+| :-: | :-------------------------: | :--: |
+|  1  |         **5 trận**          |  3đ  |
+|  2  | Thứ Sáu tuần 1: **45 phút** |  4đ  |
 
 ---
 

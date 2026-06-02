@@ -13,20 +13,21 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 
 ## Table of contents
 
-
 ## BÀI KHẢO SÁT SỐ 1
 
 **Thời gian: 30 phút (không kể thời gian phát đề)**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Question 1
+
 > When a cold glass of water is left out in the air, small droplets of water appear on the outside surface of the glass. What is the correct explanation?
 
 **A.** Water can pass through the glass material. \
 **B.** Water inside the glass evaporates and sticks to the outer surface. \
 **C.** Water vapor in the air cools down and condenses into liquid on the glass surface. \
 **D.** The glass is cracked, and water leaks from the inside to the outside.
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Hơi nước trong không khí gặp lạnh → ngưng tụ thành giọt nước trên thành cốc.</em></i>
@@ -35,12 +36,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 2
+
 > Which of the following actions is an effective way to save electricity at home?
 
 **A.** Washing clothes in the washing machine every single day. \
 **B.** Replacing old light bulbs with energy-efficient LED bulbs. \
 **C.** Using air conditioners at maximum power during all seasons. \
 **D.** Letting the refrigerator door stay open for a long period of time.
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Thay bóng đèn cũ bằng LED tiết kiệm điện. Các lựa chọn còn lại đều gây lãng phí.</em></i>
@@ -49,12 +52,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 3
+
 > Look at the three groups of foods: (1) rice + bread, (2) eggs + meat + fish, (3) vegetables + fruit. What is the main purpose of each group?
 
 **A.** (1) for energy; (2) for growth; (3) for health \
 **B.** (1) for health; (2) for energy; (3) for growth \
 **C.** (1) for growth; (2) for health; (3) for energy \
 **D.** (1) for energy; (2) for health; (3) for growth
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>(1) cơm/bánh mì = tinh bột → năng lượng; (2) trứng/thịt/cá = protein → tăng trưởng; (3) rau/quả = vitamin → sức khỏe.</em></i>
@@ -63,12 +68,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 4
+
 > Which tool is essential for observing and studying bacteria?
 
 **A.** Magnifying glass \
 **B.** Telescope \
 **C.** Microscope \
 **D.** Binoculars
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Kính hiển vi là dụng cụ phóng đại cần thiết để quan sát vi khuẩn.</em></i>
@@ -77,12 +84,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 5
+
 > Look at the four circuits: Circuit 1 = 1 bulb + 1 battery, Circuit 2 = 2 bulbs + 1 battery, Circuit 3 = 3 bulbs + 1 battery, Circuit 4 = 4 bulbs + 1 battery. Predict which circuit will have the brightest lamp.
 
 **A.** Circuit 1 \
 **B.** Circuit 2 \
 **C.** Circuit 3 \
 **D.** Circuit 4
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Mạch nối tiếp: càng nhiều bóng, mỗi bóng càng yếu. Mạch 1 (1 bóng) sáng nhất.</em></i>
@@ -91,12 +100,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 6
+
 > A scientist tested the effects of acidity on plant health. Results: pH2 = 10 dead, pH4 = 3 dead, pH6 = 1 dead, pH7 = 0 dead. Which statement best describes the relationship?
 
 **A.** High acidity damages plants and causes more deaths. \
 **B.** High acidity improves plant health and growth. \
 **C.** Low acidity quickly kills all types of plants. \
 **D.** Neutral pH causes more harm than acidic solutions.
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>pH càng thấp (càng acid), cây chết càng nhiều → độ acid cao làm hại cây.</em></i>
@@ -105,12 +116,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 7
+
 > An ancient sundial — a limestone disk divided into 12 sections with a metal rod — was discovered in 2013. Which ancient civilization did it come from?
 
 **A.** Ancient Greece \
 **B.** Ancient Egypt \
 **C.** Ancient China \
 **D.** Ancient Rome
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Đồng hồ mặt trời cổ Ai Cập — đĩa đá vôi 12 phần, lõi kim loại tạo bóng.</em></i>
@@ -119,12 +132,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 8
+
 > Match the historical figures under the Trần dynasty. (1) Trần Quốc Tuấn — (a) Gathered households, trained army; (2) Chu Văn An — (b) Sat pondering how to fight; (3) Phạm Ngũ Lão — (c) Used tidal currents on Bạch Đằng; (4) Trần Quốc Toản — (d) Scholar, Principal of Quốc Tử Giám
 
 **A.** 1-(b); 2-(c); 3-(a); 4-(d) \
 **B.** 1-(c); 2-(d); 3-(a); 4-(b) \
 **C.** 1-(c); 2-(d); 3-(b); 4-(a) \
 **D.** 1-(c); 2-(a); 3-(b); 4-(d)
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Trần Quốc Tuấn (c) Bạch Đằng; Chu Văn An (d) Quốc Tử Giám; Phạm Ngũ Lão (b); Trần Quốc Toản (a).</em></i>
@@ -133,12 +148,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 9
+
 > How many centrally governed cities (thành phố trực thuộc Trung ương) are there in Vietnam now?
 
 **A.** Three \
 **B.** Four \
 **C.** Five \
 **D.** Six
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>6 thành phố trực thuộc Trung ương: HN, HP, ĐN, HCM, CT, Huế (2024).</em></i>
@@ -147,12 +164,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 10
+
 > In 1954, musician Hoàng Vân composed a song about soldiers pulling heavy artillery across mountains. Which event is this song associated with?
 
 **A.** The August Revolution \
 **B.** The Điện Biên Phủ Campaign \
 **C.** The Hồ Chí Minh Campaign \
 **D.** The Reunification of Vietnam
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Bài hát "Hò kéo pháo" — Hoàng Vân sáng tác 1954 — gắn với Chiến dịch Điện Biên Phủ.</em></i>
@@ -161,12 +180,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 11
+
 > Observe the pattern: Figure 1 (0 grey, 1 white), Figure 2 (1 grey, 3 white), Figure 3 (4 grey, 9 white), Figure 4 (13 grey, 27 white). How many statements are CORRECT? (1. Figure 5 has 40 grey; 2. Figure 6 has 81 white; 3. Figure 6 has 364 total; 4. Figure 7 has 729 more grey than Figure 6)
 
 **A.** 1 \
 **B.** 2 \
 **C.** 3 \
 **D.** 4
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Grey: 0→1→4→13 (×3+1): F5=40, F6=121. White: 1→3→9→27 (×3): F6=729. Total F6=121+729=850. F7 grey=364, diff=243. Câu 1 đúng, 2 sai (81? F6=729), 3 sai, 4 sai. → 2 câu đúng.</em></i>
@@ -175,12 +196,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 12
+
 > A square paper (perimeter 72 cm) is cut into 2 identical parts and rearranged into a rectangle. Find the rectangle's perimeter.
 
 **A.** 80 cm \
 **B.** 78 cm \
 **C.** 76 cm \
 **D.** 74 cm
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Cạnh HV: 72÷4=18cm. CR HCN mới: 18×2/3=12cm, CD: 18×3/2=27cm. Chu vi: (12+27)×2=78cm.</em></i>
@@ -189,12 +212,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 13
+
 > A full box of buttons weighs 950 g. After giving away a quarter of the buttons, it weighs 770 g. What is the mass of the empty box?
 
 **A.** 230 g \
 **B.** 200 g \
 **C.** 180 g \
 **D.** 720 g
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>1/4 số nút: 950−770=180g. Cả nút: 180×4=720g. Vỏ hộp: 950−720=230g.</em></i>
@@ -203,12 +228,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 14
+
 > Numbers 1 to 55. At least how many must be drawn to guarantee two numbers summing to 24?
 
 **A.** 12 \
 **B.** 45 \
 **C.** 48 \
 **D.** 25
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Cặp tổng 24: (1,23)(2,22)...(11,13). Nhóm 1: 1-11 (11 số), Nhóm 2: 13-23 (11 số), Nhóm 3: 12,24-55 (33 số). Cần lấy: 33+11+1=45 số.</em></i>
@@ -217,12 +244,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 15
+
 > Which word is stressed differently?
 
 **A.** en-gi-NEER \
 **B.** as-SIS-tant \
 **C.** pho-TO-gra-pher \
 **D.** ac-COUN-tant
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>engineer nhấn âm cuối. Các từ còn lại nhấn âm thứ hai.</em></i>
@@ -231,12 +260,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 16
+
 > Choose the best response: Alex: "It's way too noisy and hot here!" Anna: \_\_\_\_\_\_\_
 
 **A.** I know this great book. \
 **B.** Really? Let's have a drink! \
 **C.** How do you feel about it? \
 **D.** That's a great idea! I'm sweating.
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>"That's a great idea! I'm sweating" — Anna đồng ý đổi quán vì cũng thấy nóng.</em></i>
@@ -245,12 +276,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 17
+
 > John is \_\_\_\_\_\_ of taking his dog for a walk every evening.
 
 **A.** keen \
 **B.** fond \
 **C.** interested \
 **D.** excited
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>"fond of" = thích. Các từ còn lại đi với giới từ khác: keen ON, interested IN, excited ABOUT.</em></i>
@@ -259,12 +292,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 18
+
 > Từ "hẹp" trong câu "Sự hiểu biết của tôi về thiên văn học còn hẹp lắm" được dùng với nghĩa gì?
 
 **A.** Có kích thước dưới mức trung bình về bề ngang. \
 **B.** Có phạm vi bị hạn chế trong một lĩnh vực nào đó. \
 **C.** Không rộng rãi, độ lượng trong đối xử. \
 **D.** Không rộng lượng, chỉ biết có mình.
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Nghĩa chuyển: phạm vi hiểu biết bị hạn chế trong một lĩnh vực.</em></i>
@@ -273,12 +308,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 19
+
 > Phương án nào chứa toàn tiếng "thành" giống với "thành" trong "thành thật"?
 
 **A.** thành trì, thành quách, thành tâm \
 **B.** trung thành, thành tín, thành khẩn \
 **C.** thành công, thành niên, thành lập \
 **D.** nhiệt thành, thành kính, thành tựu
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>"thành" trong "thành thật" là lòng chân thật. Trung thành, thành tín, thành khẩn cùng nghĩa này.</em></i>
@@ -287,19 +324,20 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 20
+
 > Chỉ ra điều SAI về liên kết câu: "Trái đất là nơi con người và động vật, thực vật sinh sống. Vì thế, chúng ta cần bảo vệ ngôi nhà chung này."
 
 **A.** Quan hệ nguyên nhân - kết quả \
 **B.** Liên kết bằng phép thế \
 **C.** Liên kết bằng phép nối \
 **D.** Liên kết bằng phép lặp
+
 <details name="question-20">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Phép lặp sai vì không có từ nào được lặp lại giữa hai câu. "ngôi nhà chung" là phép thế cho "Trái đất".</em></i>
 </details>
 
 ---
-
 
 ## BÀI KHẢO SÁT SỐ 2 - PHẦN TIẾNG ANH
 
@@ -320,6 +358,7 @@ Read the following passage and answer the questions.
 **D.** However, it is not difficult to reduce light pollution. We can all turn lights off when they're unnecessary, and we can cover our windows with curtains. If there is less light pollution, we will once again be able to enjoy the beauty of the night sky.
 
 ### Question 1
+
 > Why was the light turned off on 26 September 2019?
 > (A. There was a problem with the electricity / B. There was a car accident / C. To allow people to go outside and look at the stars)
 > Answer: \_\_\_\_\_\_
@@ -332,6 +371,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 2
+
 > Choose the statement that best describes "light pollution."
 > (A. It happens when the streets go dark / B. It happens when there is a problem with the electricity / C. It happens when light from streetlights or buildings makes the night less dark)
 > Answer: \_\_\_\_\_\_
@@ -344,6 +384,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 3
+
 > Choose the best headline for paragraph B.
 > (A. What humans are missing out / B. A threat to nature / C. Actions that should be taken)
 > Answer: \_\_\_\_\_\_
@@ -356,6 +397,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 4
+
 > True or False? "Light pollution only causes minor issues for humans like difficulty in sleeping and headaches."
 > Answer: \_\_\_\_\_\_
 
@@ -367,6 +409,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 5
+
 > True or False? "The writer thinks it's a pity that people today cannot enjoy the night sky."
 > Answer: \_\_\_\_\_\_
 
@@ -378,6 +421,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 6
+
 > True or False? "Paragraph D suggests that simple actions like turning off unnecessary lights can reduce light pollution."
 > Answer: \_\_\_\_\_\_
 
@@ -389,6 +433,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 7
+
 > What is **ONE** of the ways light pollution negatively affects nature?
 > Answer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -400,6 +445,7 @@ Read the following passage and answer the questions.
 ---
 
 ### Question 8
+
 > Find **ONE** word in the passage that means "hit something or someone very hard or in a violent way."
 > Answer: \_\_\_\_\_\_
 
@@ -417,6 +463,7 @@ Read the following passage and answer the questions.
 > he / speaks / last year / than / Tuan / did / more fluently / English //
 
 #### Question 9
+
 > he / speaks / last year / than / Tuan / did / more fluently / English //
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -430,6 +477,7 @@ Read the following passage and answer the questions.
 **Task 2: Write complete sentences. Max 15 words each. (4 points)**
 
 #### Question 10
+
 > we / never / try / parachute / before / because / it / be / danger / children //
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -441,6 +489,7 @@ Read the following passage and answer the questions.
 ---
 
 #### Question 11
+
 > last time / I / play / badminton / national team / be / two years ago //
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -451,12 +500,11 @@ Read the following passage and answer the questions.
 
 ---
 
-
 ## PHẦN TOÁN & IQ
 
 **Thời gian: 30 phút**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Câu 1 (3 điểm)
 
@@ -519,7 +567,6 @@ Bài làm:
 </details>
 
 ---
-
 
 ## PHẦN ĐỌC HIỂU & LÀM VĂN
 
@@ -597,7 +644,7 @@ Voi và Nhím vỗ tay không ngớt.
 
 Chiếc máy bay — không bao giờ cất cánh. Nhưng niềm vui của các hành khách đã bay tít tận chín tầng mây...
 
-*(Theo Đào Khương Duy, "Giải xuất sắc nhất" — Đồ họa đồng thoại, 2023)*
+_(Theo Đào Khương Duy, "Giải xuất sắc nhất" — Đồ họa đồng thoại, 2023)_
 
 **a) (2 điểm)** Theo câu chuyện, Hươu cao cổ có ước mơ gì mà không thực hiện được? Những nhân vật nào có cùng ước mơ bất thành như Hươu?
 

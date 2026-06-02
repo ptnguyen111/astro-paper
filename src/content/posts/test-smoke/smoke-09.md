@@ -13,20 +13,21 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 
 ## Table of contents
 
-
 ## BÀI KHẢO SÁT SỐ 1
 
 **Thời gian: 30 phút (không kể thời gian phát đề)**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Question 1
+
 > Jerry is feeling unwell and thinks he might have a fever. Which of the following tools should he use to check his body temperature accurately?
 
 **A.** Digital thermometer \
 **B.** Alarm clock \
 **C.** Protractor \
 **D.** Scale
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Digital thermometer đo nhiệt độ cơ thể. Các dụng cụ khác không đo được.</em></i>
@@ -35,12 +36,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 2
+
 > Planets in our Solar System come in many different sizes. Which of the following correctly arranges these planets from the **smallest** to the **largest** in size?
 
 **A.** Uranus → Earth → Mercury → Jupiter \
 **B.** Mercury → Earth → Uranus → Jupiter \
 **C.** Earth → Mercury → Uranus → Jupiter \
 **D.** Mercury → Uranus → Earth → Jupiter
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Mercury (nhỏ nhất) → Earth → Uranus → Jupiter (lớn nhất).</em></i>
@@ -49,12 +52,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 3
+
 > Bella accidentally mixed sand with water. She wants to separate the solid sand from the liquid water. Which method should she use?
 
 **A.** Freezing the mixture to trap the sand in ice \
 **B.** Filtration using a filter and funnel \
 **C.** Condensation to collect water from steam \
 **D.** Magnetism to pull out the sand
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Filtration (lọc) dùng phễu + giấy lọc để tách cát rắn ra khỏi nước lỏng.</em></i>
@@ -63,12 +68,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 4
+
 > In the food web below, how should rodents be classified? (They eat small leafy plants)
 
 **A.** Carnivore \
 **B.** Herbivore \
 **C.** Omnivore \
 **D.** Producer
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Rodents ăn cả thực vật và động vật → omnivore (ăn tạp).</em></i>
@@ -77,12 +84,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 5
+
 > A science class wanted to know if a golf ball and a table tennis ball would roll the same distance after rolling down a ramp. Which of the following shows a **fair test** of this idea? (Diagram A: same ramp height, same ramp length)
 
 **A.** Diagram A (same ramp height, same ramp length) \
 **B.** Diagram B \
 **C.** Diagram C \
 **D.** Diagram D
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Fair test: cùng độ cao, cùng máng nghiêng, chỉ khác loại bóng.</em></i>
@@ -91,12 +100,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 6
+
 > A student is testing how the width of elastic affects how far it stretches... What should the student do to improve this experiment and make it a fair test?
 
 **A.** Use blocks of equal mass on the four pieces of elastic. \
 **B.** Use blocks with enough mass to cause all elastic pieces to break. \
 **C.** Repeat the experiment at least three times and find the average. \
 **D.** Use four pieces of elastic with different lengths but the same width.
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Dùng khối lượng bằng nhau — giữ mọi yếu tố giống nhau, chỉ thay đổi bề rộng dây thun.</em></i>
@@ -105,12 +116,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 7
+
 > Which ocean is the deepest on Earth?
 
 **A.** Pacific Ocean \
 **B.** Atlantic Ocean \
 **C.** Indian Ocean \
 **D.** Southern Ocean
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Pacific Ocean chứa Mariana Trench (10,994 m) — điểm sâu nhất Trái Đất.</em></i>
@@ -119,12 +132,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 8
+
 > Huế is famous for many local specialties. Which of the following dishes is **NOT** originally from Huế?
 
 **A.** Nem công chả phượng \
 **B.** Bún bò Huế \
 **C.** Bánh bèo \
 **D.** Bún chả
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Bún chả là đặc sản Hà Nội, không phải từ Huế.</em></i>
@@ -133,12 +148,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 9
+
 > This king of the Later Lê Dynasty made agriculture the highest priority and issued the Hồng Đức Code. Who is he?
 
 **A.** Lê Thái Tổ \
 **B.** Lê Thánh Tông \
 **C.** Lê Túc Tông \
 **D.** Lê Huyền Tông
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Lê Thánh Tông — ban hành Luật Hồng Đức năm 1483, bộ luật tiến bộ nhất thời phong kiến.</em></i>
@@ -147,12 +164,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 10
+
 > In 1989, July 11 was chosen as World Population Day. Why did the United Nations choose this date?
 
 **A.** On July 11, 1986, the UN launched a global population awareness campaign. \
 **B.** On July 11, 1987, the world population reached 5 billion. \
 **C.** On July 11, 1988, the first report on world population was published. \
 **D.** On July 11, 1989, the UN created the Population Division.
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Ngày 11/7/1987 dân số thế giới đạt 5 tỷ — lý do UN chọn ngày này.</em></i>
@@ -161,12 +180,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 11
+
 > A store bought a TV for 10,800,000 VND. They planned to sell it for 20% more than the price they paid. However, they only sold it for 75% of that planned price. How much money did the store lose?
 
 **A.** 1,080,000 VND \
 **B.** 4,320,000 VND \
 **C.** 2,685,000 VND \
 **D.** 2,550,000 VND
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Giá bán dự định: 10,800,000 × 120% = 12,960,000đ. Giá bán thực tế: 12,960,000 × 75% = 9,720,000đ. Lỗ: 10,800,000 − 9,720,000 = 1,080,000đ.</em></i>
@@ -175,12 +196,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 12
+
 > Aaron, Darren, Karen, Maren, and Sharon rode on a small train that had five seats. Maren sat in the last seat. Sharon sat directly behind Aaron. Darren sat in one of the seats in front of Aaron. At least one person sat between Karen and Darren. Who sat in the first seat?
 
 **A.** Aaron \
 **B.** Darren \
 **C.** Karen \
 **D.** Sharon
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Xếp 5 ghế: D-A-S-K-M → Ghế đầu là Darren.</em></i>
@@ -189,12 +212,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 13
+
 > An empty cuboid water tank has a height of 60 cm and a base area of 35 dm². They put a decorative rock that is 35 cm tall and has a volume of 57 dm³ into the tank. How many liters of water need to be poured so that the water level is 15 cm higher than the top of the rock?
 
 **A.** 35 liters \
 **B.** 153 liters \
 **C.** 87.5 liters \
 **D.** 118 liters
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Mực nước cao hơn đỉnh đá 15cm = 50cm = 5dm. Thể tích nước + đá: 5×35=175dm³. Nước cần đổ: 175−57=118 lít.</em></i>
@@ -203,12 +228,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 14
+
 > The first car travels from city A to city B in 6 hours. The second car travels from B to A in 4 hours. At 6:15 am, the first car departs from A to B. Two hours later, the second car departs from B to A. At what time do they meet?
 
 **A.** 7:51 am \
 **B.** 9:51 am \
 **C.** 8:00 am \
 **D.** 8:30 am
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Xe 1 đi 2h = 1/3 QĐ. Còn 2/3. Vận tốc tương đối: 1/6+1/4=5/12. TG gặp: (2/3)/(5/12)=1.6h=1h36ph. 6:15+2h+1h36=9:51.</em></i>
@@ -217,12 +244,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 15
+
 > Choose the word that **does not** belong with the others.
 
 **A.** plum \
 **B.** papaya \
 **C.** guava \
 **D.** kettle
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Kettle (ấm đun nước) — không phải là trái cây như plum, papaya, guava.</em></i>
@@ -231,12 +260,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 16
+
 > Choose the word that has the **CLOSEST** meaning with the underlined word in the sentence: "When you are fluent in English, you can communicate with people from different cultures, and this alone will transform your **perspective**."
 
 **A.** talent \
 **B.** intelligence \
 **C.** method \
 **D.** viewpoint
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Perspective = góc nhìn/quan điểm. Viewpoint gần nghĩa nhất.</em></i>
@@ -245,12 +276,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 17
-> Choose the best option to fill in the blank: The company's products ________ at the agencies' stores if they refuse to accept our selling price.
+
+> Choose the best option to fill in the blank: The company's products **\_\_\_\_** at the agencies' stores if they refuse to accept our selling price.
 
 **A.** has been sold \
 **B.** aren't being sold \
 **C.** will be sold \
 **D.** won't be sold
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Câu điều kiện loại 1: if + V(simple present), will + V. "won't be sold" — bị động tương lai.</em></i>
@@ -259,12 +292,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 18
+
 > Trong các cặp từ sau, cặp từ nào **không phải** là cặp từ trái nghĩa?
 
 **A.** Đầy đủ — Thiếu thốn \
 **B.** Dung dị — Hoa mỹ \
 **C.** Tĩnh lặng — Ồn ào \
 **D.** Hữu ích — Xấu xa
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Hữu ích (có giá trị) và Xấu xa (tính cách xấu) — không phải cặp trái nghĩa.</em></i>
@@ -273,12 +308,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 19
+
 > Dấu câu thích hợp điền vào ô vuông trong câu dưới đây là dấu gì? "Cuộc sống hiện đại với những tiến bộ vượt bậc trong công nghệ [ ] đã thay đổi cách chúng ta giao tiếp với nhau."
 
 **A.** dấu gạch ngang (-) \
 **B.** dấu hai chấm (:) \
 **C.** dấu chấm (.) \
 **D.** dấu chấm phẩy (;)
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Dấu gạch ngang (−) dùng để thêm thông tin giải thích trong câu.</em></i>
@@ -287,19 +324,20 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 20
+
 > Trong các câu dưới đây, đâu là câu ghép có **HAI** vế câu?
 
 **A.** Mặc dù trời mưa rất to, nhưng tôi vẫn quyết định đi bộ đến trường vì tôi không muốn bỏ lỡ buổi học quan trọng. \
 **B.** Cô ấy đã hoàn thành bài kiểm tra với điểm số cao, và cô ấy cũng nhận được lời khen ngợi từ thầy giáo vì sự nỗ lực không ngừng nghỉ. \
 **C.** Chúng ta sẽ tổ chức buổi họp vào chiều mai nếu thời tiết không thay đổi, hoặc chúng ta sẽ hoãn lại nếu bão đến gần. \
 **D.** Mặc dù rất bận rộn với công việc nhưng anh vẫn dành thời gian tham gia các hoạt động từ thiện và giúp đỡ cộng đồng.
+
 <details name="question-20">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Câu B có 2 vế: "Cô ấy đã hoàn thành..." và "cô ấy cũng nhận được...", nối bằng "và".</em></i>
 </details>
 
 ---
-
 
 ## BÀI KHẢO SÁT SỐ 2 - PHẦN TIẾNG ANH
 
@@ -309,9 +347,10 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 
 **Task 1: Read the passage. Choose the word that best fits each space. (8 pts)**
 
-Learning is a continuous process that allows individuals to **(0)** ________ new skills and knowledge. To perform well in school, one must **(1)** ________ effective study habits and strategies. For example, creating a dedicated study space can significantly improve your concentration and memory. Additionally, distractions such as mobile phones and TVs should be **(2)** ________ during studying to make your learning process more effective. Engaging with peers **(3)** ________ participating in group discussions can also deepen your understanding of the material. Overall, maintaining a passion for learning is essential **(4)** ________ achieving personal and professional growth.
+Learning is a continuous process that allows individuals to **(0)** **\_\_\_\_** new skills and knowledge. To perform well in school, one must **(1)** **\_\_\_\_** effective study habits and strategies. For example, creating a dedicated study space can significantly improve your concentration and memory. Additionally, distractions such as mobile phones and TVs should be **(2)** **\_\_\_\_** during studying to make your learning process more effective. Engaging with peers **(3)** **\_\_\_\_** participating in group discussions can also deepen your understanding of the material. Overall, maintaining a passion for learning is essential **(4)** **\_\_\_\_** achieving personal and professional growth.
 
 ### Question 0
+
 > (A. create / B. obtain / C. lose)
 > Answer: \_\_\_\_\_\_
 
@@ -323,6 +362,7 @@ Learning is a continuous process that allows individuals to **(0)** ________ new
 ---
 
 ### Question 1
+
 > (A. develop / B. decrease / C. detach)
 > Answer: \_\_\_\_\_\_
 
@@ -334,6 +374,7 @@ Learning is a continuous process that allows individuals to **(0)** ________ new
 ---
 
 ### Question 2
+
 > (A. created / B. divided / C. avoided)
 > Answer: \_\_\_\_\_\_
 
@@ -345,6 +386,7 @@ Learning is a continuous process that allows individuals to **(0)** ________ new
 ---
 
 ### Question 3
+
 > (A. but / B. and / C. so)
 > Answer: \_\_\_\_\_\_
 
@@ -356,6 +398,7 @@ Learning is a continuous process that allows individuals to **(0)** ________ new
 ---
 
 ### Question 4
+
 > (A. for / B. into / C. of)
 > Answer: \_\_\_\_\_\_
 
@@ -375,6 +418,7 @@ Did you know that the planet's fastest land creature belongs to the big cat fami
 An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short bursts covering distances up to 500 metres. That's faster than a car driving in a city! Cheetahs have long legs and a lightweight body, which help them run quickly. They also have unique black spots on their golden fur, which serve as camouflage in tall grass. Cheetahs are known to hunt during the day, using their incredible speed to catch prey.
 
 ### Question 5
+
 > True or False? "Cheetahs are known for their ability to run very fast."
 > Answer: \_\_\_\_\_\_
 
@@ -386,6 +430,7 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 ---
 
 ### Question 6
+
 > True or False? "Cheetahs can reach speeds of up to 80 miles per hour."
 > Answer: \_\_\_\_\_\_
 
@@ -397,6 +442,7 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 ---
 
 ### Question 7
+
 > According to the passage, what is the purpose of the unique black spots on a cheetah's golden fur?
 > Answer: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -408,6 +454,7 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 ---
 
 ### Question 8
+
 > Write down **ONE** word from the passage that means "an animal that is hunted and killed for food by another animal."
 > Answer: \_\_\_\_\_\_
 
@@ -425,6 +472,7 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 > you / successful / if / be / sooner or later / hard / you / work / will //
 
 ### Question 9
+
 > you / successful / if / be / sooner or later / hard / you / work / will //
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -438,6 +486,7 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 **Task 2: Write complete sentences. Max 15 words each. (4 points)**
 
 ### Question 10
+
 > Anna / want / thank you / give / she / new pen / yesterday //
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -449,6 +498,7 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 ---
 
 ## Question 11
+
 > my parents / be / old / so / it / hard / they / read books / without glasses //
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -459,12 +509,11 @@ An adult cheetah can reach speeds of up to 60 to 70 miles per hour in short burs
 
 ---
 
-
 ## PHẦN TOÁN & IQ
 
 **Thời gian: 30 phút**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Câu 1 (3 điểm)
 
@@ -528,7 +577,6 @@ Bài làm:
 
 ---
 
-
 ## PHẦN ĐỌC HIỂU & LÀM VĂN
 
 **Thời gian: 30 phút**
@@ -581,7 +629,7 @@ Vẫn dẫn chúng em đi trọn vẹn cuộc đời...
 
 — 1972 —
 
-*(Theo Trần Đăng Khoa, Góc sân và Khoảng trời, NXB Hồng Đức, 2022)*
+_(Theo Trần Đăng Khoa, Góc sân và Khoảng trời, NXB Hồng Đức, 2022)_
 
 **a) (2 điểm)** Theo bài thơ, thầy giáo có điểm gì đặc biệt? Nguyên nhân là vì đâu?
 

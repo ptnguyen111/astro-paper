@@ -16,5 +16,4 @@ description: "A bit about me and this blog."
   </figcaption>
 </figure>
 
-
 Thank you for passing by. 🙏🏼
