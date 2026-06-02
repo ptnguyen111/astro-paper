@@ -511,7 +511,7 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 ### Question 7
 
 > How can wearable devices with AI help us take care of our health in the future? (Write your answer in the blank)
-> → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
+> → **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
@@ -542,7 +542,7 @@ Example: `badminton / great / player / Anna / is //`
 ### Question 1
 
 > `round / face / Mary / friendly / had / a / young //`
-> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -559,7 +559,7 @@ Example: `she / lived / this city / for five years //`
 ### Question 2
 
 > `it / be / important / be / honest / parents //`
-> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -571,7 +571,7 @@ Example: `she / lived / this city / for five years //`
 ### Question 3
 
 > `this / be / restaurant / we / have / dinner / 2 days ago //`
-> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
@@ -641,7 +641,7 @@ Trình bày lời giải, phép tính, đáp số.
 
 **Trình bày lời giải, phép tính, đáp số.**
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-2-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -657,7 +657,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 **Trình bày lời giải, phép tính, đáp số.**
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-3-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -716,7 +716,7 @@ _Giám thị không giải thích gì thêm_
 
 **a) (2 điểm)** Theo câu chuyện, nhân vật &ldquo;tôi&rdquo; thích điều gì khi đến nhà cu Minh?
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-0-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -728,7 +728,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 **b) (2 điểm)** Khi thấy Minh đổi truyện lấy diều và xé báo để làm máy bay, nhân vật &ldquo;tôi&rdquo; đã có thái độ và hành động như thế nào?
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-1-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -740,7 +740,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 **c) (2 điểm)** Hãy chỉ ra một nét tính cách của nhân vật &ldquo;tôi&rdquo; mà em thấy được trong câu chuyện trên. Nêu dẫn chứng cho nét tính cách đó.
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-2-c">
     <summary><i>Show awnswer key</i></summary>    
@@ -754,7 +754,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 **d) (2 điểm)** Từ câu chuyện trên và trải nghiệm của bản thân, theo em, những câu chuyện trong sách báo đem lại cho chúng ta những ích lợi gì?
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 ---
 

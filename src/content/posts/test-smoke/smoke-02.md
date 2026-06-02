@@ -518,7 +518,7 @@ Example: `teacher / Mr. Harry / nice / a / is / English //`
 ### Question 1
 
 `ago / three years / Sarah / doll / cute / a / bought //`
-→ ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+→ **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -535,7 +535,7 @@ Example: `Tuan / be / tallest / student / class //`
 ### Question 2
 
 > `learning / English / not be / difficult / than / learning / French //`
-> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -546,7 +546,7 @@ Example: `Tuan / be / tallest / student / class //`
 
 ### Question 3
 
-> `Rosie / be speak / English / fluent / and / clear / now //` → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> `Rosie / be speak / English / fluent / and / clear / now //` → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    

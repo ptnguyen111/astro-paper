@@ -500,7 +500,7 @@ Many educators believe that focusing on the 4Cs helps students prepare for futur
 ### Question 7
 
 > According to the passage, what should critical thinkers avoid doing? (Write your answer in the blank)
-> → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
+> → **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
@@ -531,7 +531,7 @@ _Write complete sentences with the given cues. You must write NO MORE THAN fifte
 ### Question 1
 
 > `my / village / be / the / peaceful / place / world //`
-> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -543,7 +543,7 @@ _Write complete sentences with the given cues. You must write NO MORE THAN fifte
 ### Question 2
 
 > `they / never / travel / abroad / since / they / start / university //`
-> → ******\*\*\*\*******\*\*******\*\*\*\*******\_\_\_\_******\*\*\*\*******\*\*******\*\*\*\*******
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -684,7 +684,7 @@ _Giám thị không giải thích gì thêm_
 
 **a) (2 điểm)** Theo câu chuyện, vì sao Cò con lại phải nghỉ học?
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-0-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -695,7 +695,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 **b) (2 điểm)** Khi các bạn đến thăm, Cò con có tâm trạng như thế nào? Vì sao Cò con lại có tâm trạng đó?
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-1-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -714,7 +714,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 (2) &ldquo;Nhưng còn...&rdquo;
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-2-c">
     <summary><i>Show awnswer key</i></summary>    
@@ -726,7 +726,7 @@ Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
 
 **d) (2 điểm)** Câu chuyện nhắn nhủ đến chúng ta thông điệp gì?
 
-Trả lời: ****\*\*****\*\*****\*\*****\_\_\_****\*\*****\*\*****\*\*****
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 ---
 
