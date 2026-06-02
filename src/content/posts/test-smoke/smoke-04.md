@@ -11,7 +11,6 @@ tags:
 description: "Bài khảo sát số 4"
 ---
 
-
 <figure>
   <img
     src="https://images.pexels.com/photos/5303515/pexels-photo-5303515.jpeg?auto=compress&cs=tinysrgb&w=900"
@@ -26,16 +25,13 @@ description: "Bài khảo sát số 4"
 
 ## Table of contents
 
-
 ## BÀI KHẢO SÁT SỐ 1
 
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
-**Họ và tên:** ________________________  **Lớp:** ________
-**Ngày thi:** ________________________  **SBD:** ________
-
-*Thời gian làm bài: 30 phút (không kể thời gian phát đề)*
-*THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI*
-
+_Thời gian làm bài: 30 phút (không kể thời gian phát đề)_
+_THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI_
 
 ### Question 1
 
@@ -45,11 +41,11 @@ description: "Bài khảo sát số 4"
 **B.** It takes up a definite amount of space (volume). \
 **C.** It flows easily. \
 **D.** It has a definite shape.
+
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Chất lỏng không có hình dạng cố định — "has definite shape" KHÔNG phải tính chất của chất lỏng. từ ảnh gốc — IMG_3806 bị nhiễu)</em></i>
 </details>
-
 
 ---
 
@@ -61,11 +57,11 @@ description: "Bài khảo sát số 4"
 **B.** Because they can make their own food through photosynthesis. \
 **C.** Because they produce oxygen for animals to breathe. \
 **D.** Because they provide shelter for other organisms.
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Thực vật tự tổng hợp chất dinh dưỡng qua quang hợp → sinh vật sản xuất.</em></i>
 </details>
-
 
 ---
 
@@ -77,11 +73,11 @@ description: "Bài khảo sát số 4"
 **B.** Eat a balanced diet and maintain food hygiene. \
 **C.** Get vaccinated as recommended by doctors. \
 **D.** Avoid going outside at night.
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Tránh ra ngoài ban đêm không phải cách phòng bệnh do vi khuẩn.</em></i>
 </details>
-
 
 ---
 
@@ -93,11 +89,11 @@ description: "Bài khảo sát số 4"
 **B.** Small petals, light-coloured or colourless, no scent, and lots of light pollen. \
 **C.** Large, sticky pollen grains. \
 **D.** Nectar-producing glands to attract insects.
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Hoa thụ phấn nhờ gió: cánh nhỏ, màu nhạt, không mùi, hạt phấn nhẹ.</em></i>
 </details>
-
 
 ---
 
@@ -109,33 +105,34 @@ description: "Bài khảo sát số 4"
 **B.** A child playing near a power socket and using an electric kettle. \
 **C.** A child playing near a power socket and using a toaster. \
 **D.** Exposed wires and a child playing near a power socket.
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Dây điện hở + trẻ em chơi gần ổ cắm — hai nguy cơ điện giật.</em></i>
 </details>
-
 
 ---
 
 ### Question 6
 
 > A class investigates the effect of different amounts of fertilizer on the growth of radish plants. The class splits into five groups. To ensure this is a fair test, each group:
+>
 > - Uses the same size plant pot
 > - Plants five seeds in the pot
 > - Puts their pot in the same place
 > - Adds the same amount of water each week
-> Each group uses a different amount of fertilizer (see Table 1). After six weeks, each group records how many plants are alive and measures the radish roots (Table 2).
-> Based on the results, what is the best condition for growing radishes?
+>   Each group uses a different amount of fertilizer (see Table 1). After six weeks, each group records how many plants are alive and measures the radish roots (Table 2).
+>   Based on the results, what is the best condition for growing radishes?
 
 **A.** Radishes grow best with no fertilizer at all. \
 **B.** Radishes grow best with the highest amount of fertilizer (4 teaspoons). \
 **C.** Radishes grow best with a moderate amount of fertilizer (2 teaspoons). \
 **D.** Radishes grow best when given different amounts of water each week.
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Nhóm C (2 tsp phân bón) có kết quả tốt nhất (cây sống, kích thước củ cao nhất) — lượng phân vừa phải.</em></i>
 </details>
-
 
 ---
 
@@ -147,11 +144,11 @@ description: "Bài khảo sát số 4"
 **B.** Hai Bà Trưng \
 **C.** Nguyễn Thị Minh Khai \
 **D.** Võ Thị Sáu
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Hai Bà Trưng lãnh đạo khởi nghĩa năm 40 chống lại chính quyền phương Bắc.</em></i>
 </details>
-
 
 ---
 
@@ -163,11 +160,11 @@ description: "Bài khảo sát số 4"
 **B.** The Southern Region has the lowest population. \
 **C.** The Central Highlands has the highest population. \
 **D.** The Midlands and Northern Mountains have a higher population than the Southern Region.
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Năm 2021, mật độ dân số VN gấp ~5 lần trung bình thế giới. Dân số phân bố không đều.</em></i>
 </details>
-
 
 ---
 
@@ -179,11 +176,11 @@ description: "Bài khảo sát số 4"
 **B.** Trần Nhật Duật \
 **C.** Lý Chiêu Hoàng \
 **D.** Lý Thường Kiệt
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Lý Thường Kiệt với chủ trương "Ngồi yên đợi giặc, không bằng đem quân đánh trước".</em></i>
 </details>
-
 
 ---
 
@@ -195,11 +192,11 @@ description: "Bài khảo sát số 4"
 **B.** Dancing \
 **C.** Weaving \
 **D.** Fishing
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Họa tiết trống đồng mô tả sinh hoạt: nhảy múa, đánh trống, giã gạo, chèo thuyền.</em></i>
 </details>
-
 
 ---
 
@@ -211,11 +208,11 @@ description: "Bài khảo sát số 4"
 **B.** 13/28 \
 **C.** 1/2 \
 **D.** 3/7
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>DT ngoài = 4×7 = 28. Shape A = tam giác vuông. Tỉ số = 13/28.</em></i>
 </details>
-
 
 ---
 
@@ -227,11 +224,11 @@ description: "Bài khảo sát số 4"
 **B.** 1250 \
 **C.** 1800 \
 **D.** 1200
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>30 : 180 = 1 : 6. Số cá trong hồ = 250 × 6 = 1500.</em></i>
 </details>
-
 
 ---
 
@@ -243,11 +240,11 @@ description: "Bài khảo sát số 4"
 **B.** 27 \
 **C.** 29 \
 **D.** 28
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Thắng 33 trận: 33×3=99đ. Chênh: 99−79=20đ. Mỗi trận thua mất 3+1=4đ. Thua: 20:4=5. Thắng: 33−5=28.</em></i>
 </details>
-
 
 ---
 
@@ -259,17 +256,18 @@ description: "Bài khảo sát số 4"
 **B.** 250 km \
 **C.** 225 km \
 **D.** 300 km
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>125km dùng 2.5L. Còn 7−2.5=4.5L. Mua thêm 2L → 6.5L. Đến nơi còn 3.5L. Dùng: 3L × 50 = 150km. Tổng: 125+150=275km.</em></i>
 </details>
-
 
 ---
 
 ### Question 15
 
 > What does the sign on the right say?
+>
 > > WARNING: The ceilings in this old building are very low.
 > > Watch your head if you are tall!
 
@@ -277,80 +275,83 @@ description: "Bài khảo sát số 4"
 **B.** It&rsquo;s easy to hit your head if you are not tall. \
 **C.** Old children may have an accident. \
 **D.** It&rsquo;s easy to hit your head if you are tall.
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Biển báo: trần nhà thấp — rất dễ chạm đầu nếu bạn cao.</em></i>
 </details>
-
 
 ---
 
 ### Question 16
 
 > Choose the best response to fill in the blank.
+>
 > > Josh: &ldquo;Someone is at the door. Will you help me out?&rdquo;
-> > Sure! I &lowbar;&lowbar;&lowbar;&lowbar; the door! I think it&rsquo;s the delivery guy.
+> > Sure! I \_\_\_\_ the door! I think it&rsquo;s the delivery guy.
 
 **A.** am going to open \
 **B.** going to open \
 **C.** open \
 **D.** will open
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>"will open" — quyết định ngay lúc nói. "am going to" cũng có thể nhưng "will" chính xác nhất trong ngữ cảnh.</em></i>
 </details>
-
 
 ---
 
 ### Question 17
 
 > Choose the best answer to fill in the blank.
-> He&rsquo;s a bit &lowbar;&lowbar;&lowbar;&lowbar; about the future. He thinks aliens will take over the Earth.
+> He&rsquo;s a bit \_\_\_\_ about the future. He thinks aliens will take over the Earth.
 
 **A.** pessimist \
 **B.** pessimistic \
 **C.** optimistic \
 **D.** optimist
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>"pessimistic" — tính từ chỉ bi quan. Ngữ cảnh: "nghĩ người ngoài hành tinh sẽ chiếm Trái Đất".</em></i>
 </details>
-
 
 ---
 
 ### Question 18
 
 > Câu ghép dưới đây có tổng cộng bao nhiêu vế câu?
+>
 > > &ldquo;Mỗi khi trĩu nặng lòng, tôi thường lên sân thượng, dõi mắt nhìn bầu trời đêm dày đặc những vì sao; sông Ngân vắt vẻo từ đầu chân trời này sang đầu chân trời kia; trên đó là vô cùng tận đốm sáng mờ tỏ; và kia, ngự bên cạnh ánh trăng là những ngôi sao sáng nhất, bởi chỉ có ngôi sao nào đủ sáng mới không bị ánh trăng làm nhoà đi...&rdquo;
 
 **A.** 2 \
 **B.** 3 \
 **C.** 4 \
 **D.** 5
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>5 vế câu: tôi/ sông Ngân/ trên đó/ ngự bên cạnh ánh trăng/ ngôi sao nào đủ sáng.</em></i>
 </details>
-
 
 ---
 
 ### Question 19
 
 > Trong đoạn văn sau, phép liên kết câu nào không được sử dụng?
+>
 > > &ldquo;Trước khi hạt giống nhú lên khỏi mặt đất, nó nằm sâu trong đất, không ai quan tâm hay để ý, thậm chí có thể bị lãng quên. Sự thờ ơ, quan tâm hay lãng quên của nhân loại không bao giờ cản trở hạt giống từ từ hấp thụ dinh dưỡng từ đất, hấp thụ tia nắng và hạt mưa. Một hạt giống nhỏ bé, nó lớn lên theo nhịp điệu và quy luật của riêng nó.&rdquo;
 
 **A.** Phép nối \
 **B.** Phép thế \
 **C.** Phép lặp \
 **D.** Cả ba đáp án trên
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Có phép lặp (hạt giống, đất), phép thế (nó), không có phép nối.</em></i>
 </details>
-
 
 ---
 
@@ -362,33 +363,28 @@ description: "Bài khảo sát số 4"
 **B.** Thiên thần, thiên lệch, thiên tử. \
 **C.** Thiên truyện, biến thiên, thiên tuế. \
 **D.** Thiên cổ, thiên thu, thiên lý.
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>"Thiên" trong thiên cổ, thiên thu, thiên lý đều có nghĩa là nghìn/ngàn. Các đáp án khác có nhiều nghĩa khác nhau.</em></i>
 </details>
 
-
 ---
-
 
 **&mdash; THIS IS THE END OF BÀI KHẢO SÁT SỐ 1 &mdash;**
 
-
-
 ## BÀI KHẢO SÁT SỐ 2 &mdash; PHẦN TIẾNG ANH
 
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
-**Họ và tên:** ________________________  **Lớp:** ________
-**Ngày thi:** ________________________  **SBD:** ________
-
-*Tổng thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)*
+_Tổng thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)_
 
 | PART 1 | PART 2 | PART 3 | FINAL |
-|--------|--------|--------|-------|
-| | | | |
+| ------ | ------ | ------ | ----- |
+|        |        |        |       |
 
-*Giám thị không giải thích gì thêm*
-
+_Giám thị không giải thích gì thêm_
 
 <figure>
   <img
@@ -404,7 +400,7 @@ description: "Bài khảo sát số 4"
 
 ### PART 2: READING (16 points)
 
-*Read the following passage and answer the questions.*
+_Read the following passage and answer the questions._
 
 **FUTURE LIVING**
 
@@ -416,7 +412,6 @@ Urban areas will feature vertical gardens and parks, providing natural spaces fo
 
 Healthcare will benefit from advancements in technology too. Telemedicine will enable doctors to consult with patients even in remote areas, improving access to healthcare services. Wearable devices such as smartwatches, fitness trackers, and smart glasses with an intelligent AI system will help monitor our health, alerting us to any potential issues before they become serious as well as give useful advice. As we embrace these changes, it is essential to remain optimistic about the opportunities that lie ahead.
 
-
 ### Question 1
 
 > Choose the best answer A, B, or C to fill in the blank.
@@ -425,13 +420,13 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 **A.** family \
 **B.** technology \
 **C.** electric car
+
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong></i>
 </details>
 
-(Write A, B, or C in the blank) → _____
-
+(Write A, B, or C in the blank) → **\_**
 
 ---
 
@@ -443,13 +438,13 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 **A.** smartphones or voice commands \
 **B.** self-driving cars \
 **C.** traffic jams and accidents
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong></i>
 </details>
 
-(Write A, B, or C in the blank) → _____
-
+(Write A, B, or C in the blank) → **\_**
 
 ---
 
@@ -461,13 +456,13 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 **A.** They help people enjoy fresh air and green environments. \
 **B.** They are cheap and easy to buy. \
 **C.** They help reduce car accidents and traffic jams.
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong></i>
 </details>
 
-(Write A, B, or C in the blank) → _____
-
+(Write A, B, or C in the blank) → **\_**
 
 ---
 
@@ -476,13 +471,12 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 > Decide whether this statement is True or False:
 > According to the passage, people will still use e-commerce platforms like Shopee Food because deliveries will be faster.
 
-(Write True or False in the blank) → _____
+(Write True or False in the blank) → **\_**
 
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>Không cho điểm nếu HS ghi sai chính tả. Trừ 1đ nếu HS ghi T/F thay vì True/False.</em></i>
 </details>
-
 
 ---
 
@@ -491,13 +485,12 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 > Decide whether this statement is True or False:
 > Vertical gardens and parks in urban areas allow people in busy cities to enjoy green environments and fresh air.
 
-(Write True or False in the blank) → _____
+(Write True or False in the blank) → **\_**
 
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>True</strong></i>
 </details>
-
 
 ---
 
@@ -506,42 +499,38 @@ Healthcare will benefit from advancements in technology too. Telemedicine will e
 > Decide whether this statement is True or False:
 > Students in the future may attend classes from their home thanks to virtual learning environments applied in schools.
 
-(Write True or False in the blank) → _____
+(Write True or False in the blank) → **\_**
 
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>True</strong></i>
 </details>
 
-
 ---
 
 ### Question 7
 
 > How can wearable devices with AI help us take care of our health in the future? (Write your answer in the blank)
-> → ___________________________________________________________________
+> → **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>They help monitor our health, alert us to any potential issues before they become serious as well as give useful advice.</em><br><em>Chấp nhận cách diễn đạt khác có ý tương tự. Trừ 0.5đ/lỗi chính tả/ngữ pháp không ảnh hưởng nghĩa. Trừ 1đ/lỗi ngữ pháp ảnh hưởng nghĩa. Chỉ cho 1đ nếu HS chỉ ghi 1 trong 3 ý.</em></i>
 </details>
 
-
 ---
 
 ### Question 8
 
 > Find ONE word in the passage that means &ldquo;completely necessary and extremely important in a particular situation or for a particular activity.&rdquo;
-> (Write your answer in the blank) → _____
+> (Write your answer in the blank) → **\_**
 
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>essential</strong><br><em>Không cho điểm nếu sai chính tả. Trừ 1đ/lỗi nếu ghi dư 1 từ nhưng vẫn có "essential".</em></i>
 </details>
 
-
 ---
-
 
 ### PART 3: WRITING (6 points)
 
@@ -553,13 +542,12 @@ Example: `badminton / great / player / Anna / is //`
 ### Question 1
 
 > `round / face / Mary / friendly / had / a / young //`
-> → ________________________________________________________________________
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>Mary had a friendly round young face.</strong><br><em>Trừ 1đ/lỗi: chính tả, thiếu 1 từ. Trừ 0.5đ/lỗi hình thức (viết hoa/chấm câu). Cho 1đ nếu không thành câu hoàn chỉnh nhưng ≥4 từ đúng, có nghĩa.</em></i>
 </details>
-
 
 ---
 
@@ -571,50 +559,43 @@ Example: `she / lived / this city / for five years //`
 ### Question 2
 
 > `it / be / important / be / honest / parents //`
-> → ________________________________________________________________________
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>It is important to be honest with (your) parents.</strong><br><em>Chấp nhận đáp án khác đúng yêu cầu, đúng ngữ pháp và có nghĩa.</em></i>
 </details>
 
-
 ---
 
 ### Question 3
 
 > `this / be / restaurant / we / have / dinner / 2 days ago //`
-> → ________________________________________________________________________
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>This is/was the restaurant where we had dinner 2 days ago.</strong><br><em>Trừ 0.5đ/lỗi: chính tả, ngữ pháp, hình thức. Cho 1đ nếu không thành câu hoàn chỉnh nhưng ≥6 từ đúng ngữ pháp, có nghĩa.</em></i>
 </details>
 
-
 ---
-
 
 **&mdash; KẾT THÚC PHẦN TIẾNG ANH &mdash;**
 
-
-
 ## PHẦN TOÁN & IQ
 
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
-**Họ và tên:** ________________________  **Lớp:** ________
-**Ngày thi:** ________________________  **SBD:** ________
-
-*Thí sinh KHÔNG được sử dụng máy tính bỏ túi*
-*Giám thị không giải thích gì thêm*
-
+_Thí sinh KHÔNG được sử dụng máy tính bỏ túi_
+_Giám thị không giải thích gì thêm_
 
 ### Question 1
 
-> (3 điểm) Một trường trung học có số học sinh nam và nữ giống nhau. 3/4 số học sinh nữ của trường và 2/3 số học sinh nam của trường đã tham gia một chuyến tham quan. Hãy tính tỉ số giữa số học sinh nữ tham gia chuyến đi so với tổng số học sinh tham gia chuyến đi. 
+> (3 điểm) Một trường trung học có số học sinh nam và nữ giống nhau. 3/4 số học sinh nữ của trường và 2/3 số học sinh nam của trường đã tham gia một chuyến tham quan. Hãy tính tỉ số giữa số học sinh nữ tham gia chuyến đi so với tổng số học sinh tham gia chuyến đi.
 
 Chỉ viết kết quả.
-Trả lời: &lowbar;&lowbar;&lowbar;&lowbar; : &lowbar;&lowbar;&lowbar;&lowbar;
+Trả lời: \_\_\_\_ : \_\_\_\_
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -625,7 +606,6 @@ Trả lời: &lowbar;&lowbar;&lowbar;&lowbar; : &lowbar;&lowbar;&lowbar;&lowbar;
 - Số HS nữ đi : Tổng số HS đi = 9 : (9 + 8) = 9 : 17
 ---</em><br></i>
 </details>
-
 
 ---
 
@@ -646,16 +626,14 @@ Trình bày lời giải, phép tính, đáp số.
 ---</em></i>
 </details>
 
-
 ---
-
 
 ### Question 3
 
 > (8 điểm) Một tiệm trà sữa bán một ly trà sữa truyền thống với giá 20 000 đồng. Nhân dịp Giỗ tổ Hùng Vương, tiệm trà sữa thực hiện chương trình khuyến mãi như sau:
+>
 > - Khi mua 2 ly trà sữa truyền thống, ly thứ hai được giảm 10% giá đang bán.
 > - Khi mua từ 3 ly trà sữa truyền thống trở lên, 2 ly đầu vẫn thực hiện khuyến mãi như trên và từ ly thứ ba được giảm 15% giá đang bán.
-
 
 ---
 
@@ -663,7 +641,7 @@ Trình bày lời giải, phép tính, đáp số.
 
 **Trình bày lời giải, phép tính, đáp số.**
 
-Trả lời: _______________________________________________
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-2-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -679,7 +657,7 @@ Trả lời: _______________________________________________
 
 **Trình bày lời giải, phép tính, đáp số.**
 
-Trả lời: _______________________________________________
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-3-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -696,15 +674,12 @@ Trả lời: _______________________________________________
 
 ---
 
-
 ## PHẦN ĐỌC HIỂU VÀ LÀM VĂN
 
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
-**Họ và tên:** ________________________  **Lớp:** ________
-**Ngày thi:** ________________________  **SBD:** ________
-
-*Giám thị không giải thích gì thêm*
-
+_Giám thị không giải thích gì thêm_
 
 ### Question 1
 
@@ -723,8 +698,9 @@ Trả lời: _______________________________________________
 > Nhìn cánh diều trên trời cao, tôi thấy tức thằng Minh quá. Nhưng truyện là của nhà nó chứ có phải của tôi đâu!
 > Vài ngày sau, bọn chúng tôi chuyển sang chơi phi máy bay. Những chiếc máy bay được gấp bằng đủ các loại giấy. Tôi thấy Minh vui lắm. Quả thật những chiếc máy bay của nó to và đẹp lạ lùng. Mỗi khi lao lên trời, nó lượn rất lâu rồi mới đâm xuống đất. Đến bữa cơm, nó đem một chiếc máy bay đến khoe tôi. Hóa ra Minh đã xẻ những tờ báo ra để gấp máy bay.
 > Tôi nhìn nó quát lên:
+>
 > - Mày biết những tờ báo này in gì không hả?
-> Nó xị mặt rồi cũng cau lại với tôi:
+>   Nó xị mặt rồi cũng cau lại với tôi:
 > - Sách báo thì có chơi được đâu mà ba cứ bắt em giữ co chứ!
 
 > Là vì như thế này...
@@ -736,13 +712,11 @@ Trả lời: _______________________________________________
 
 > (Theo Khuê Phan, từ https://vanvn.vn/chum-truyen-ngan-thieu-nhi/)
 
-
 ---
-
 
 **a) (2 điểm)** Theo câu chuyện, nhân vật &ldquo;tôi&rdquo; thích điều gì khi đến nhà cu Minh?
 
-Trả lời: _______________________________________________
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-0-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -754,7 +728,7 @@ Trả lời: _______________________________________________
 
 **b) (2 điểm)** Khi thấy Minh đổi truyện lấy diều và xé báo để làm máy bay, nhân vật &ldquo;tôi&rdquo; đã có thái độ và hành động như thế nào?
 
-Trả lời: _______________________________________________
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-1-b">
     <summary><i>Show awnswer key</i></summary>    
@@ -766,7 +740,7 @@ Trả lời: _______________________________________________
 
 **c) (2 điểm)** Hãy chỉ ra một nét tính cách của nhân vật &ldquo;tôi&rdquo; mà em thấy được trong câu chuyện trên. Nêu dẫn chứng cho nét tính cách đó.
 
-Trả lời: _______________________________________________
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 <details name="question-2-c">
     <summary><i>Show awnswer key</i></summary>    
@@ -780,7 +754,7 @@ Trả lời: _______________________________________________
 
 **d) (2 điểm)** Từ câu chuyện trên và trải nghiệm của bản thân, theo em, những câu chuyện trong sách báo đem lại cho chúng ta những ích lợi gì?
 
-Trả lời: _______________________________________________
+Trả lời: \***\*\*\*\*\***\*\*\***\*\*\*\*\***\_\_\_\***\*\*\*\*\***\*\*\***\*\*\*\*\***
 
 ---
 
@@ -803,18 +777,14 @@ Trả lời: _______________________________________________
     <i class="answer-key"><em></em></i>
 </details>
 
-| Tiêu chí | Điểm | Hướng dẫn chấm |
-|:---------|:----:|:---------------|
-| **Format** | 2đ | Đảm bảo yêu cầu diễn đạt: dùng từ, đặt câu, chính tả. Viết hoa đầu đoạn, đầu câu; lùi đầu đoạn; không nhiều đoạn; dấu câu hợp lý. Lỗi hình thức: trừ tối đa 0.5đ. Lỗi chính tả, ngữ pháp, viết hoa tùy tiện: trừ tối đa 0.5đ. |
-| **Content** | 4đ | Giới thiệu tên chuyện (0.25đ), tên tác giả (0.25đ), tên nhân vật (0.25đ), ấn tượng chung (0.25đ). Giới thiệu tính cách, phẩm chất nhân vật (ít nhất 02 nét tính cách — 1đ), dẫn chứng (1.0đ). Cảm xúc, nhận xét, bài học (1đ). |
-| **Creativity** | 1đ | Sáng tạo nội dung (quan sát thú vị, cảm xúc chân thật, ý nghĩa): 0.5đ. Sáng tạo hình thức (văn phong giàu cảm xúc, hình ảnh, diễn đạt hấp dẫn, so sánh, nhân hóa, từ láy): 0.5đ. Thường cho 0.25-0.5đ, cân nhắc khi cho 0.75, thật sự cân nhắc khi cho 1.0đ. |
+| Tiêu chí       | Điểm | Hướng dẫn chấm                                                                                                                                                                                                                                               |
+| :------------- | :--: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Format**     |  2đ  | Đảm bảo yêu cầu diễn đạt: dùng từ, đặt câu, chính tả. Viết hoa đầu đoạn, đầu câu; lùi đầu đoạn; không nhiều đoạn; dấu câu hợp lý. Lỗi hình thức: trừ tối đa 0.5đ. Lỗi chính tả, ngữ pháp, viết hoa tùy tiện: trừ tối đa 0.5đ.                                |
+| **Content**    |  4đ  | Giới thiệu tên chuyện (0.25đ), tên tác giả (0.25đ), tên nhân vật (0.25đ), ấn tượng chung (0.25đ). Giới thiệu tính cách, phẩm chất nhân vật (ít nhất 02 nét tính cách — 1đ), dẫn chứng (1.0đ). Cảm xúc, nhận xét, bài học (1đ).                               |
+| **Creativity** |  1đ  | Sáng tạo nội dung (quan sát thú vị, cảm xúc chân thật, ý nghĩa): 0.5đ. Sáng tạo hình thức (văn phong giàu cảm xúc, hình ảnh, diễn đạt hấp dẫn, so sánh, nhân hóa, từ láy): 0.5đ. Thường cho 0.25-0.5đ, cân nhắc khi cho 0.75, thật sự cân nhắc khi cho 1.0đ. |
 
 > Trong câu chuyện "Những Dòng Chữ Diệu Kỳ" của nhà văn Khuê Phan, nhân vật Minh là một cậu bé còn nhỏ tuổi, chưa biết đọc chữ và chưa nhận ra giá trị của sách vở. Ban đầu, Minh có vẻ hờ hững, thờ ơ với sách báo, chỉ quan tâm đến việc chơi diều, gấp máy bay cùng bạn bè. Qua câu chuyện, chúng ta thấy Minh dần thay đổi, có sự trưởng thành trong nhận thức. Cu Minh là một cậu bé ngây ngô, ham chơi nhưng cũng rất đáng yêu. Khi được nhân vật "tôi" đọc cho nghe những câu chuyện từ sách, Minh bắt đầu thích thú, bắt đầu khám phá ra thế giới thú vị và bổ ích mà sách vở mang lại.
 
 ---
 
-
 **&mdash; HẾT &mdash;**
-
-
-

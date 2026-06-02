@@ -26,12 +26,11 @@ description: "Bài khảo sát số 2"
 
 ## BÀI KHẢO SÁT SỐ 1
 
-**Họ và tên:** ________________________  **Lớp:** ________\
-**Ngày thi:** ________________________  **SBD:** ________
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**\
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
-*Thời gian làm bài: 30 phút (không kể thời gian phát đề)*\
-*THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI*
-
+_Thời gian làm bài: 30 phút (không kể thời gian phát đề)_\
+_THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI_
 
 ### Question 1
 
@@ -41,11 +40,11 @@ description: "Bài khảo sát số 2"
 **B.** Brain \
 **C.** Kidney \
 **D.** Spinal cord
+
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Hệ thần kinh gồm não, tủy sống, dây thần kinh. Thận (kidney) thuộc hệ bài tiết nước tiểu.</em></i>
 </details>
-
 
 ---
 
@@ -57,11 +56,11 @@ description: "Bài khảo sát số 2"
 **B.** Odourless \
 **C.** Has a definite shape \
 **D.** Can dissolve some substances
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Nước là chất lỏng, không màu, không mùi, có thể hòa tan một số chất. Nước không có hình dạng cố định.</em></i>
 </details>
-
 
 ---
 
@@ -73,11 +72,11 @@ description: "Bài khảo sát số 2"
 **B.** An empty battery \
 **C.** Electric current \
 **D.** Broken wires
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Bóng đèn chỉ sáng khi có dòng điện chạy qua trong mạch kín. Công tắc mở, pin hết, dây hỏng đều không có dòng điện.</em></i>
 </details>
-
 
 ---
 
@@ -89,11 +88,11 @@ description: "Bài khảo sát số 2"
 **B.** Add water and stir carefully > deposition > filter \
 **C.** Add water and stir carefully > deposition > evaporate \
 **D.** Add water and stir carefully > distillation
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Muối tan trong nước, tiêu không tan. Thêm nước → khuấy đều → lọc bỏ tiêu → bay hơi thu muối.</em></i>
 </details>
-
 
 ---
 
@@ -105,11 +104,11 @@ description: "Bài khảo sát số 2"
 **B.** Beef \
 **C.** Fish \
 **D.** Cheese
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Sản xuất bánh mì dùng nấm men (yeast — một loại fungi) làm nở bột.</em></i>
 </details>
-
 
 ---
 
@@ -121,11 +120,11 @@ description: "Bài khảo sát số 2"
 **B.** The plant cannot produce chlorophyll in darkness. \
 **C.** The plant produces more chlorophyll in darkness. \
 **D.** The plant changes colour to attract insects.
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Chlorophyll (diệp lục) tạo màu xanh. Trong bóng tối, cây không sản xuất chlorophyll → thân trắng, lá vàng (giá đỗ).</em></i>
 </details>
-
 
 ---
 
@@ -137,11 +136,11 @@ description: "Bài khảo sát số 2"
 **B.** Dãy Bạch Mã \
 **C.** Đèo Hải Vân \
 **D.** Dãy Hoàng Liên Sơn
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Dãy Hoàng Liên Sơn (Phan-xi-păng) thuộc Bắc Bộ, không phải Duyên hải miền Trung. Trường Sơn, Bạch Mã, Hải Vân đều ở miền Trung.</em></i>
 </details>
-
 
 ---
 
@@ -153,11 +152,11 @@ description: "Bài khảo sát số 2"
 **B.** Ngô Quyền \
 **C.** Trần Hưng Đạo \
 **D.** Lê Lợi
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Ngô Quyền lãnh đạo quân dân đánh thắng quân Nam Hán trên sông Bạch Đằng năm 938.</em></i>
 </details>
-
 
 ---
 
@@ -169,11 +168,11 @@ description: "Bài khảo sát số 2"
 **B.** Goods were distributed through stamps and coupons. \
 **C.** Private businesses were encouraged. \
 **D.** Vietnam had a market economy.
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Thời kỳ bao cấp (1975–1986), nhà nước phân phối hàng hóa qua tem phiếu.</em></i>
 </details>
-
 
 ---
 
@@ -185,11 +184,11 @@ description: "Bài khảo sát số 2"
 **B.** Because of the harsh climate and extreme cold \
 **C.** Because of the strong winds \
 **D.** Because there are no plants
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Nam Cực có khí hậu khắc nghiệt, lạnh dưới 0°C, gió mạnh, không có cây cối → không thích hợp cho người ở. Các yếu tố riêng lẻ không đủ giải thích.</em></i>
 </details>
-
 
 ---
 
@@ -201,11 +200,11 @@ description: "Bài khảo sát số 2"
 **B.** 800 ml \
 **C.** 1000 ml \
 **D.** 1200 ml
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Phân số dầu Linh đã dùng: 1 − 1/2 = 1/2. Lượng dầu khi đầy: 700 : 7 × 12 = 1200 ml.</em></i>
 </details>
-
 
 ---
 
@@ -217,32 +216,32 @@ description: "Bài khảo sát số 2"
 **B.** 2400 g \
 **C.** 4800 g \
 **D.** 6000 g
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>1 ngày 40 con gà ăn: 600 × (40:5) = 4800g Thực tế: 600g/5 ngày → 120g/ngày → 10 ngày = 1200g.</em></i>
 </details>
 
-
 ---
 
 ### Question 13
 
-> Find the missing number in the pattern: 
+> Find the missing number in the pattern:
 
-| 7 | 9 | 11 |
-|---|---|---|
-| 20 | 27 | 34 |
-| 4 | 5 | ? |
+| 7   | 9   | 11  |
+| --- | --- | --- |
+| 20  | 27  | 34  |
+| 4   | 5   | ?   |
 
 **A.** 6 \
 **B.** 7 \
 **C.** 8 \
 **D.** 9
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Hàng 2: 20−7=13, 27−9=18, 34−11=23 → +5 mỗi lần. 23+5=28. Hàng 3: 4+5=9 → =6.</em></i>
 </details>
-
 
 ---
 
@@ -254,11 +253,11 @@ description: "Bài khảo sát số 2"
 **B.** 4 m \
 **C.** 5 m \
 **D.** 6 m
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Tỉ số CR A : CR B = 54:90 = 3:5. 1 phần = 12:5 = 2.4 Thực tế: 12 − (54÷9) = 4m.</em></i>
 </details>
-
 
 ---
 
@@ -270,43 +269,43 @@ description: "Bài khảo sát số 2"
 **B.** You must not drive faster than 40 km/h. \
 **C.** You must not drive slower than 40 km/h. \
 **D.** You can drive faster than 40 km/h.
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Biển báo hình tròn viền đỏ, số 40 → tốc độ tối đa 40 km/h.</em></i>
 </details>
 
-
 ---
 
 ### Question 16
 
-> Choose the correct order of adjectives to complete the sentence: "She wore a ________ dress."
+> Choose the correct order of adjectives to complete the sentence: "She wore a **\_\_\_\_** dress."
 
 **A.** long blue cotton \
 **B.** blue long cotton \
 **C.** cotton long blue \
 **D.** long cotton blue
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Trật tự tính từ: size (long) → color (blue) → material (cotton).</em></i>
 </details>
 
-
 ---
 
 ### Question 17
 
-> Choose the best option to complete the sentence: "The museum ________ attracts tourists from all over the world, displays many historical artifacts."
+> Choose the best option to complete the sentence: "The museum **\_\_\_\_** attracts tourists from all over the world, displays many historical artifacts."
 
 **A.** which \
 **B.** where \
 **C.** who \
 **D.** whose
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Đại từ quan hệ "where" thay thế cho "there" — trạng ngữ chỉ nơi chốn.</em></i>
 </details>
-
 
 ---
 
@@ -318,11 +317,11 @@ description: "Bài khảo sát số 2"
 **B.** Dù nghèo khó cũng phải sống trong sạch, lương thiện \
 **C.** Phải biết giúp đỡ người nghèo \
 **D.** Phải ăn mặc sạch sẽ
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Cặp kết từ "Phải chi... thì..." thể hiện quan hệ giả thiết – kết quả.</em></i>
 </details>
-
 
 ---
 
@@ -334,11 +333,11 @@ description: "Bài khảo sát số 2"
 **B.** Ẩn dụ và hoán dụ \
 **C.** So sánh và điệp từ \
 **D.** Nhân hóa và nói quá
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Dấu gạch ngang dùng để dẫn lời nói nhân vật, liệt kê, giải thích. Ở đây cần dùng dấu ngoặc kép.</em></i>
 </details>
-
 
 ---
 
@@ -350,33 +349,28 @@ description: "Bài khảo sát số 2"
 **B.** Xanh ngắt, học hỏi, lung linh \
 **C.** Sạch sẽ, tươi tốt, đẹp đẽ \
 **D.** Núi đồi, sông suối, trời đất
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>"Mắt lưới" (lỗ hở đều đặn) và "mắt" (cơ quan nhìn) có liên hệ với nhau → nhiều nghĩa, không phải đồng âm.</em></i>
 </details>
 
-
 ---
-
 
 **— THIS IS THE END OF BÀI KHẢO SÁT SỐ 1 —**
 
-
-
 ## BÀI KHẢO SÁT SỐ 2 — PHẦN TIẾNG ANH
 
+**Họ và tên:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **Lớp:** **\_\_\_\_**
+**Ngày thi:** \***\*\*\*\*\***\_\_\_\_\***\*\*\*\*\*** **SBD:** **\_\_\_\_**
 
-**Họ và tên:** ________________________  **Lớp:** ________
-**Ngày thi:** ________________________  **SBD:** ________
-
-*Tổng thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)*
+_Tổng thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)_
 
 | PART 1 | PART 2 | PART 3 | FINAL |
-|--------|--------|--------|-------|
-| | | | |
+| ------ | ------ | ------ | ----- |
+|        |        |        |       |
 
-*Giám thị không giải thích gì thêm*
-
+_Giám thị không giải thích gì thêm_
 
 <figure>
   <img
@@ -392,7 +386,7 @@ description: "Bài khảo sát số 2"
 
 ### PART 2: READING (16 points)
 
-*Read the following passage and answer the questions.*
+_Read the following passage and answer the questions._
 
 **Baby Three Dolls — A New Trend**
 
@@ -406,7 +400,6 @@ Another concern is the environmental impact of making these dolls. Like many pla
 
 In the end, Baby Three dolls can be a fun hobby for children, but it is important for parents to guide their children and teach them good habits about spending, sharing, and caring for the environment.
 
-
 ### Question 1
 
 > According to the passage, Baby Three dolls are popular in Vietnam mainly because:
@@ -415,13 +408,13 @@ In the end, Baby Three dolls can be a fun hobby for children, but it is importan
 **B.** They come in many styles with unique personalities. \
 **C.** They are environmentally friendly. \
 **D.** Parents encourage children to collect them.
+
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong></i>
 </details>
 
-(Write A, B, or C in the blank) → _____
-
+(Write A, B, or C in the blank) → **\_**
 
 ---
 
@@ -433,13 +426,13 @@ In the end, Baby Three dolls can be a fun hobby for children, but it is importan
 **B.** The dolls are expensive and children want many of them. \
 **C.** The dolls break easily. \
 **D.** The dolls are dangerous for young children.
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong></i>
 </details>
 
-(Write A, B, or C in the blank) → _____
-
+(Write A, B, or C in the blank) → **\_**
 
 ---
 
@@ -450,76 +443,70 @@ In the end, Baby Three dolls can be a fun hobby for children, but it is importan
 **A.** Buy as many dolls as the child wants. \
 **B.** Encourage children to watch many videos about the dolls. \
 **C.** Make a plan for how much money to spend on dolls.
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong></i>
 </details>
 
-(Write A, B, or C in the blank) → _____
-
+(Write A, B, or C in the blank) → **\_**
 
 ---
 
 ### Question 4
 
-> Decide whether this statement is True or False: "Only children like Baby Three dolls in Vietnam." (Write True or False in the blank) → _____
+> Decide whether this statement is True or False: "Only children like Baby Three dolls in Vietnam." (Write True or False in the blank) → **\_**
 
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>Không cho điểm nếu HS ghi sai chính tả. Trừ 1đ nếu HS ghi F thay vì False.</em></i>
 </details>
 
-
 ---
 
 ### Question 5
 
-> Decide whether this statement is True or False: "Parents should buy as many Baby Three dolls as possible for their children." (Write True or False in the blank) → _____
+> Decide whether this statement is True or False: "Parents should buy as many Baby Three dolls as possible for their children." (Write True or False in the blank) → **\_**
 
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>Không cho điểm nếu HS ghi sai chính tả.</em></i>
 </details>
 
-
 ---
 
 ### Question 6
 
-> Decide whether this statement is True or False: "The passage suggests that parents should avoid talking about the environmental impact of toys." (Write True or False in the blank) → _____
+> Decide whether this statement is True or False: "The passage suggests that parents should avoid talking about the environmental impact of toys." (Write True or False in the blank) → **\_**
 
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>False</strong> — <em>Trừ 1đ nếu HS ghi sai chính tả hoặc thiếu 1 từ ở đề bài.</em></i>
 </details>
 
-
 ---
 
 ### Question 7
 
-> Write down one word that you find in the passage which means 'to exchange something you have for something someone else has.' (Write your answer in the blank) → _____
+> Write down one word that you find in the passage which means 'to exchange something you have for something someone else has.' (Write your answer in the blank) → **\_**
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>trade</strong><br><em>Trừ 1đ/lỗi nếu HS ghi sai chính tả.</em></i>
 </details>
 
-
 ---
 
 ### Question 8
 
-> Write down one word that you find in the passage which means 'putting something in a place where people can see it easily; showing something to people.' (Write your answer in the blank) → _____
+> Write down one word that you find in the passage which means 'putting something in a place where people can see it easily; showing something to people.' (Write your answer in the blank) → **\_**
 
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>displaying</strong><br><em>Trừ 1đ/lỗi nếu HS ghi sai chính tả hoặc thiếu 1 từ.</em></i>
 </details>
 
-
 ---
-
 
 ### PART 3: WRITING (6 points)
 
@@ -529,8 +516,9 @@ Example: `teacher / Mr. Harry / nice / a / is / English //`
 → Mr. Harry is a nice English teacher.
 
 ### Question 1
+
 `ago / three years / Sarah / doll / cute / a / bought //`
-→ ________________________________________________________________________
+→ **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -546,8 +534,8 @@ Example: `Tuan / be / tallest / student / class //`
 
 ### Question 2
 
-> `learning / English / not be / difficult / than / learning / French //` 
-→ ________________________________________________________________________
+> `learning / English / not be / difficult / than / learning / French //`
+> → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -558,7 +546,7 @@ Example: `Tuan / be / tallest / student / class //`
 
 ### Question 3
 
-> `Rosie / be speak / English / fluent / and / clear / now //` → ________________________________________________________________________
+> `Rosie / be speak / English / fluent / and / clear / now //` → **\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***\_\_\_\_**\*\***\*\*\*\***\*\***\*\***\*\***\*\*\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -567,26 +555,23 @@ Example: `Tuan / be / tallest / student / class //`
 
 ---
 
-
 **— KẾT THÚC PHẦN TIẾNG ANH —**
 
---- 
+---
 
 ## PHẦN TOÁN & IQ
 
-*Thí sinh KHÔNG được sử dụng máy tính bỏ túi*
-*Giám thị không giải thích gì thêm*
-
+_Thí sinh KHÔNG được sử dụng máy tính bỏ túi_
+_Giám thị không giải thích gì thêm_
 
 ### Question 1
 
-> (3 điểm) Trong một tháng nào đó, có ba ngày Thứ Sáu là ngày chẵn. Hỏi ngày 18 của tháng đó là thứ mấy? Chỉ viết kết quả. Trả lời: _____
+> (3 điểm) Trong một tháng nào đó, có ba ngày Thứ Sáu là ngày chẵn. Hỏi ngày 18 của tháng đó là thứ mấy? Chỉ viết kết quả. Trả lời: **\_**
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>**Đáp số: Chủ Nhật** — Chỉ chấm kết quả cuối cùng (3đ) * Một tháng có 3 ngày Thứ Sáu là ngày chẵn → tháng có 5 tuần. Các ngày Thứ Sáu là 2, 9, 16, 23, 30. Ngày 16 là Thứ Sáu → ngày 18 là Chủ Nhật.</em></i>
 </details>
-
 
 ---
 
@@ -611,10 +596,10 @@ Example: `Tuan / be / tallest / student / class //`
 
 > (8 điểm) Một mảnh đất hình chữ nhật có chiều dài gấp 3 lần chiều rộng. Nếu tăng cả chiều dài và chiều rộng 4m thì diện tích mảnh đất sẽ tăng lên 64m².
 
-
 ---
 
 **a) (4 điểm)** Hãy vẽ hình minh họa cho bài toán trên.
+
 <details name="question-2-a">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key"><em>— Vẽ hình
@@ -627,6 +612,7 @@ Example: `Tuan / be / tallest / student / class //`
 ---
 
 **b) (4 điểm)** Tính diện tích của mảnh đất ban đầu.
+
 <details name="question-3-b">
     <summary><i>Show awnswer key</i></summary>    
     <ul>
@@ -644,11 +630,9 @@ Example: `Tuan / be / tallest / student / class //`
 
 ---
 
-
 ## PHẦN ĐỌC HIỂU VÀ LÀM VĂN
 
-
-*Giám thị không giải thích gì thêm*
+_Giám thị không giải thích gì thêm_
 
 **(8 điểm)** Đọc văn bản sau và trả lời câu hỏi.
 
@@ -657,7 +641,6 @@ Sáng nào cũng vậy, người cha dậy thật sớm. Ông vào bếp, bắc 
 Người cha ấy đã lớn tuổi và có địa vị trong ngành nhưng vẫn ham học. Ông dành thời gian mỗi sáng để học bài, trau dồi kiến thức. Dù bận rộn với công việc, ông vẫn luôn chăm lo cho gia đình, đặc biệt là quan tâm đến việc học của con.
 
 Một hôm, người cha nói với con: "Học không chỉ để giải trí mà còn để có kiến thức. Ngoài ra, học còn giúp chúng ta lưu danh, để tên mình còn mãi, không ai giết được mình."
-
 
 **a) (2 điểm)** Người cha đã làm những công việc gì vào buổi sáng? Hãy kể ra ít nhất 3 việc.
 
@@ -707,16 +690,12 @@ Một hôm, người cha nói với con: "Học không chỉ để giải trí m
     <i class="answer-key"><em></em></i>
 </details>
 
-| Tiêu chí | Điểm | Hướng dẫn chấm |
-|:---------|:----:|:---------------|
-| **Format** | 2đ | Viết hoa đầu đoạn, đầu câu; lùi đầu đoạn; không nhiều đoạn; dấu câu hợp lý. Lỗi hình thức: trừ tối đa 0.5đ. Lỗi chính tả, ngữ pháp, viết hoa tùy tiện: trừ tối đa 0.5đ. |
-| **Content** | 4đ | Giới thiệu người muốn miêu tả — mối quan hệ (0.5đ), ấn tượng chung (0.5đ). Miêu tả ngoại hình, tính cách, hành động (1.0đ). Kỷ niệm với người đó (0.5đ). Cảm xúc về người đó (0.5đ). Suy nghĩ, nhận xét, mong muốn (1.0đ). |
-| **Creativity** | 1đ | Nội dung (quan sát thú vị, cảm xúc chân thật): 0.5đ. Hình thức (văn phong giàu cảm xúc, hình ảnh, diễn đạt hấp dẫn, từ láy, so sánh, nhân hóa): 0.5đ. Thường cho 0.25-0.5đ, cân nhắc khi cho 0.75, thật sự cân nhắc khi cho 1.0đ. |
+| Tiêu chí       | Điểm | Hướng dẫn chấm                                                                                                                                                                                                                    |
+| :------------- | :--: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Format**     |  2đ  | Viết hoa đầu đoạn, đầu câu; lùi đầu đoạn; không nhiều đoạn; dấu câu hợp lý. Lỗi hình thức: trừ tối đa 0.5đ. Lỗi chính tả, ngữ pháp, viết hoa tùy tiện: trừ tối đa 0.5đ.                                                           |
+| **Content**    |  4đ  | Giới thiệu người muốn miêu tả — mối quan hệ (0.5đ), ấn tượng chung (0.5đ). Miêu tả ngoại hình, tính cách, hành động (1.0đ). Kỷ niệm với người đó (0.5đ). Cảm xúc về người đó (0.5đ). Suy nghĩ, nhận xét, mong muốn (1.0đ).        |
+| **Creativity** |  1đ  | Nội dung (quan sát thú vị, cảm xúc chân thật): 0.5đ. Hình thức (văn phong giàu cảm xúc, hình ảnh, diễn đạt hấp dẫn, từ láy, so sánh, nhân hóa): 0.5đ. Thường cho 0.25-0.5đ, cân nhắc khi cho 0.75, thật sự cân nhắc khi cho 1.0đ. |
 
 ---
 
-
 **— THIS IS THE END OF THE TEST —**
-
-
-

@@ -3,7 +3,7 @@ title: "Test Smoke 07 - Fulltest 90 minutes"
 author: Bob
 pubDatetime: 2026-06-01T07:00:00.000+07:00
 slug: smoke-07
-featured: false
+featured: true
 draft: false
 tags:
   - test-smoke
@@ -13,20 +13,21 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 
 ## Table of contents
 
-
 ## BÀI KHẢO SÁT SỐ 1
 
 **Thời gian: 30 phút (không kể thời gian phát đề)**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Question 1
+
 > Which part of the flower will be grown into a fruit?
 
 **A.** Ovary \
 **B.** Ovule \
 **C.** Stigma \
 **D.** Petal
+
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Bầu nhụy (Ovary) phát triển thành quả chứa hạt sau quá trình thụ tinh.</em></i>
@@ -35,6 +36,7 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 2
+
 > Fill in the missing stages of the reproduction process in humans:
 > Zygote → (1) → (2) → Baby
 
@@ -42,6 +44,7 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 **B.** (1) Sperm, (2) Egg \
 **C.** (1) Embryo, (2) Fetus \
 **D.** (1) Sprem, (2) Fetus
+
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Hợp tử → Phôi (Embryo) → Thai nhi (Fetus) → Em bé.</em></i>
@@ -50,12 +53,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 3
+
 > A class studies about the food pyramid. One student asks which food group we should eat the least.
 
 **A.** Fiber \
 **B.** Grains \
 **C.** Fats, salt and sugar \
 **D.** Dairy
+
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Theo tháp dinh dưỡng, nên ăn ít muối, đường và thức ăn có chứa chất béo (dầu, mỡ).</em></i>
@@ -64,12 +69,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 4
+
 > People use equipment like the one in the picture below to keep a teapot warm. Which material should be used to keep the teapot warm?
 
 **A.** Metal \
 **B.** Cotton \
 **C.** Plastic \
 **D.** Leather
+
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Bông (cotton) dẫn nhiệt kém, giúp giữ nhiệt hiệu quả, thích hợp làm bộ ủ ấm trà.</em></i>
@@ -78,12 +85,14 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 5
+
 > You have a plastic bowl, plastic wrap, a small cup, and a stone. You want to make fresh water from sea water. What should you do?
 
 **A.** Put the rock inside the small cup, then place the cup in the bowl. Pour sea water around it, cover the bowl with plastic wrap, and leave it under the sun. \
 **B.** Put the small cup in the bowl and pour sea water around it. Then cover the bowl with plastic wrap, place the rock on top, and leave it under the sun. \
 **C.** Pour sea water into the small cup, then place it in the bowl. Cover the bowl with plastic wrap, put the rock on top, and leave it under the sun. \
 **D.** Pour sea water into the bowl. Cover the bowl with plastic wrap, place the cup with the rock on top, and leave it under the sun.
+
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Đặt cốc nhỏ vào tô, đổ nước biển quanh cốc, bọc màng bọc thực phẩm, đặt đá lên trên, để dưới ánh nắng.</em></i>
@@ -92,15 +101,16 @@ description: "Full test 90 minutes — MC (Science, History, Math, English, Lite
 ---
 
 ### Question 6
+
 > Look at the table below showing the amount of electricity produced by different types of power sources in Vietnam in the year 2023.
 
-| Type of Sources | Actual in 2023 (million kWh) |
-|-----------------|------------------------------|
-| Hydropower | 80,904 |
-| Coal thermal power | 129,577 |
-| Imported Electricity | 5,037 |
-| Renewable Energy | 37,922 |
-| Of which: Wind Power | 11,367 |
+| Type of Sources      | Actual in 2023 (million kWh) |
+| -------------------- | ---------------------------- |
+| Hydropower           | 80,904                       |
+| Coal thermal power   | 129,577                      |
+| Imported Electricity | 5,037                        |
+| Renewable Energy     | 37,922                       |
+| Of which: Wind Power | 11,367                       |
 
 Which of the following statements are true?
 
@@ -113,6 +123,7 @@ Which of the following statements are true?
 **B.** (2), (3), (4) \
 **C.** (1), (2), (3) \
 **D.** (3), (4)
+
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>(1) sai: năng lượng tái tạo không phải loại SX nhiều nhất. (2)(3)(4) đúng.</em></i>
@@ -121,12 +132,14 @@ Which of the following statements are true?
 ---
 
 ### Question 7
+
 > Based on the map below, which regions border the Red River Delta?
 
 **A.** Northern Midlands and Mountains, Southern region \
 **B.** Northern Midlands and Mountains, Central Coast region \
 **C.** Central Coast, Southern region \
 **D.** Central Highlands, Southern region
+
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Đồng bằng sông Hồng giáp với vùng Trung du miền núi Bắc Bộ và Duyên hải Miền Trung.</em></i>
@@ -135,6 +148,7 @@ Which of the following statements are true?
 ---
 
 ### Question 8
+
 > From the text below, what can you conclude about Đại La?
 
 > "Hướng đi thành Đại La ở vào nơi trung tâm trời đất, được cái thế rồng cuộn hổ ngồi..."
@@ -143,6 +157,7 @@ Which of the following statements are true?
 **B.** Đại La is in a high and dangerous mountain. \
 **C.** Đại La is a flat land and has rich resources. \
 **D.** Đại La is too far from rivers and mountains.
+
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Đại La là vùng đất bằng phẳng, cao ráo, tài nguyên phong phú — phù hợp làm kinh đô (trích Chiếu dời đô).</em></i>
@@ -151,12 +166,14 @@ Which of the following statements are true?
 ---
 
 ### Question 9
+
 > A student was looking at the map of Asia. Which statement is INCORRECT about the terrain of Asia?
 
 **A.** Asia has many high mountains and hills. \
 **B.** Most of Asia's land is plain area. \
 **C.** Three-fourths (3/4) of Asia is made up of mountains and highlands. \
 **D.** The Himalayas, the highest mountain range in the world, is located in Asia.
+
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Câu B sai vì khoảng 3/4 diện tích châu Á được bao phủ bởi núi và cao nguyên, không phải đồng bằng.</em></i>
@@ -165,6 +182,7 @@ Which of the following statements are true?
 ---
 
 ### Question 10
+
 > The poem below was written in remembrance of a national hero during the War of Resistance against the United States. Who was this hero?
 
 > "Hỡi người Anh, đã khép chặt đôi môi
@@ -174,6 +192,7 @@ Which of the following statements are true?
 **B.** Võ Thị Sáu \
 **C.** Nguyễn Văn Trỗi \
 **D.** Nguyễn Thị Định
+
 <details name="question-10">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Nguyễn Văn Trỗi — anh hùng đặt mìn ở cầu Công Lý năm 1964, bị xử bắn tại Khám Chí Hòa.</em></i>
@@ -182,6 +201,7 @@ Which of the following statements are true?
 ---
 
 ### Question 11
+
 > Hoa owns a tree farm. She plants guava trees in the pattern below.
 > Row 1: 4 trees, Row 2: 7 trees, Row 3: 10 trees, Row 4: 13 trees
 > There is enough room to plant four more rows of trees. How many trees will be planted in row 8?
@@ -190,6 +210,7 @@ Which of the following statements are true?
 **B.** 25 trees \
 **C.** 32 trees \
 **D.** 68 trees
+
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Hàng 1: 4, hàng 2: 7, hàng 3: 10, hàng 4: 13 → cộng thêm 3 mỗi hàng. Hàng 8: 4 + 3 × (8-1) = 25.</em></i>
@@ -198,12 +219,14 @@ Which of the following statements are true?
 ---
 
 ### Question 12
+
 > Hằng plays with her diamonds. If she places them in groups of three, two diamonds are left over. The same happens with groups of five. At least how many more diamonds does Hằng need so that she can place them in groups of three or five without any being left over?
 
 **A.** 1 diamond \
 **B.** 4 diamonds \
 **C.** 13 diamonds \
 **D.** 15 diamonds
+
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>C</strong> — <em>Số nhỏ nhất chia hết cho cả 3 và 5 là 15. Hằng cần thêm: 15 − 2 = 13 viên.</em></i>
@@ -212,12 +235,14 @@ Which of the following statements are true?
 ---
 
 ### Question 13
+
 > Nhân is trying to find the treasure chest. To travel from S to the chest, Nhân must travel through all dots and follow this hint: ⇩ ⇩ ⇩ ⇩ ⇩. Which picture describes Nhân's route?
 
 **A.** Route A \
 **B.** Route B \
 **C.** Route C \
 **D.** Route D
+
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Đường đi B có các bước rẽ phù hợp với hint: R-L-L-L-R-R.</em></i>
@@ -226,12 +251,14 @@ Which of the following statements are true?
 ---
 
 ### Question 14
+
 > Ben made a beverage. Ben had two identical cups, X and Y. X was a quarter full of lemonade. Y was a quarter full of orange juice. Ben poured half of X into Y and stirred well. Then he poured half of Y into X. What was the ratio of lemonade to orange juice in cup X in the end?
 
 **A.** 3 : 1 \
 **B.** 1 : 5 \
 **C.** 1 : 1 \
 **D.** 3 : 2
+
 <details name="question-14">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Tỉ lệ cuối cùng của lemonade : orange juice trong cốc X là 3 : 2.</em></i>
@@ -240,13 +267,15 @@ Which of the following statements are true?
 ---
 
 ### Question 15
+
 > Read the announcement and choose the best option to fill in the blank.
-> "Ask Mr. O'Donnell if _____________."
+> "Ask Mr. O'Donnell if **\*\***\_**\*\***."
 
 **A.** you want to speak on the phone in the library \
 **B.** you have lost a smartphone \
 **C.** you have found a smartphone \
 **D.** you want to use the smartphone to talk with him
+
 <details name="question-15">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Thông báo nói tìm thấy smartphone → hỏi ông O'Donnell nếu bạn bị mất điện thoại.</em></i>
@@ -255,12 +284,14 @@ Which of the following statements are true?
 ---
 
 ### Question 16
+
 > Choose the word that does NOT belong with the others.
 
 **A.** pilot \
 **B.** paramedic \
 **C.** nurse \
 **D.** doctor
+
 <details name="question-16">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>A</strong> — <em>Pilot (phi công) không liên quan đến lĩnh vực y tế như paramedic, nurse, doctor.</em></i>
@@ -269,12 +300,14 @@ Which of the following statements are true?
 ---
 
 ### Question 17
+
 > Which of the following sentences is grammatically correct?
 
 **A.** Last month when my dad took I to Thailand was an unforgettable time. \
 **B.** My friend will never forget the day when him got scammed on that day. \
 **C.** I can't remember the folder where I save my important files in that folder. \
 **D.** That was the hotel that provided my family with great services last year.
+
 <details name="question-17">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>Câu D đúng ngữ pháp: "that" thay thế cho "the hotel" làm chủ ngữ. Các câu A, B, C có lỗi đại từ/thừa từ.</em></i>
@@ -283,6 +316,7 @@ Which of the following statements are true?
 ---
 
 ### Question 18
+
 > Đoạn văn sau có (những) phép liên kết câu nào?
 > "Kiến thức là quan trọng nhưng để đột phá, sáng tạo thì trí tưởng tượng quan trọng hơn..."
 
@@ -290,6 +324,7 @@ Which of the following statements are true?
 **B.** Phép lặp \
 **C.** Phép thế, phép lặp \
 **D.** Phép nối, phép thế
+
 <details name="question-18">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Các từ "quan trọng", "trí tưởng tượng", "sáng tạo" được lặp lại → phép lặp.</em></i>
@@ -298,12 +333,14 @@ Which of the following statements are true?
 ---
 
 ### Question 19
+
 > Đâu là cặp từ/cụm từ có chứa thành tố là các từ đồng âm?
 
 **A.** 1 và 2 \
 **B.** 2 và 4 \
 **C.** 3 và 4 \
 **D.** 1 và 3
+
 <details name="question-19">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>B</strong> — <em>Cổ đại (cổ=xưa) và cổ vũ (cổ=đánh trống) là từ đồng âm. Đường phen (đường=chất ngọt) và đường phố (đường=lối đi) là từ đồng âm.</em></i>
@@ -312,6 +349,7 @@ Which of the following statements are true?
 ---
 
 ### Question 20
+
 > Trong đoạn thơ dưới đây, tác giả đã sử dụng biện pháp nghệ thuật nào?
 > "Bàn tay ta làm nên tất cả / Có sức người sỏi đá cũng thành cơm"
 
@@ -319,6 +357,7 @@ Which of the following statements are true?
 **B.** Ẩn dụ \
 **C.** Điệp từ \
 **D.** Nói quá
+
 <details name="question-20">
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>D</strong> — <em>"Sỏi đá cũng thành cơm" — nói quá về sức mạnh của con người lao động.</em></i>
@@ -341,6 +380,7 @@ Scientists are studying ways of making clean electricity that is not made from \
 Wind turbines use the energy from the wind to make electricity. We can build wind turbines in isolated places and also in the \_\_\_\_(2)\_\_\_\_. They can be useful in colder countries \_\_\_\_(3)\_\_\_\_ there is not enough sunshine to use solar energy to make electricity. Germany, for example, makes 6% of its electricity in wind farms. All \_\_\_\_(4)\_\_\_\_ the world, there are more and more wind farms.
 
 ### Question 0
+
 > (natural / unlimited / enormous)
 
 > Answer: \_\_\_\_\_\_
@@ -353,6 +393,7 @@ Wind turbines use the energy from the wind to make electricity. We can build win
 ---
 
 ### Question 1
+
 > (reduce / reuse / recycle)
 
 > Answer: \_\_\_\_\_\_
@@ -365,6 +406,7 @@ Wind turbines use the energy from the wind to make electricity. We can build win
 ---
 
 ### Question 2
+
 > (buildings / tunnels / oceans)
 
 > Answer: \_\_\_\_\_\_
@@ -377,6 +419,7 @@ Wind turbines use the energy from the wind to make electricity. We can build win
 ---
 
 ### Question 3
+
 > (who / when / where)
 
 > Answer: \_\_\_\_\_\_
@@ -389,6 +432,7 @@ Wind turbines use the energy from the wind to make electricity. We can build win
 ---
 
 ### Question 4
+
 > (over / on / in)
 
 > Answer: \_\_\_\_\_\_
@@ -407,6 +451,7 @@ Wind turbines use the energy from the wind to make electricity. We can build win
 Do you know the largest fish in the world is a gentle shark with small teeth? It cannot use its teeth to eat. This fish is a whale shark. An adult whale shark averages 25 feet in length. Some reach 40 feet or more. That's as big as a full-sized school bus and twice as big as a great white shark! Like other fish, whale sharks absorb dissolved oxygen from the water. Another cool thing about the whale shark is the spot on its body. Each whale shark has a unique spot pattern. Scientists studying whale sharks have used this to help to tell one shark from another.
 
 ### Question 5
+
 > Decide whether this sentence is True or False:
 > There is a unique spot pattern on the body of each whale shark.
 
@@ -422,6 +467,7 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 ---
 
 ### Question 6
+
 > Decide whether this sentence is True or False:
 > A full-sized school bus is used to compare with the size of a normal adult whale shark.
 
@@ -437,6 +483,7 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 ---
 
 ### Question 7
+
 > Whale sharks \_\_\_\_\_\_\_\_\_\_\_ from the water.
 
 (get small fish to eat / take in dissolved oxygen / are as big as blue whales)
@@ -453,6 +500,7 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 ---
 
 ### Question 8
+
 > Write down ONE word that you find in the passage which means "kind, calm and mild".
 
 (Write your answer in the blank)
@@ -471,10 +519,12 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 **Task 1: Rearrange the words below to make a meaningful sentence. (2 points)**
 
 **Example:**
+
 > badminton / great / player / Anna / a / is //
 > → Anna is a great badminton player.
 
 #### Question 9
+
 > important / think / carefully / to / critically / before / any decisions / making / it's / and //
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -489,6 +539,7 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 **Task 2: Write complete sentences with the given cues. You must write NO MORE THAN fifteen words for each sentence. (4 points)**
 
 #### Question 10
+
 > not / forget / take / map / sleeping bag / you / the mountain //
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -501,6 +552,7 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 ---
 
 #### Question 11
+
 > city / start / teach / communication skills / primary students / for / 6 months //
 
 > \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -516,7 +568,7 @@ Do you know the largest fish in the world is a gentle shark with small teeth? It
 
 **Thời gian: 30 phút**
 
-*(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)*
+_(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 ### Câu 1 (3 điểm)
 
@@ -561,8 +613,8 @@ Bài làm:
 **a) (4 điểm)** Nếu Mai tiếp tục xây bậc thang theo cách này, hãy điền vào bảng sau các số còn thiếu. **Chỉ viết kết quả.**
 
 | Chiều cao bậc thang | 20cm | 30cm | 40cm | 50cm | 60cm |
-|--------------------|------|------|------|------|------|
-| Số khối lập phương | 15 | 30 | 50 | | |
+| ------------------- | ---- | ---- | ---- | ---- | ---- |
+| Số khối lập phương  | 15   | 30   | 50   |      |      |
 
 <details name="toan-3-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -586,11 +638,9 @@ Bài làm:
 
 ---
 
-
 ## PHẦN ĐỌC HIỂU & LÀM VĂN
 
 **Thời gian: 30 phút**
-
 
 ### Câu 1. Đọc hiểu (8 điểm)
 
@@ -606,7 +656,7 @@ Khỉ Em chưa kể hết chuyện thì một hột đậu phộng bay trúng đ
 
 Khỉ Anh chỉ biết đứng lặng trong một góc chuồng, buồn bã khôn nguôi. Nó không biết điều gì đang chờ em phía trước.
 
-*(Theo truyện ngắn "Hai chú khỉ" — sách giáo dục công dân)*
+_(Theo truyện ngắn "Hai chú khỉ" — sách giáo dục công dân)_
 
 **a) (2 điểm)** Theo câu chuyện, thoạt đầu Khỉ Anh sống ở đâu và Khỉ Em sống ở đâu?
 
@@ -649,8 +699,6 @@ Khỉ Anh chỉ biết đứng lặng trong một góc chuồng, buồn bã khô
     <summary><i>Show awnswer key</i></summary>    
     <i class="answer-key">Đáp án: <strong>Cần tỉnh táo trước cám dỗ, hiểu rõ giá trị thực sự của cuộc sống, không bị cuốn theo những điều dễ dãi mà đánh mất chính mình.</strong><br><em>Nêu từ 2 ý trở lên. Lỗi chính tả: -0.25đ/lỗi. Câu thiếu CN/VN: -0.25đ/lỗi.</em></i>
 </details>
-
-
 
 ### Câu 2. Làm văn (7 điểm)
 
