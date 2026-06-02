@@ -39,23 +39,23 @@ description: "Smoke 02: 13/20 (65%) — Science & English perfect (9/9), History
 
 **📊 Điểm tổng: 69/100** (MC 13/20 + Reading 8/16 + Writing 4/6 + Toán 8/11 + Đọc hiểu 8/8 + Bài văn 6/7)
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 **Science** (Q1–6) | 6/6 | **100%** ✅ | Perfect! Kiến thức Khoa học vững chắc |
-| 📜 **History** (Q7–10) | 1/4 | **25%** ❌ | Yếu — sai 3/4, cần ôn lại lịch sử & địa lý |
-| 🧮 **Maths & IQ** (Q11–14) | 1/4 | **25%** ❌ | Yếu — sai 3/4, cần luyện toán tư duy & IQ |
-| 📘 **English** (Q15–17) | 3/3 | **100%** ✅ | Perfect! |
-| 📖 **Literature** (Q18–20) | 2/3 | **66%** ✅ | Gần perfect — sai 1 câu |
+| Môn                        | Đúng |    Tỉ lệ    | Nhận xét                                   |
+| :------------------------- | :--: | :---------: | :----------------------------------------- |
+| 🔬 **Science** (Q1–6)      | 6/6  | **100%** ✅ | Perfect! Kiến thức Khoa học vững chắc      |
+| 📜 **History** (Q7–10)     | 1/4  | **25%** ❌  | Yếu — sai 3/4, cần ôn lại lịch sử & địa lý |
+| 🧮 **Maths & IQ** (Q11–14) | 1/4  | **25%** ❌  | Yếu — sai 3/4, cần luyện toán tư duy & IQ  |
+| 📘 **English** (Q15–17)    | 3/3  | **100%** ✅ | Perfect!                                   |
+| 📖 **Literature** (Q18–20) | 2/3  | **66%** ✅  | Gần perfect — sai 1 câu                    |
 
 ### Các phần đã hoàn thành khác
 
-| Phần | Điểm đạt | Tổng | Nhận xét |
-|:-----|:--------:|:----:|:---------|
-| 📖 Reading | 4/8 | 16đ | 50% — Sai True/False & word meaning |
-| ✍️ Writing | 1/3 task | 6đ | Sai 1 câu so sánh — cần ôn cấu trúc more/less |
-| 🧮 Toán & IQ | 2/3 bài | 15đ | Sai 1 bài về ngày tháng |
-| 📝 Đọc hiểu | 4/4 | 8đ | ✅ Hoàn hảo |
-| 📝 Bài văn | 6/7 | 7đ | Có thể cải thiện cách miêu tả |
+| Phần         | Điểm đạt | Tổng | Nhận xét                                      |
+| :----------- | :------: | :--: | :-------------------------------------------- |
+| 📖 Reading   |   4/8    | 16đ  | 50% — Sai True/False & word meaning           |
+| ✍️ Writing   | 1/3 task |  6đ  | Sai 1 câu so sánh — cần ôn cấu trúc more/less |
+| 🧮 Toán & IQ | 2/3 bài  | 15đ  | Sai 1 bài về ngày tháng                       |
+| 📝 Đọc hiểu  |   4/4    |  8đ  | ✅ Hoàn hảo                                   |
+| 📝 Bài văn   |   6/7    |  7đ  | Có thể cải thiện cách miêu tả                 |
 
 ### 📈 Phân tích
 
@@ -78,28 +78,28 @@ description: "Smoke 02: 13/20 (65%) — Science & English perfect (9/9), History
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:---|:-----------:|:-----------:|:-------:|
-| 1 | Science | C | C | ✅ |
-| 2 | Science | C | C | ✅ |
-| 3 | Science | C | C | ✅ |
-| 4 | Science | A | A | ✅ |
-| 5 | Science | A | A | ✅ |
-| 6 | Science | B | B | ✅ |
-| 7 | History | C | D | ❌ |
-| 8 | History | C | B | ❌ |
-| 9 | History | B | B | ✅ |
-| 10 | History | C | B | ❌ |
-| 11 | Maths | C | D | ❌ |
-| 12 | Maths | A | A | ✅ |
-| 13 | Maths/IQ | B | A | ❌ |
-| 14 | Maths/IQ | A | D | ❌ |
-| 15 | English | B | B | ✅ |
-| 16 | English | A | A | ✅ |
-| 17 | English | B | B | ✅ |
-| 18 | Literature | C | B | ❌ |
-| 19 | Literature | A | A | ✅ |
-| 20 | Literature | D | D | ✅ |
+| Câu | Môn        | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :--------- | :---------: | :---------: | :-----: |
+|  1  | Science    |      C      |      C      |   ✅    |
+|  2  | Science    |      C      |      C      |   ✅    |
+|  3  | Science    |      C      |      C      |   ✅    |
+|  4  | Science    |      A      |      A      |   ✅    |
+|  5  | Science    |      A      |      A      |   ✅    |
+|  6  | Science    |      B      |      B      |   ✅    |
+|  7  | History    |      C      |      D      |   ❌    |
+|  8  | History    |      C      |      B      |   ❌    |
+|  9  | History    |      B      |      B      |   ✅    |
+| 10  | History    |      C      |      B      |   ❌    |
+| 11  | Maths      |      C      |      D      |   ❌    |
+| 12  | Maths      |      A      |      A      |   ✅    |
+| 13  | Maths/IQ   |      B      |      A      |   ❌    |
+| 14  | Maths/IQ   |      A      |      D      |   ❌    |
+| 15  | English    |      B      |      B      |   ✅    |
+| 16  | English    |      A      |      A      |   ✅    |
+| 17  | English    |      B      |      B      |   ✅    |
+| 18  | Literature |      C      |      B      |   ❌    |
+| 19  | Literature |      A      |      A      |   ✅    |
+| 20  | Literature |      D      |      D      |   ✅    |
 
 ---
 
@@ -107,26 +107,26 @@ description: "Smoke 02: 13/20 (65%) — Science & English perfect (9/9), History
 
 ### 📖 Reading (16 điểm)
 
-| # | Đáp án của Long | Đáp án đúng | Kết quả |
-|:-:|:--------------:|:-----------:|:-------:|
-| 1 | B | B | ✅ |
-| 2 | B | B | ✅ |
-| 3 | C | C | ✅ |
-| 4 | True | False | ❌ |
-| 5 | True | False | ❌ |
-| 6 | False | False | ✅ |
-| 7 | impact | trade | ❌ |
-| 8 | compare | displaying | ❌ |
+|  #  | Đáp án của Long | Đáp án đúng | Kết quả |
+| :-: | :-------------: | :---------: | :-----: |
+|  1  |        B        |      B      |   ✅    |
+|  2  |        B        |      B      |   ✅    |
+|  3  |        C        |      C      |   ✅    |
+|  4  |      True       |    False    |   ❌    |
+|  5  |      True       |    False    |   ❌    |
+|  6  |      False      |    False    |   ✅    |
+|  7  |     impact      |    trade    |   ❌    |
+|  8  |     compare     | displaying  |   ❌    |
 
 **Kết quả: 4/8 (50%)**
 
 ### ✍️ Writing (6 điểm)
 
-| # | Câu viết của Long | Đáp án mẫu | Kết quả |
-|:-:|:-----------------|:-----------|:-------:|
-| Task 1 | Sarah bought a cute doll three years ago. | Sarah bought a cute doll three years ago. | ✅ |
-| Q1 | Learning English is not difficult than learning french | Learning English is not more difficult than learning French. | ❌ |
-| Q2 | Rosie is speaking english fluently and clearly now | Rosie is speaking English fluently and clearly now. | ✅ |
+|   #    | Câu viết của Long                                      | Đáp án mẫu                                                   | Kết quả |
+| :----: | :----------------------------------------------------- | :----------------------------------------------------------- | :-----: |
+| Task 1 | Sarah bought a cute doll three years ago.              | Sarah bought a cute doll three years ago.                    |   ✅    |
+|   Q1   | Learning English is not difficult than learning french | Learning English is not more difficult than learning French. |   ❌    |
+|   Q2   | Rosie is speaking english fluently and clearly now     | Rosie is speaking English fluently and clearly now.          |   ✅    |
 
 **Kết quả: 1/3 (33%)**
 
@@ -134,11 +134,11 @@ description: "Smoke 02: 13/20 (65%) — Science & English perfect (9/9), History
 
 ## 🧮 Kết Quả Toán & IQ
 
-| Bài | Đáp án của Long | Đáp án đúng | Kết quả |
-|:---:|:--------------:|:-----------:|:-------:|
-| 1 (3đ) | Thứ 5 | Chủ Nhật | ❌ |
-| 3a (4đ) | Vẽ hình đúng | Vẽ hình đúng | ✅ |
-| 3b (4đ) | 27 mét vuông | 27 mét vuông | ✅ |
+|   Bài   | Đáp án của Long | Đáp án đúng  | Kết quả |
+| :-----: | :-------------: | :----------: | :-----: |
+| 1 (3đ)  |      Thứ 5      |   Chủ Nhật   |   ❌    |
+| 3a (4đ) |  Vẽ hình đúng   | Vẽ hình đúng |   ✅    |
+| 3b (4đ) |  27 mét vuông   | 27 mét vuông |   ✅    |
 
 **Kết quả: 2/3 (66%)**
 
@@ -148,7 +148,7 @@ description: "Smoke 02: 13/20 (65%) — Science & English perfect (9/9), History
 
 **Bài gốc (đạt 6/7):**
 
-> *(Bài viết của học sinh trống trong file gốc)*
+> _(Bài viết của học sinh trống trong file gốc)_
 
 ---
 

@@ -11,7 +11,6 @@ tags:
 description: "Bài khảo sát số 6"
 ---
 
-
 <figure>
   <img
     src="https://images.pexels.com/photos/7092417/pexels-photo-7092417.jpeg?auto=compress&cs=tinysrgb&w=900"
@@ -23,15 +22,15 @@ description: "Bài khảo sát số 6"
   </figcaption>
 </figure>
 
-
 ## Table of contents
 
 ## BÀI KHẢO SÁT SỐ 1
 
-*Thời gian làm bài: 30 phút (không kể thời gian phát đề)*  
-*THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI*
+_Thời gian làm bài: 30 phút (không kể thời gian phát đề)_  
+_THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI_
 
 ### Question 1
+
 > Cholera is a disease that affects the digestive system. People with cholera may experience stomach rumbling, vomiting, and severe diarrhea, which can lead to dehydration and weakness. What is the cause of cholera?
 
 **A**. Bacteria \
@@ -47,11 +46,12 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 2
+
 > Air pollution is a major change in the composition of the air. It is mainly caused by smoke, dust, vapor, and harmful gases. It can produce odors, reduce visibility, cause climate change, make people sick, and harm animals or crops. Which of the following images best shows air pollution?
-> *[Image A: factory smokestacks emitting thick white smoke]*
-> *[Image B: polluted river with trash]*
-> *[Image C: plastic waste on beach]*
-> *[Image D: dirty water flowing from a pipe]*
+> _[Image A: factory smokestacks emitting thick white smoke]_
+> _[Image B: polluted river with trash]_
+> _[Image C: plastic waste on beach]_
+> _[Image D: dirty water flowing from a pipe]_
 
 **A**. A \
 **B**. B \
@@ -66,6 +66,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 3
+
 > In an electric circuit, what is the main function of a wire?
 
 **A**. Supplies electrical energy to the circuit \
@@ -81,6 +82,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 4
+
 > When growing melons, farmers often use a cotton swab to move pollen from the stamen of the male flower and put it into the stigma of the female flower as shown. Why do they need to do this?
 
 **A**. To make the flower petals grow faster \
@@ -96,10 +98,11 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 5
+
 > Mr. Tony needs to choose a material to make safety helmets for workers to protect them from falling objects. The material must be strong and waterproof. Based on the table, which material is the best choice?
 
 | Material | Strong | Waterproof |
-|----------|--------|------------|
+| -------- | ------ | ---------- |
 | W        | NO     | YES        |
 | X        | YES    | NO         |
 | Y        | NO     | YES        |
@@ -118,6 +121,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 6
+
 > Rapunzel wants to test how easily different materials catch fire. In her experiment, she uses a blue flame to test untreated wool and a yellow flame to test flame-proof cotton. What should Rapunzel do to make her experiment a fair test?
 
 **A**. She should test both materials outdoors to see the real effect of wind. \
@@ -133,6 +137,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 7
+
 > What is the traditional musical instrument of the Central Highlands (Tây Nguyên)?
 
 **A**. Saxophone \
@@ -148,6 +153,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 8
+
 > The Red River Delta region is home to hundreds of long-standing traditional craft villages. The image below shows Vạn Phúc Silk Village, a nationally renowned silk-weaving village that has existed for over a thousand years. In which city is Vạn Phúc Silk Village located today?
 
 **A**. Ninh Bình \
@@ -163,12 +169,13 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 9
+
 > To fight against the Ming army, in 1418, Lê Lợi started a rebellion in Lam Sơn (Thanh Hóa). Match each phase with its correct major event:
-> 
+>
 > Phase 1 (1418–1423)  
 > Phase 2 (1424–1425)  
 > Phase 3 (1426–1427)
-> 
+>
 > Events:  
 > (a) The army won big battles in Chi Lăng and Xương Giang. The Ming gave up, and the rebellion won.  
 > (b) The rebel army was surrounded many times, so they had to move to the mountains of Chí Linh three times.  
@@ -187,8 +194,9 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 10
+
 > The image below shows fighter jets flying over the center of Ho Chi Minh City on the morning of March 28, 2025. These aircraft belong to the Air Defense — Air Force of Vietnam's People's Army. What important national event were these training flights celebrating?
-> *[Image: Fighter jets flying over the center of District 1, Ho Chi Minh City (Source: Thanh Nien newspaper)]*
+> _[Image: Fighter jets flying over the center of District 1, Ho Chi Minh City (Source: Thanh Nien newspaper)]_
 
 **A**. The 70th anniversary of Vietnam Doctors' Day \
 **B**. The 70th anniversary of the Điện Biên Phủ Victory \
@@ -203,8 +211,9 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 11
+
 > Two squares, each with a side length of 10 cm, overlap as shown in the diagram. The shape of the overlap is also a square, which has an area of 16 square centimetres. In centimetres, what is the perimeter of the combined shape?
-> *[Diagram: two overlapping squares, each 10cm side, overlap is a 4cm × 4cm square]*
+> _[Diagram: two overlapping squares, each 10cm side, overlap is a 4cm × 4cm square]_
 
 **A**. 40 cm \
 **B**. 56 cm \
@@ -219,6 +228,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 12
+
 > Tom has 12 numbers which he wants to put into five cups labeled A, B, C, D, E. He wants the sum of the numbers in each cup to be a whole number. Furthermore, he wants the five whole numbers to be consecutive and increasing from A to E. The twelve numbers Tom has are: 2, 2, 2, 2.5, 2.5, 3, 3, 3, 3, 3.5, 4, and 4.5. If one number 2 goes into cup E and one number 3 goes into cup B, what cup must number 3.5 go into?
 
 **A**. C \
@@ -234,8 +244,9 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 13
+
 > The chart below shows the fruits that students in class 3B chose for their picnic. Find the percentage of students choosing bananas or mangoes compared to those choosing apples or strawberries.
-> *[Bar chart: Banana=10, Mango=8, Strawberry=12, Apple=8, Orange=6]*
+> _[Bar chart: Banana=10, Mango=8, Strawberry=12, Apple=8, Orange=6]_
 
 **A**. 80% \
 **B**. 125% \
@@ -250,6 +261,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 14
+
 > In class 5A, each desk had only two seats, and no student sat alone. After arranging seats for 40 students, the teacher found that 75% of the boys shared a desk with girls, and 50% of the girls shared a desk with boys. How many girls are there in class 5A?
 
 **A**. 18 girls \
@@ -265,8 +277,9 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 15
+
 > What does the sign on the right say?
-> 
+>
 > **Susan.**  
 > We need to talk urgently about tomorrow's maths test!  
 > Give me a ring.  
@@ -285,6 +298,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 16
+
 > Choose the best answer to fill in the blank.
 > A good \_\_\_\_\_\_ is someone who has the skills to manage, guide, and motivate a team of people to complete tasks successfully and effectively.
 
@@ -301,6 +315,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 17
+
 > Read the question and choose the best option A, B, C or D. Which of the following sentences is grammatically correct?
 
 **A**. Do you remember the day when we got married that day? \
@@ -316,8 +331,9 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 18
+
 > Đọc đoạn thơ sau và cho biết tác giả đã sử dụng những biện pháp tu từ nào?
-> 
+>
 > Trăng bơi trong đáy nước  
 > Trăng ngủ trên đỉnh núi  
 > Trăng soi giếng khơi trong  
@@ -343,6 +359,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 19
+
 > Trong các phương án dưới đây, đâu là phương án sử dụng đúng dấu câu trong tiếng Việt?
 
 **A**. Lớp tôi là một tập thể rất đặc biệt: có bạn học cực kỳ giỏi; có một số bạn khác có nhiều năng khiếu như chơi nhạc cụ, múa, hát... lại có những bạn rất vui tính, lúc nào cũng khiến cả lớp cười ồ lên. \
@@ -358,6 +375,7 @@ description: "Bài khảo sát số 6"
 ---
 
 ### Question 20
+
 > Câu nào dưới đây thể hiện đúng mối quan hệ giả thiết – kết quả giữa các vế câu trong câu ghép?
 
 **A**. Giá mà tôi không ương bướng thì cái Linh đã chẳng giận tôi đến thế. \
@@ -378,8 +396,7 @@ description: "Bài khảo sát số 6"
 
 ## BÀI KHẢO SÁT SỐ 2 — PHẦN TIẾNG ANH
 
-*Thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)*
-
+_Thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)_
 
 <figure>
   <img
@@ -397,7 +414,7 @@ description: "Bài khảo sát số 6"
 
 ### PART 2: READING (16 points)
 
-*Read the following passage and answer the questions.*
+_Read the following passage and answer the questions._
 
 **GROWTH AND FIXED MINDSET**
 
@@ -410,6 +427,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 1
+
 > Which of the following statements can best describe the term "growth mindset"?
 > (Write A, B, or C in the blank)
 
@@ -425,6 +443,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 2
+
 > How do students with a growth mindset think about failures?
 > (Write A, B, or C in the blank)
 
@@ -440,6 +459,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 3
+
 > How do people with a fixed mindset feel about new challenges?
 > (Write A, B, or C in the blank)
 
@@ -455,6 +475,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 4
+
 > Decide whether this statement is True or False:
 > "The passage indicates that people with a growth mindset will give up easily when things are difficult."
 
@@ -468,6 +489,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 5
+
 > Decide whether this statement is True or False:
 > "Students with a fixed mindset don't feel stressed and exhausted when trying new ways of studying."
 
@@ -481,6 +503,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 6
+
 > Decide whether this statement is True or False:
 > "The passage implies that recognizing the differences between the two mindsets can assist students in the learning process."
 
@@ -494,6 +517,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 7
+
 > What is one of the benefits a student may have if they have a growth mindset?
 
 (Write your answer in the blank)
@@ -506,6 +530,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 8
+
 > Find ONE word in the passage that means "the hard work and effort that somebody puts into an activity because they think it is important."
 
 (Write your answer in the blank)
@@ -521,11 +546,13 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 
 **Task 1: Rearrange the words below to make a meaningful sentence.**
 
-*Example:*
+_Example:_
+
 > badminton / great / player / Anna / a / is //
 > → Anna is a great badminton player.
 
 #### Question 1
+
 > badminton / off / to / with / the TV / play / turned / Anna / her friends //
 > → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -538,11 +565,13 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 
 **Task 2: Write complete sentences with the given cues. You must write NO MORE THAN fifteen words for each sentence.**
 
-*Example:*
+_Example:_
+
 > Tuan / be / tall / Anna //
 > → Tuan is taller than Anna.
 
 #### Question 2
+
 > Lucy / her friends / shop / mall / the moment //
 > → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -554,6 +583,7 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ---
 
 #### Question 3
+
 > every year / Vietnamese people / occasion / call / "Independence Day" / remember / country / freedom //
 > → \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -571,12 +601,13 @@ In conclusion, embracing a growth mindset can provide many advantages, such as i
 ## PHẦN TOÁN & IQ
 
 | PART 1 | PART 2 | PART 3 | FINAL |
-|--------|--------|--------|-------|
-| | | | |
+| ------ | ------ | ------ | ----- |
+|        |        |        |       |
 
-*Giám thị không giải thích gì thêm*
+_Giám thị không giải thích gì thêm_
 
 ### Câu 1 (3 điểm)
+
 > Lễ kỉ niệm 50 năm Ngày Giải phóng miền Nam, thống nhất đất nước được tổ chức vào thứ Tư, ngày 30/4/2025. Hỏi lễ kỉ niệm 60 năm Ngày Giải phóng miền Nam, thống nhất đất nước là ngày thứ mấy trong tuần? **Chỉ viết kết quả.**
 
 Trả lời: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -589,8 +620,9 @@ Trả lời: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ---
 
 ### Câu 2 (4 điểm)
+
 > Một cửa hàng hoa quả có một số táo và cam. Sau khi bán cùng số lượng táo và cam, cửa hàng còn lại 20 quả cam và 60 quả táo. Hỏi người đó đã bán được bao nhiêu quả cam, biết ban đầu số quả cam bằng 3/5 số quả táo?
-> 
+>
 > **Trình bày lời giải, phép tính, đáp số.**
 
 <details name="question-2">
@@ -601,15 +633,16 @@ Trả lời: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ---
 
 ### Câu 3 (8 điểm)
+
 > Nhân đi xe đạp từ nhà (điểm A) đến trường (điểm C) lúc 5 giờ. Đoạn đường từ A đến C gồm một đoạn đường bằng phẳng (AB) và một đoạn đường dốc (BC).
-> 
+>
 > - Trên đoạn đường bằng phẳng AB, Nhân đi với vận tốc 4 km/giờ.
 > - Trên đoạn đường dốc BC, Nhân đi với vận tốc 6 km/giờ.
 > - Nhân đến trường lúc 6 giờ 48 phút, và nghỉ dọc đường 48 phút.
-> 
+>
 > a) Tính thời gian Nhân di chuyển trên đoạn đường bằng phẳng.  
 > b) Biết AB = BC, tính độ dài quãng đường từ nhà Nhân đến trường.
-> 
+>
 > **Trình bày lời giải, phép tính, đáp số.**
 
 <details name="question-3">
@@ -626,10 +659,10 @@ Trả lời: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ## PHẦN ĐỌC HIỂU & LÀM VĂN
 
 | PART 1 | PART 2 | PART 3 | FINAL |
-|--------|--------|--------|-------|
-| | | | |
+| ------ | ------ | ------ | ----- |
+|        |        |        |       |
 
-*Giám thị không giải thích gì thêm*
+_Giám thị không giải thích gì thêm_
 
 ### Câu 1. Đọc hiểu (8 điểm)
 
@@ -637,23 +670,23 @@ Trả lời: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **HÀNH TINH NHỎ**
 
-*Khi em bé vừa chào đời*  
-*Nụ cười mẹ là ánh sáng*  
-*Đôi tay cha là bầu trời*  
-*Câu chuyện của bà là mặt đất*  
-*Ông là dòng nước mát trong*  
+_Khi em bé vừa chào đời_  
+_Nụ cười mẹ là ánh sáng_  
+_Đôi tay cha là bầu trời_  
+_Câu chuyện của bà là mặt đất_  
+_Ông là dòng nước mát trong_
 
-*Hành tinh nhỏ của ông bà*  
-*Hành tinh nhỏ của cha mẹ*  
-*Mỗi ngày một điều đổi khác*  
-*Thêm hoa thêm cỏ xanh rì*  
+_Hành tinh nhỏ của ông bà_  
+_Hành tinh nhỏ của cha mẹ_  
+_Mỗi ngày một điều đổi khác_  
+_Thêm hoa thêm cỏ xanh rì_
 
-*Và rồi một ngày thức giấc*  
-*Cha mẹ vội vã ra đi*  
-*Ông bà ru em ngủ tiếp*  
-*Hành tinh nhỏ ngủ thật ngoan*  
+_Và rồi một ngày thức giấc_  
+_Cha mẹ vội vã ra đi_  
+_Ông bà ru em ngủ tiếp_  
+_Hành tinh nhỏ ngủ thật ngoan_
 
-*(Theo Nguyễn Hữu Thông)*
+_(Theo Nguyễn Hữu Thông)_
 
 > **a) (2 điểm)** Trong bài thơ, khi em bé vừa chào đời, mỗi người trong gia đình được liên tưởng với những hình ảnh khác nhau. Hãy cho biết những hình ảnh đó là gì.
 
@@ -692,6 +725,7 @@ Trả lời: \_\_\_\_\_\_\_\_\_\_\_\_\_\_
 ---
 
 ### Câu 2. Làm văn (7 điểm)
+
 > Hãy viết một đoạn văn (khoảng 15–20 dòng) trình bày cảm nhận của em về bài thơ "Hành tinh nhỏ" của tác giả Nguyễn Hữu Thông.
 
 <details name="question-2">

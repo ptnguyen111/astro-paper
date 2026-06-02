@@ -34,12 +34,12 @@ keywords:
 
 **🏆 Overall: 52.5/100**
 
-| Phần | Điểm | Nhận xét |
-|:-----|:----:|:---------|
-| 🧪 Trắc nghiệm (Part A) | **30/40** ✅ | 75% — khá tốt |
-| 📘 English (Part B1) | **8/30** ❌ | Writing và Rearrange cần luyện lại |
-| 🔢 Toán & IQ (Part B2) | **0/15** ❌ | Mới làm 2/4 bài; chưa làm Bài 3-4 |
-| 🇻🇳 Văn (Part B3) | **14.5/15** 🎉 | Đọc hiểu xuất sắc, viết gần hoàn chỉnh |
+| Phần                    |      Điểm      | Nhận xét                               |
+| :---------------------- | :------------: | :------------------------------------- |
+| 🧪 Trắc nghiệm (Part A) |  **30/40** ✅  | 75% — khá tốt                          |
+| 📘 English (Part B1)    |  **8/30** ❌   | Writing và Rearrange cần luyện lại     |
+| 🔢 Toán & IQ (Part B2)  |  **0/15** ❌   | Mới làm 2/4 bài; chưa làm Bài 3-4      |
+| 🇻🇳 Văn (Part B3)        | **14.5/15** 🎉 | Đọc hiểu xuất sắc, viết gần hoàn chỉnh |
 
 ### 📈 Phân tích
 
@@ -55,28 +55,28 @@ keywords:
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án | Đáp án đúng | Kết quả |
-|:---:|:----|:------:|:-----------:|:-------:|
-| 1 | Science | D | D | ✅ |
-| 2 | Science | A | C | ❌ |
-| 3 | Science | C | C | ✅ |
-| 4 | Science | A | A | ✅ |
-| 5 | Science | A | D | ❌ |
-| 6 | Science | C | C | ✅ |
-| 7 | Sử/Địa | B | B | ✅ |
-| 8 | Sử/Địa | C | C | ✅ |
-| 9 | Sử/Địa | B | B | ✅ |
-| 10 | Sử/Địa | B | B | ✅ |
-| 11 | Sử/Địa | A | A | ✅ |
-| 12 | English | B | B | ✅ |
-| 13 | English | A | D | ❌ |
-| 14 | Math | C | C | ✅ |
-| 15 | Math | C | C | ✅ |
-| 16 | Math | A | A | ✅ |
-| 17 | Math | C | D | ❌ |
-| 18 | Văn | B | B | ✅ |
-| 19 | Văn | A | B | ❌ |
-| 20 | Văn | B | B | ✅ |
+| Câu | Môn     | Đáp án | Đáp án đúng | Kết quả |
+| :-: | :------ | :----: | :---------: | :-----: |
+|  1  | Science |   D    |      D      |   ✅    |
+|  2  | Science |   A    |      C      |   ❌    |
+|  3  | Science |   C    |      C      |   ✅    |
+|  4  | Science |   A    |      A      |   ✅    |
+|  5  | Science |   A    |      D      |   ❌    |
+|  6  | Science |   C    |      C      |   ✅    |
+|  7  | Sử/Địa  |   B    |      B      |   ✅    |
+|  8  | Sử/Địa  |   C    |      C      |   ✅    |
+|  9  | Sử/Địa  |   B    |      B      |   ✅    |
+| 10  | Sử/Địa  |   B    |      B      |   ✅    |
+| 11  | Sử/Địa  |   A    |      A      |   ✅    |
+| 12  | English |   B    |      B      |   ✅    |
+| 13  | English |   A    |      D      |   ❌    |
+| 14  | Math    |   C    |      C      |   ✅    |
+| 15  | Math    |   C    |      C      |   ✅    |
+| 16  | Math    |   A    |      A      |   ✅    |
+| 17  | Math    |   C    |      D      |   ❌    |
+| 18  | Văn     |   B    |      B      |   ✅    |
+| 19  | Văn     |   A    |      B      |   ❌    |
+| 20  | Văn     |   B    |      B      |   ✅    |
 
 ---
 
@@ -95,24 +95,24 @@ Bài quiz bị pause trước khi hoàn thành Toán. Cần tiếp tục làm:
 
 ### Câu 1. Đọc hiểu — Học từ thất bại (8/8)
 
-| Câu | Nội dung | Kết quả |
-|:---:|:---------|:-------:|
-| a) | Các cách nhìn nhận về thất bại | ✅ 2/2 |
-| b) | Ý nghĩa câu nói của Edison | ✅ 2/2 |
-| c) | Thông điệp chính | ✅ 2/2 |
-| d) | Trải nghiệm cá nhân | ✅ 2/2 |
+| Câu | Nội dung                       | Kết quả |
+| :-: | :----------------------------- | :-----: |
+| a)  | Các cách nhìn nhận về thất bại | ✅ 2/2  |
+| b)  | Ý nghĩa câu nói của Edison     | ✅ 2/2  |
+| c)  | Thông điệp chính               | ✅ 2/2  |
+| d)  | Trải nghiệm cá nhân            | ✅ 2/2  |
 
 ### Câu 2. Viết đoạn văn (6.5/7)
 
-| Tiêu chí | Điểm |
-|:---------|:----:|
-| Hình thức | 1/1 |
-| Mở đoạn | 1/1 |
-| Giải thích | 1.5/1.5 |
-| Dẫn chứng | 2/2 |
-| Kết đoạn | 0.5/0.5 |
-| Ngôn ngữ | 0.5/1 |
-| **Tổng** | **6.5/7** |
+| Tiêu chí   |   Điểm    |
+| :--------- | :-------: |
+| Hình thức  |    1/1    |
+| Mở đoạn    |    1/1    |
+| Giải thích |  1.5/1.5  |
+| Dẫn chứng  |    2/2    |
+| Kết đoạn   |  0.5/0.5  |
+| Ngôn ngữ   |   0.5/1   |
+| **Tổng**   | **6.5/7** |
 
 ---
 

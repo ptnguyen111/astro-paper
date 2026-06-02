@@ -27,12 +27,12 @@ description: "MC 04: 16/20 (80%) — Social Studies & Math perfect (11/11), Scie
 
 **🏆 Overall: 16/20 (80%)** — ⏱ Chưa ghi nhận thời gian
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 Science (Q1–6) | 3/6 | **50%** ❌ | Cần ôn heart chambers, germination, ambulance mirror |
-| 🌍 Social Studies (Q7–10, Q12) | 5/5 | **100%** 🎉 | Hoàn hảo! |
-| 🔢 Math & Logic (Q11, Q13–17) | 6/6 | **100%** 🎉 | Hoàn hảo! |
-| 🇻🇳 Văn hóa & Văn học (Q15, Q18–20) | 2/3 | **67%** ✅ | Nhầm Qua Đèo Ngang — ta với ta = cô đơn |
+| Môn                                | Đúng |    Tỉ lệ    | Nhận xét                                             |
+| :--------------------------------- | :--: | :---------: | :--------------------------------------------------- |
+| 🔬 Science (Q1–6)                  | 3/6  | **50%** ❌  | Cần ôn heart chambers, germination, ambulance mirror |
+| 🌍 Social Studies (Q7–10, Q12)     | 5/5  | **100%** 🎉 | Hoàn hảo!                                            |
+| 🔢 Math & Logic (Q11, Q13–17)      | 6/6  | **100%** 🎉 | Hoàn hảo!                                            |
+| 🇻🇳 Văn hóa & Văn học (Q15, Q18–20) | 2/3  | **67%** ✅  | Nhầm Qua Đèo Ngang — ta với ta = cô đơn              |
 
 ### 📈 Phân tích
 
@@ -49,28 +49,28 @@ description: "MC 04: 16/20 (80%) — Social Studies & Math perfect (11/11), Scie
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:---|:-----------:|:-----------:|:-------:|
-| 1 | Science | D | C | ❌ |
-| 2 | Science | C | C | ✅ |
-| 3 | Science | C | C | ✅ |
-| 4 | Science | A | B | ❌ |
-| 5 | Science | D | A | ❌ |
-| 6 | Science | B | B | ✅ |
-| 7 | Social | B | B | ✅ |
-| 8 | Social | B | B | ✅ |
-| 9 | Social | B | B | ✅ |
-| 10 | Social | B | B | ✅ |
-| 11 | Math | B | B | ✅ |
-| 12 | Social | B | B | ✅ |
-| 13 | Math | B | B | ✅ |
-| 14 | Math | B | B | ✅ |
-| 15 | Văn hóa | A | A | ✅ |
-| 16 | Math | B | B | ✅ |
-| 17 | Math | A | A | ✅ |
-| 18 | Văn học | B | B | ✅ |
-| 19 | Văn học | A | B | ❌ |
-| 20 | Văn học | C | C | ✅ |
+| Câu | Môn     | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :------ | :---------: | :---------: | :-----: |
+|  1  | Science |      D      |      C      |   ❌    |
+|  2  | Science |      C      |      C      |   ✅    |
+|  3  | Science |      C      |      C      |   ✅    |
+|  4  | Science |      A      |      B      |   ❌    |
+|  5  | Science |      D      |      A      |   ❌    |
+|  6  | Science |      B      |      B      |   ✅    |
+|  7  | Social  |      B      |      B      |   ✅    |
+|  8  | Social  |      B      |      B      |   ✅    |
+|  9  | Social  |      B      |      B      |   ✅    |
+| 10  | Social  |      B      |      B      |   ✅    |
+| 11  | Math    |      B      |      B      |   ✅    |
+| 12  | Social  |      B      |      B      |   ✅    |
+| 13  | Math    |      B      |      B      |   ✅    |
+| 14  | Math    |      B      |      B      |   ✅    |
+| 15  | Văn hóa |      A      |      A      |   ✅    |
+| 16  | Math    |      B      |      B      |   ✅    |
+| 17  | Math    |      A      |      A      |   ✅    |
+| 18  | Văn học |      B      |      B      |   ✅    |
+| 19  | Văn học |      A      |      B      |   ❌    |
+| 20  | Văn học |      C      |      C      |   ✅    |
 
 ---
 
