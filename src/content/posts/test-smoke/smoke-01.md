@@ -26,8 +26,8 @@ description: "Bài khảo sát số 1"
 
 ## BÀI KHẢO SÁT SỐ 1
 
-**Họ và tên:** **********\_\_\_\_********** **Lớp:** **\_\_\_\_** \
-**Ngày thi:** **********\_\_\_\_********** **SBD:** **\_\_\_\_**
+**Họ và tên:** ****\*\*****\_\_\_\_****\*\***** **Lớp:** **\_\_\_\_** \
+**Ngày thi:** ****\*\*****\_\_\_\_****\*\***** **SBD:** **\_\_\_\_**
 
 _Thời gian làm bài: 30 phút (không kể thời gian phát đề)_  
 _THÍ SINH KHÔNG ĐƯỢC PHÉP SỬ DỤNG MÁY TÍNH BỎ TÚI_
@@ -364,8 +364,8 @@ Which result is most likely to be the volume of water in container C after four 
 
 ## BÀI KHẢO SÁT SỐ 2 — PHẦN TIẾNG ANH
 
-**Họ và tên:** **********\_\_\_\_********** **Lớp:** **\_\_\_\_**  
-**Ngày thi:** **********\_\_\_\_********** **SBD:** **\_\_\_\_**
+**Họ và tên:** ****\*\*****\_\_\_\_****\*\***** **Lớp:** **\_\_\_\_**  
+**Ngày thi:** ****\*\*****\_\_\_\_****\*\***** **SBD:** **\_\_\_\_**
 
 _Tổng thời gian làm bài 3 phần: 60 phút (không kể thời gian phát đề)_
 

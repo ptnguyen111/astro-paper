@@ -264,7 +264,7 @@ _(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 
 > Choose the best response:
 > Beverly: The party is at 6:30. Can you bring some music?
-> Amanda: ******\_\_\_******
+> Amanda: **\*\***\_\_\_**\*\***
 
 **A.** I'd love to, thanks. The music is great! \
 **B.** Sure! You can use my dance CDs. \
@@ -281,7 +281,7 @@ _(Thí sinh KHÔNG được phép sử dụng máy tính bỏ túi)_
 ### Question 17
 
 > Choose the best option to fill in the blank:
-> At the present time, everyone in the badminton club ******\_\_\_****** monthly membership fees.
+> At the present time, everyone in the badminton club **\*\***\_\_\_**\*\*** monthly membership fees.
 
 **A.** will be reminded to \
 **B.** is being reminded about \

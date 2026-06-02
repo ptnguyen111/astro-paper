@@ -421,7 +421,7 @@ Being resilient doesn't mean we never feel bad. It means we know how to deal wit
     <i class="answer-key">Đáp án: <strong>A (It's when you feel a little worried or upset)</strong><br><em>—</em></i>
 </details>
 
-_(Write A, B, or C in the blank)_ ****\_\_\_****
+_(Write A, B, or C in the blank)_ \***\*\_\_\_\*\***
 
 ---
 
@@ -439,20 +439,20 @@ _(Write A, B, or C in the blank)_ ****\_\_\_****
     <i class="answer-key">Đáp án: <strong>C (green zone)</strong><br><em>—</em></i>
 </details>
 
-_(Write A, B, or C in the blank)_ ****\_\_\_****
+_(Write A, B, or C in the blank)_ \***\*\_\_\_\*\***
 
 ---
 
 ### Question 3
 
 > Choose the best answer A, B, or C to fill in the blank.
-> The passage is mainly about ****\_****
+> The passage is mainly about \***\*\_\*\***
 
 **A.** how to build strong feelings and find your resilient zone. \
 **B.** how to avoid feeling sad or angry forever. \
 **C.** how to find fun places to play with your friends.
 
-_(Write A, B, or C in the blank)_ ****\_\_\_****
+_(Write A, B, or C in the blank)_ \***\*\_\_\_\*\***
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
@@ -466,7 +466,7 @@ _(Write A, B, or C in the blank)_ ****\_\_\_****
 > Decide whether this statement is True or False:
 > According to the passage, it's not normal to have different feelings or move through different zones.
 
-(Write True or False in the blank) ****\_\_\_****
+(Write True or False in the blank) \***\*\_\_\_\*\***
 
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
@@ -480,7 +480,7 @@ _(Write A, B, or C in the blank)_ ****\_\_\_****
 > Decide whether this statement is True or False:
 > The passage suggests that you should avoid talking with adults like parents and teachers to find your resilient zone.
 
-(Write True or False in the blank) ****\_\_\_****
+(Write True or False in the blank) \***\*\_\_\_\*\***
 
 <details name="question-8">
     <summary><i>Show awnswer key</i></summary>    
@@ -494,7 +494,7 @@ _(Write A, B, or C in the blank)_ ****\_\_\_****
 > Decide whether this statement is True or False:
 > The passage implies that people are born with the natural ability to go back to the "resilient zone."
 
-(Write True or False in the blank) ****\_\_\_****
+(Write True or False in the blank) \***\*\_\_\_\*\***
 
 <details name="question-9">
     <summary><i>Show awnswer key</i></summary>    
@@ -519,7 +519,7 @@ _(Write A, B, or C in the blank)_ ****\_\_\_****
 ### Question 8
 
 > Find TWO words in the passage that mean "to handle, manage negative feelings or solve problems."
-> (Write your answer in the blank) ****\_\_\_****
+> (Write your answer in the blank) \***\*\_\_\_\*\***
 
 <details name="question-11">
     <summary><i>Show awnswer key</i></summary>    
@@ -539,7 +539,7 @@ Example: badminton / great / player / Anna / a / is //
 
 > Rosie / finish / doesn't / homework / her / if / she / go / will / not / outside / this / weekend //
 
-→ **********\_\_\_**********
+→ ****\*\*****\_\_\_****\*\*****
 
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
@@ -558,7 +558,7 @@ Example: Tuan / be / tall / Anna //
 ### Question 10
 
 > mom / think / sister / not / get / bad scores / test / tomorrow //
-> → **********\_\_\_**********
+> → ****\*\*****\_\_\_****\*\*****
 
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
@@ -570,7 +570,7 @@ Example: Tuan / be / tall / Anna //
 ### Question 11
 
 > beautiful / flowers / be / plant / park / volunteers / since / last week //
-> → **************************************\_\_\_**************************************
+> → ******************\*\*******************\_\_\_******************\*\*******************
 
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
@@ -588,7 +588,7 @@ Example: Tuan / be / tall / Anna //
 ### Question 1
 
 > Minh đã chơi 25 ván cờ và có tỉ lệ thắng 52%. Nếu các ván cờ sau đó Minh đều thắng thì Minh cần phải thắng thêm bao nhiêu trận nữa để đạt tỉ lệ thắng là 60%? Chỉ viết kết quả.
-> Trả lời: ******\_******
+> Trả lời: **\*\***\_**\*\***
 
 <details name="question-0">
     <summary><i>Show awnswer key</i></summary>    
@@ -613,7 +613,7 @@ Bài làm:
 
 ---
 
-Trả lời: ******\_****** phút
+Trả lời: **\*\***\_**\*\*** phút
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -645,7 +645,7 @@ a) Hỏi trong bể còn bao nhiêu nước sau 30 phút? **Trình bày lời gi
 
 **Bài làm:**
 
-**Trả lời:** ******\_****** lít
+**Trả lời:** **\*\***\_**\*\*** lít
 
 <details name="question-2-a">
     <summary><i>Show awnswer key</i></summary>    
@@ -659,7 +659,7 @@ b) Tính từ lúc đầu, hỏi cần bơm nước ra khỏi bể trong bao lâ
 
 **Bài làm:**
 
-**Trả lời:** ******\_******
+**Trả lời:** **\*\***\_**\*\***
 
 ---
 
