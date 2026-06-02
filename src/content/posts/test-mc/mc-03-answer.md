@@ -1,7 +1,7 @@
 ---
 title: "Test MC 03 — Total Score 10/20"
 author: Bob
-pubDatetime: 2026-06-02T23:48:00.000+07:00
+pubDatetime: 2026-06-03T01:14:00.000+07:00
 slug: mc-03-answer
 featured: false
 draft: false
@@ -10,8 +10,6 @@ tags:
   - test-result
 description: "MC 03: 10/20 (50%) — Vietnamese Culture strong (3/3), Science weak (2/6), Math needs practice (3/7)"
 ---
-
-## Table of contents
 
 <figure>
   <img
@@ -27,28 +25,28 @@ description: "MC 03: 10/20 (50%) — Vietnamese Culture strong (3/3), Science we
 
 ## 📊 Kết Quả Tổng Quan
 
-**🏆 Overall: 10/20 (50%)** — ⏱ Chưa ghi nhận thời gian
+**🏆 Overall: 10/20 (50%)**
 
 | Môn | Đúng | Tỉ lệ | Nhận xét |
 |:----|:---:|:-----:|:---------|
-| 🔬 Science (Q1–6) | 2/6 | **33%** ❌ | Yếu — cần ôn spinal cord, coral bleaching, solar PV, composting |
+| 🔬 Science (Q1–6) | 2/6 | **33%** ❌ | Yếu — spinal cord, coral bleaching, solar PV, composting |
 | 🌍 Social Studies (Q7–10) | 3/4 | **75%** ✅ | Ổn — nhầm Machu Picchu (Inca vs Maya) |
-| 🔢 Math & Logic (Q11–17) | 3/7 | **43%** ❌ | Cần luyện speed-distance, LCM, percentage, Venn diagram |
+| 🔢 Math & Logic (Q11–17) | 3/7 | **43%** ❌ | Cần luyện speed-distance, LCM, percentage |
 | 🇻🇳 Văn hóa & Văn học (Q18–20) | 3/3 | **100%** 🎉 | Hoàn hảo! |
 
 ### 📈 Phân tích
 
 > **Điểm 1️⃣: 🇻🇳 Văn hóa & Văn học Việt Nam hoàn hảo** — 3/3 (100%)
-> Không sai câu nào. Nắm vững Bánh trôi nước (tấm lòng son = chung thủy), Sự tích Hồ Gươm (trả gươm = hết chiến tranh), và ca dao công cha nghĩa mẹ.
+> Nắm vững Bánh trôi nước (tấm lòng son = chung thủy), Sự tích Hồ Gươm (trả gươm = hết chiến tranh), và ca dao công cha nghĩa mẹ.
 
 > **Điểm 2️⃣: 🌍 Social Studies khá ổn** — 3/4 (75%)
-> Biết rõ Chợ Bến Thành (Q.1), phở gốc Bắc, cực quang vùng cực. Chỉ nhầm Machu Picchu là của Inca chứ không phải Maya.
+> Biết rõ Chợ Bến Thành, phở gốc Bắc, cực quang vùng cực. Chỉ nhầm Machu Picchu là Inca — không phải Maya.
 
-> **Điểm 3️⃣: ❌ Science cần cải thiện nhiều** — 2/6 (33%)
-> Các khái niệm sai: spinal cord là đường dẫn truyền (không phải hô hấp), coral bleaching do tảo bị đẩy ra (không phải vi khuẩn), solar panels cần photon (không phải nhiệt), compost do nấm & vi khuẩn (không phải ốc sên).
+> **Điểm 3️⃣: ❌ Science cần cải thiện** — 2/6 (33%)
+> Spinal cord là đường dẫn truyền (không phải hô hấp), coral bleaching do tảo bị đẩy ra, solar panels cần photon, compost do nấm & vi khuẩn.
 
 > **Điểm 4️⃣: ❌ Math & Logic yếu nhất** — 3/7 (43%)
-> Sai 4 câu: speed-distance (165 km), LCM (9:00 AM), percentage (8.5M), và nhầm Trung Thu là bánh chưng thay vì bánh trung thu & lồng đèn. Cần luyện dạng bài có nhiều bước tính.
+> Sai speed-distance (165 km), LCM (9:00 AM), percentage (8.5M). Cần luyện dạng bài nhiều bước tính.
 
 ---
 
@@ -62,10 +60,10 @@ description: "MC 03: 10/20 (50%) — Vietnamese Culture strong (3/3), Science we
 | 4 | Science | C | C | ✅ |
 | 5 | Science | B | A | ❌ |
 | 6 | Science | B | B | ✅ |
-| 7 | Social Studies | C | C | ✅ |
-| 8 | Social Studies | B | C | ❌ |
-| 9 | Social Studies | B | B | ✅ |
-| 10 | Social Studies | B | B | ✅ |
+| 7 | Social | C | C | ✅ |
+| 8 | Social | B | C | ❌ |
+| 9 | Social | B | B | ✅ |
+| 10 | Social | B | B | ✅ |
 | 11 | Math | C | C | ✅ |
 | 12 | Math | B | A | ❌ |
 | 13 | Math | D | C | ❌ |
