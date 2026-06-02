@@ -539,7 +539,7 @@ Example: badminton / great / player / Anna / a / is //
 
 > Rosie / finish / doesn't / homework / her / if / she / go / will / not / outside / this / weekend //
 
-→ ****\*\*****\_\_\_****\*\*****
+→ \***\*\*\*\*\***\_\_\_\***\*\*\*\*\***
 
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
@@ -558,7 +558,7 @@ Example: Tuan / be / tall / Anna //
 ### Question 10
 
 > mom / think / sister / not / get / bad scores / test / tomorrow //
-> → ****\*\*****\_\_\_****\*\*****
+> → \***\*\*\*\*\***\_\_\_\***\*\*\*\*\***
 
 <details name="question-12">
     <summary><i>Show awnswer key</i></summary>    
@@ -570,7 +570,7 @@ Example: Tuan / be / tall / Anna //
 ### Question 11
 
 > beautiful / flowers / be / plant / park / volunteers / since / last week //
-> → ******************\*\*******************\_\_\_******************\*\*******************
+> → **\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\_\_\_**\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***\*\***\*\*\*\***
 
 <details name="question-13">
     <summary><i>Show awnswer key</i></summary>    
