@@ -269,7 +269,7 @@ Which of the following statements are true?
 ### Question 15
 
 > Read the announcement and choose the best option to fill in the blank.
-> "Ask Mr. O'Donnell if ******\_******."
+> "Ask Mr. O'Donnell if **\*\***\_**\*\***."
 
 **A.** you want to speak on the phone in the library \
 **B.** you have lost a smartphone \
