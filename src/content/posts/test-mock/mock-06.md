@@ -28,9 +28,10 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 ## A. TRẮC NGHIỆM (40 điểm — 20 câu — 30 phút)
 
-*Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2 điểm.*
+_Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2 điểm._
 
 ### Question 1
+
 > Mai rubs a balloon on her wool sweater for 10 seconds. She then holds the balloon near her hair. Her hair stands up and sticks to the balloon. After 2 minutes, her hair slowly falls back down. Which process best explains what happened at each stage?
 
 **A**. The balloon gained heat from rubbing → hot air pushed the hair up → the air cooled after 2 minutes \
@@ -46,6 +47,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 2
+
 > A large steel ship weighs 50,000 tons and floats on the ocean. A small steel nail weighs 5 grams and sinks immediately when dropped into water. Both objects are made of the same material. What is the main reason the ship floats but the nail sinks?
 
 **A**. The ship is bigger, so water pushes harder on its surface compared to the nail \
@@ -61,6 +63,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 3
+
 > In science class, Nam hangs a heavy metal weight on a 50 cm string. He counts 20 swings in 30 seconds. He then replaces the weight with a lighter plastic one on the same string. When he counts again, how many swings will he most likely see in 30 seconds?
 
 **A**. Less than 20 swings — lighter objects cannot swing as fast as heavy ones \
@@ -76,6 +79,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 4
+
 > Lan mixes 3 spoons of salt into a glass of warm water until the salt disappears. She pours the salty water into a shallow bowl and leaves it on the windowsill in the sun. After 3 days, the water is gone and white crystals cover the bottom of the bowl. What explains the appearance of these white crystals?
 
 **A**. The salt was destroyed by sunlight and turned into a white powder \
@@ -91,6 +95,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 5
+
 > In music class, Minh plucks a thick guitar string and hears a low sound. He then plucks a thin string of the same length and hears a higher sound. If he instead makes the thin string longer by pressing a finger down on it, what will happen to the sound?
 
 **A**. It will stay the same because the string stays thin \
@@ -106,6 +111,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 6
+
 > Anh puts a tablespoon of baking soda into an empty bottle. She then pours half a cup of vinegar into the bottle and quickly places a balloon over the bottle opening. The balloon inflates by itself. What gas caused the balloon to inflate?
 
 **A**. Oxygen — released when baking soda reacts with air \
@@ -121,6 +127,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 7
+
 > In 1077, a famous Vietnamese general built a defense line along the Như Nguyệt River and defeated a powerful Chinese invasion. The victory protected Vietnam's independence for centuries. What advantage helped the Vietnamese side win this battle?
 
 **A**. They had more soldiers and better weapons than the Chinese army \
@@ -136,6 +143,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 8
+
 > Bến Nhà Rồng is a historic port on the Sài Gòn River, located in District 4, HCMC. In 1911, a young man named Nguyễn Tất Thành left from this port to begin his journey abroad. What makes this place especially important in Vietnam's history?
 
 **A**. It was the first passenger port ever built in southern Vietnam \
@@ -151,6 +159,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 9
+
 > The Ring of Fire is a long chain of volcanoes and earthquake zones surrounding the Pacific Ocean. Countries like Japan, Indonesia, and Chile sit on this belt and experience many earthquakes every year. In which layer of the Earth does the movement that causes these earthquakes begin?
 
 **A**. The crust — where tectonic plates move and collide with each other \
@@ -166,6 +175,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 10
+
 > Cà Mau is the southernmost province of Vietnam. It has a long coastline of over 250 km and many mangrove forests. These forests help protect the land from storms and are home to many animals. What is the biggest danger that Cà Mau's coastline faces today?
 
 **A**. Too many tourists visiting and damaging the beaches \
@@ -181,6 +191,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 11
+
 > You are walking in a public park. You see a round sign with a blue background and a white picture showing a person holding a leash connected to a dog. What does this sign mean?
 
 **A**. Dogs are allowed in the park but must be on a leash \
@@ -196,7 +207,8 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 12
-> Last Saturday, while Linh __________ her bicycle in the park, she suddenly __________ a strange bird with bright blue feathers.
+
+> Last Saturday, while Linh ****\_\_**** her bicycle in the park, she suddenly ****\_\_**** a strange bird with bright blue feathers.
 
 **A**. was riding — saw \
 **B**. is riding — was seeing \
@@ -211,6 +223,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 13
+
 > Choose the word that does NOT belong in the group:
 
 **A**. drizzle \
@@ -226,7 +239,9 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 14
+
 > Three friends — An, Bình, and Cường — take part in a running race. Nobody shares the same position.
+>
 > - Bình finished ahead of Cường.
 > - The person who finished first wears a red shirt.
 > - An does not wear a red shirt and did not finish last.
@@ -246,6 +261,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 15
+
 > A rectangular tank is 40 cm long, 30 cm wide, and 25 cm tall. The tank is filled with water to a height of 20 cm. Minh then places a heavy metal cube with 10 cm sides into the water. The cube sinks to the bottom and is completely covered by water. By how many centimetres does the water level rise?
 
 **A**. 0.5 cm \
@@ -261,6 +277,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 16
+
 > A glass contains 4 parts of orange juice and 3 parts of water. Anh drinks half of the mixture. She then fills the glass back up with pure orange juice. What percentage of the final mixture is orange juice?
 
 **A**. 57.1% \
@@ -276,6 +293,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Question 17
+
 > Two equal squares are placed so that they overlap. Each square has a side length of 6 cm. The overlapping area is a rectangle measuring 4 cm by 3 cm. What is the total area of the shape formed by the two squares together?
 
 **A**. 60 cm² \
@@ -291,9 +309,10 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Câu 18
+
 > Đọc đoạn văn sau:
 >
-> "Nước Việt Nam là một đất nước giàu truyền thống văn hóa. Từ bao đời nay, người Việt luôn đề cao tinh thần hiếu học. Câu tục ngữ 'Muốn sang thì bắc cầu Kiều / ________ con hay chữ thì yêu lấy thầy' đã trở thành kim chỉ nam cho nhiều thế hệ."
+> "Nước Việt Nam là một đất nước giàu truyền thống văn hóa. Từ bao đời nay, người Việt luôn đề cao tinh thần hiếu học. Câu tục ngữ 'Muốn sang thì bắc cầu Kiều / **\_\_\_\_** con hay chữ thì yêu lấy thầy' đã trở thành kim chỉ nam cho nhiều thế hệ."
 >
 > Từ nào thích hợp nhất để điền vào chỗ trống?
 
@@ -310,6 +329,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Câu 19
+
 > Đọc câu văn sau:
 >
 > "Theo bác sĩ, việc 'rửa tay thường xuyên' là một trong những biện pháp quan trọng nhất để phòng bệnh."
@@ -329,6 +349,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Câu 20
+
 > Đọc đoạn thơ sau:
 >
 > "Mưa rả rích đêm hè
@@ -358,9 +379,9 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 #### I. Cloze passage (8 điểm — 4 blanks × 2đ)
 
-*Read the passage. Choose the correct word from the options in parentheses and write it in the blank.*
+_Read the passage. Choose the correct word from the options in parentheses and write it in the blank._
 
-> In recent years, scientists have developed an exciting way to restore coral reefs. They use 3D printers to create (1) __________ (artificial / art / artist) structures that look like real coral. These structures are placed on the ocean floor, where they provide a home for fish and other sea creatures. The team also plays sounds of healthy reefs through underwater speakers to (2) __________ (keep / attract / create) young fish to the area. Early results show that fish populations near the 3D-printed reefs are growing (3) __________ (rapid / rapidness / rapidly). This method is much (4) __________ (more faster / faster / fastest) than waiting for natural reef regrowth.
+> In recent years, scientists have developed an exciting way to restore coral reefs. They use 3D printers to create (1) ****\_\_**** (artificial / art / artist) structures that look like real coral. These structures are placed on the ocean floor, where they provide a home for fish and other sea creatures. The team also plays sounds of healthy reefs through underwater speakers to (2) ****\_\_**** (keep / attract / create) young fish to the area. Early results show that fish populations near the 3D-printed reefs are growing (3) ****\_\_**** (rapid / rapidness / rapidly). This method is much (4) ****\_\_**** (more faster / faster / fastest) than waiting for natural reef regrowth.
 
 ##### (1)
 
@@ -394,11 +415,12 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 #### II. Reading Comprehension (8 điểm — 4 questions × 2đ)
 
-*Read the passage. Then answer the questions below.*
+_Read the passage. Then answer the questions below._
 
 > Mars has always been a dry, cold planet on the surface today. But new evidence from NASA's Perseverance rover in 2026 suggests that Mars may once have had hot springs — places where warm, mineral-rich water bubbled up from underground. The rover found rocks containing minerals that can only form in hot, wet environments. On Earth, similar hot springs are home to tiny living things called microbes. Scientists believe that if life ever existed on Mars, these hot springs would have been the most likely places for it to start. The discovery strengthens the theory that Mars once supported life. However, no direct fossils have been found yet. The rover is now collecting rock samples to bring back to Earth for further study.
 
 ##### 1. (Write True or False)
+
 > The rocks found by Perseverance contain minerals that need hot, wet conditions to form.
 
 <details name="reading-1">
@@ -407,6 +429,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 2. (Write True or False)
+
 > Scientists have already found direct evidence of life on Mars.
 
 <details name="reading-2">
@@ -415,6 +438,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 3. Choose the correct answer
+
 > What makes hot springs the most likely places for life to have existed on Mars?
 
 **A**. They are the only places on Mars that are still warm today \
@@ -428,6 +452,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 4.
+
 > Write down ONE word from the passage which means "small living things that can only be seen with a microscope":
 
 <details name="reading-4">
@@ -441,9 +466,10 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 #### I. Rearrange words (8 điểm — 4 câu × 2đ)
 
-*Rearrange the given words to make complete sentences. Do not add or remove any words.*
+_Rearrange the given words to make complete sentences. Do not add or remove any words._
 
 ##### 1.
+
 > community / is / smart / It / for / important / to / a / Thủ Đức / become / city / for / plan
 
 <details name="rearrange-1">
@@ -452,6 +478,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 2.
+
 > every / intelligent / robots / can / household / efficiently / tasks / perform / Modern / year
 
 <details name="rearrange-2">
@@ -460,6 +487,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 3.
+
 > are / ecosystem / forests / on / dependent / Mangrove / survival / many / species / for / their
 
 <details name="rearrange-3">
@@ -468,6 +496,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 4.
+
 > more / education / language / improves / technology / Whether / or / integration / learning
 
 <details name="rearrange-4">
@@ -479,9 +508,10 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 #### II. Write from cues (6 điểm — 3 câu × 2đ, ≤15 words each)
 
-*Write complete sentences using the given words. You may add words where needed, but each sentence must be 15 words or fewer.*
+_Write complete sentences using the given words. You may add words where needed, but each sentence must be 15 words or fewer._
 
 ##### 1.
+
 > Students / who / participate / extracurricular / activities / develop / critical / thinking
 
 <details name="write-1">
@@ -490,6 +520,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 2.
+
 > The / new / programme / design / help / students / recognise / their / talent
 
 <details name="write-2">
@@ -498,6 +529,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 ##### 3.
+
 > It / be / essential / conserve / cultural / heritage / next / generation
 
 <details name="write-3">
@@ -510,7 +542,9 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ## C. TOÁN & TƯ DUY LOGIC (15 điểm — 30 phút)
 
 ### Bài 1 (3,0 điểm)
+
 > Một cửa hàng bán trái cây trong một tuần có doanh thu tổng cộng là 12.600.000 đồng. Biểu đồ hình tròn dưới đây cho biết tỉ lệ doanh thu của từng loại quả. Biết rằng:
+>
 > - Ổi chiếm 20%
 > - thanh long chiếm 35%
 > - cam chiếm 15%
@@ -518,6 +552,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 > - còn lại là xoài
 
 #### a)
+
 > Doanh thu của xoài chiếm bao nhiêu phần trăm? (1 điểm)
 
 <details name="bai1-a">
@@ -526,6 +561,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### b)
+
 > Doanh thu của xoài là bao nhiêu tiền? (1 điểm)
 
 <details name="bai1-b">
@@ -534,6 +570,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### c)
+
 > Doanh thu của ổi và cam nhiều hơn doanh thu của nho bao nhiêu tiền? (1 điểm)
 
 <details name="bai1-c">
@@ -544,9 +581,11 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Bài 2 (3,0 điểm)
+
 > Một khu vườn hình chữ nhật có chiều dài 24 m và chiều rộng 15 m. Người ta chia khu vườn thành 6 luống rau hình chữ nhật bằng nhau, mỗi luống có chiều dài bằng chiều dài khu vườn và chiều rộng bằng nhau.
 
 #### a)
+
 > Tính chiều rộng của mỗi luống rau. (1 điểm)
 
 <details name="bai2-a">
@@ -555,6 +594,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### b)
+
 > Tính chu vi của một luống rau. (1 điểm)
 
 <details name="bai2-b">
@@ -563,6 +603,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### c)
+
 > Tính tổng chu vi của tất cả 6 luống rau. (1 điểm)
 
 <details name="bai2-c">
@@ -573,9 +614,11 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Bài 3 (3,0 điểm)
+
 > Có 4 bạn: An, Bình, Cường và Dũng. Họ xếp thành một hàng ngang để chụp ảnh.
 
 #### a)
+
 > Có bao nhiêu cách sắp xếp 4 bạn thành một hàng ngang? (1 điểm)
 
 <details name="bai3-a">
@@ -584,6 +627,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### b)
+
 > Nếu An và Bình luôn đứng cạnh nhau, có bao nhiêu cách sắp xếp? (1 điểm)
 
 <details name="bai3-b">
@@ -592,6 +636,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### c)
+
 > Tính tỉ số giữa số cách xếp có An và Bình cạnh nhau và tổng số cách xếp. (1 điểm)
 
 <details name="bai3-c">
@@ -602,13 +647,16 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### Bài 4 (6,0 điểm)
+
 > Có hai thùng nước hình hộp chữ nhật:
+>
 > - **Thùng A:** dài 50 cm, rộng 40 cm, cao 50 cm. Hiện thùng A đang chứa đầy nước.
 > - **Thùng B:** dài 80 cm, rộng 50 cm, cao 45 cm. Hiện thùng B đang rỗng.
 >
 > Người ta đổ nước từ thùng A vào thùng B. Sau khi đổ, mực nước ở thùng A cao gấp 2 lần mực nước ở thùng B.
 
 #### a)
+
 > Tính thể tích của thùng A và thùng B. (1,5 điểm)
 
 <details name="bai4-a">
@@ -617,6 +665,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### b)
+
 > Tìm diện tích đáy của mỗi thùng. (0,5 điểm)
 
 <details name="bai4-b">
@@ -625,6 +674,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### c)
+
 > Tính chiều cao mực nước ở thùng B sau khi đổ. (2,5 điểm)
 
 <details name="bai4-c">
@@ -633,6 +683,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### d)
+
 > Tính chiều cao mực nước ở thùng A sau khi đổ. (0,5 điểm)
 
 <details name="bai4-d">
@@ -641,6 +692,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### e)
+
 > Hỏi thể tích nước còn lại trong thùng A là bao nhiêu lít? Biết 1 lít = 1.000 cm³. (1,0 điểm)
 
 <details name="bai4-e">
@@ -654,7 +706,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 ### 1. Đọc hiểu (5,0 điểm)
 
-*Đọc đoạn thơ sau và trả lời các câu hỏi:*
+_Đọc đoạn thơ sau và trả lời các câu hỏi:_
 
 > **Mẹ ốm**
 >
@@ -671,6 +723,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 > (Trích "Mẹ ốm" — Trần Đăng Khoa)
 
 #### a) (1,0 điểm)
+
 > Tìm một chi tiết trong đoạn thơ cho thấy mẹ đang bị ốm.
 
 <details name="van1-a">
@@ -679,6 +732,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### b) (2,0 điểm)
+
 > Hai câu thơ "Nắng mưa từ những ngày xưa / Lăn vào đâu giữa trưa hè nóng bức" gợi lên điều gì về cuộc đời của người mẹ? Em hiểu hai câu thơ này như thế nào?
 
 <details name="van1-b">
@@ -687,6 +741,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 </details>
 
 #### c) (2,0 điểm)
+
 > Trong đoạn thơ trên, từ ngữ nào để lại ấn tượng sâu sắc nhất với em? Vì sao?
 
 <details name="van1-c">
@@ -697,6 +752,7 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 ---
 
 ### 2. Làm văn (10,0 điểm)
+
 > Viết một đoạn văn từ 5 đến 8 câu trình bày suy nghĩ của em về ý kiến sau:
 >
 > **"Người thành công không phải là người chưa bao giờ thất bại — mà là người đã học được cách đứng dậy sau mỗi lần vấp ngã."**
@@ -710,4 +766,4 @@ description: "Static electricity, buoyancy, pendulums, evaporation, sound waves,
 
 ---
 
-*— HẾT —*
+_— HẾT —_

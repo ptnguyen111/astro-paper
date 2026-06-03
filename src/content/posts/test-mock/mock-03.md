@@ -372,7 +372,7 @@ _Read the passage. Choose the best word for each blank. WRITE THE WORD IN THE BL
 
 #### Question 1
 
-> (1) ********\_\_\_\_********
+> (1) **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 <details name="cloze-1">
     <summary><i>Show awnswer key</i></summary>
@@ -381,7 +381,7 @@ _Read the passage. Choose the best word for each blank. WRITE THE WORD IN THE BL
 
 #### Question 2
 
-> (2) ********\_\_\_\_********
+> (2) **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 <details name="cloze-2">
     <summary><i>Show awnswer key</i></summary>
@@ -390,7 +390,7 @@ _Read the passage. Choose the best word for each blank. WRITE THE WORD IN THE BL
 
 #### Question 3
 
-> (3) ********\_\_\_\_********
+> (3) **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 <details name="cloze-3">
     <summary><i>Show awnswer key</i></summary>
@@ -399,7 +399,7 @@ _Read the passage. Choose the best word for each blank. WRITE THE WORD IN THE BL
 
 #### Question 4
 
-> (4) ********\_\_\_\_********
+> (4) **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 <details name="cloze-4">
     <summary><i>Show awnswer key</i></summary>
@@ -456,7 +456,7 @@ Answer: \_**\_True / False\_\_**
 
 > What did the writer's family do in Hội An during the evening?
 
-Answer: ********\_\_\_\_********
+Answer: **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 <details name="question-7-reading">
     <summary><i>Show awnswer key</i></summary>
@@ -469,7 +469,7 @@ Answer: ********\_\_\_\_********
 
 > Write down ONE word from the passage that means "kept in good condition and not damaged".
 
-Answer: ********\_\_\_\_********
+Answer: **\*\*\*\***\_\_\_\_**\*\*\*\***
 
 <details name="question-8-reading">
     <summary><i>Show awnswer key</i></summary>
