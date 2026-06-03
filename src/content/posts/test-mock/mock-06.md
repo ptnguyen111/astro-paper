@@ -31,7 +31,7 @@ MOCK TEST #06 — NĂM HỌC 2025-2026
 
 MÔN: ĐÁNH GIÁ NĂNG LỰC (90 phút)
 
-Họ và tên: ************\_************ Lớp: **\_** SBD: **\_\_\_\_**
+Họ và tên: ****\*\*\*\*****\_****\*\*\*\***** Lớp: **\_** SBD: **\_\_\_\_**
 
 Ngày thi: \_**\_/\_\_**/2026 Phòng thi: **\_**
 
@@ -205,7 +205,7 @@ _Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2
 
 ---
 
-**Question 12.** Last Saturday, while Linh ****\_\_**** her bicycle in the park, she suddenly ****\_\_**** a strange bird with bright blue feathers.
+**Question 12.** Last Saturday, while Linh \***\*\_\_\*\*** her bicycle in the park, she suddenly \***\*\_\_\*\*** a strange bird with bright blue feathers.
 
 **A**. was riding — saw \
 **B**. is riding — was seeing \
