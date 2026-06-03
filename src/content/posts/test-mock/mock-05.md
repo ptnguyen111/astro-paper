@@ -535,7 +535,7 @@ _Rearrange the words and phrases to form complete sentences. Write the full sent
 
 > artificial / in / can / recognise / education / emotions / intelligence / to / help / students' / teachers /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-1">
     <summary><i>Show awnswer key</i></summary>    
@@ -548,7 +548,7 @@ _Rearrange the words and phrases to form complete sentences. Write the full sent
 
 > discovered / coast / giant / isopod / off / new / of / species / a / scientists / Vietnam / of / recently /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-2">
     <summary><i>Show awnswer key</i></summary>    
@@ -561,7 +561,7 @@ _Rearrange the words and phrases to form complete sentences. Write the full sent
 
 > protects / which / renewable / the / switching / environment / energy / to / from / is / a / way / pollution /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-3">
     <summary><i>Show awnswer key</i></summary>    
@@ -574,7 +574,7 @@ _Rearrange the words and phrases to form complete sentences. Write the full sent
 
 > developing / is / from / skills / for / it / essential / critical / primary / thinking / students / to / begin /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-4">
     <summary><i>Show awnswer key</i></summary>    
@@ -593,7 +593,7 @@ _Write complete sentences using the given cues. Each sentence must be NO MORE th
 
 > karst ecosystem / Southeast Asia / home / unique species / need / protect /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-5">
     <summary><i>Show awnswer key</i></summary>    
@@ -606,7 +606,7 @@ _Write complete sentences using the given cues. Each sentence must be NO MORE th
 
 > adaptive AI / personalised lessons / help / students / learn / their own pace /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-6">
     <summary><i>Show awnswer key</i></summary>    
@@ -619,7 +619,7 @@ _Write complete sentences using the given cues. Each sentence must be NO MORE th
 
 > installing solar panels / school rooftop / generate / electricity / neighbourhood /
 
-→ ******\*\*******\*\*******\*\*******\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="question-7">
     <summary><i>Show awnswer key</i></summary>    
@@ -766,7 +766,7 @@ _Write complete sentences using the given cues. Each sentence must be NO MORE th
 
 > Trong khổ thơ thứ nhất, hình ảnh "vầng trăng khuyết / Nằm im trong kẽ tay" gợi tả điều gì?
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="cau-1a">
     <summary><i>Show awnswer key</i></summary>    
@@ -779,11 +779,11 @@ _Write complete sentences using the given cues. Each sentence must be NO MORE th
 
 > Em hiểu thế nào về hai câu thơ: "Có một bầu trời xanh / Trong từng trang vở mới"? Tác giả muốn nói điều gì qua hình ảnh này?
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="cau-1b">
     <summary><i>Show awnswer key</i></summary>    
@@ -796,11 +796,11 @@ _Write complete sentences using the given cues. Each sentence must be NO MORE th
 
 > Theo em, vì sao tác giả lại viết: "Trong mắt em nhỏ bé / Một bầu trời to lớn"? Hãy giải thích ý nghĩa của hai câu thơ cuối.
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
-→ ******\*\*******\*\*******\*\*******\_\_\_\_******\*\*******\*\*******\*\*******
+→ **\*\***\*\***\*\***\*\***\*\***\*\***\*\***\_\_\_\_**\*\***\*\***\*\***\*\***\*\***\*\***\*\***
 
 <details name="cau-1c">
     <summary><i>Show awnswer key</i></summary>    
