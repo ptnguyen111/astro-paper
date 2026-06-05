@@ -81,12 +81,12 @@ description: "Smoke 06: MC 32 + Reading 10 + Writing 4 + Listening 0 + Toán 0 +
 
 ### 🧮 Tổng điểm
 
-| Phần | Đúng | ×2đ | Thành tiền |
-|:----|:---:|:---:|:----------:|
-| 🎯 Trắc nghiệm | 16 | ×2 | 32 |
-| 📖 Reading | 5 | ×2 | 10 |
-| ✍️ Writing | 2 | ×2 | 4 |
-| 🎧 Listening | — | ×2 | 0 |
-| 🧮 Toán tự luận | — | — | 0 |
-| 📝 Văn | — | — | 0 |
-| **TỔNG** | | | **46 / 100** |
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 32 | 40 | 80% |
+| 🎧 Listening | — | 8 | không làm |
+| 📖 Reading | 10 | 16 | 62.5% |
+| ✍️ Writing | 4 | 6 | 66.7% |
+| 🧮 Toán tự luận | — | 15 | không làm |
+| 📝 Văn | — | 15 | không làm |
+| **TỔNG** | **46** | **100** | **46%** |
