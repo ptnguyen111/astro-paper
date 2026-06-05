@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-01
-  - test-result
+  - quiz-result
 description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán chỉ 1/3 bài"
 ---
 
@@ -37,25 +37,25 @@ description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán ch
 
 **🏆 Trắc nghiệm: 14/20 (70%) — 28/40đ**
 
-| Môn                        | Đúng |    Tỉ lệ    | Nhận xét                                            |
-| :------------------------- | :--: | :---------: | :-------------------------------------------------- |
-| 🔬 **Science** (Q1–6)      | 3/6  | **50%** ❌  | Sai Q1 (vị thành niên), Q5 (ánh sáng), Q6 (bay hơi) |
-| 📜 **History** (Q7–10)     | 3/4  | **75%** ✅  | Sai Q10 (Cách mạng Tháng Tám 19/8)                  |
-| 🧮 **Maths & IQ** (Q11–14) | 2/4  | **50%** ❌  | Sai Q11 (số lẻ), Q12 (tính sản lượng)               |
-| 📘 **English** (Q15–17)    | 3/3  | **100%** ✅ | Perfect!                                            |
-| 📖 **Literature** (Q18–20) | 3/3  | **100%** ✅ | Perfect!                                            |
+| Môn | Đúng | Tỉ lệ | Nhận xét |
+|:----|:---:|:-----:|:---------|
+| 🔬 **Science** (Q1–6) | 3/6 | **50%** ❌ | Sai Q1 (vị thành niên), Q5 (ánh sáng), Q6 (bay hơi) |
+| 📜 **History** (Q7–10) | 3/4 | **75%** ✅ | Sai Q10 (Cách mạng Tháng Tám 19/8) |
+| 🧮 **Maths & IQ** (Q11–14) | 2/4 | **50%** ❌ | Sai Q11 (số lẻ), Q12 (tính sản lượng) |
+| 📘 **English** (Q15–17) | 3/3 | **100%** ✅ | Perfect! |
+| 📖 **Literature** (Q18–20) | 3/3 | **100%** ✅ | Perfect! |
 
-### Điểm các phần
+### 🧮 Tổng điểm
 
-| Phần                  | Điểm đạt | Tối đa  |   Tỉ lệ   |
-| :-------------------- | :------: | :-----: | :-------: |
-| 🔬 Trắc nghiệm        |    28    |   40    |    70%    |
-| 🎧 Listening          | ⏭️ Skip  |    8    |     —     |
-| 📖 Reading            |    2     |    8    |    25%    |
-| ✍️ Writing            |    0     |    6    |    0%     |
-| 🧮 Toán & IQ          |    4     |   15    |    27%    |
-| 📝 Đọc hiểu & Làm văn |    12    |   15    |    80%    |
-| **🏆 TỔNG**           | **45.5** | **100** | **45.5%** |
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 28 | 40 | 70% |
+| 🎧 Listening | — | 8 | không làm |
+| 📖 Reading | 2 | 8 | 25% |
+| ✍️ Writing | 0 | 6 | 0% |
+| 🧮 Toán tự luận | 4 | 15 | 27% |
+| 📝 Văn | 12 | 15 | 80% |
+| **TỔNG** | **45** | **100** | **45%** |
 
 ### 📈 Phân tích
 
@@ -81,28 +81,28 @@ description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán ch
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn        | Trả lời | Đáp án | Kết quả |
-| :-: | :--------- | :-----: | :----: | :-----: |
-|  1  | Science    |    D    |   C    |   ❌    |
-|  2  | Science    |    B    |   B    |   ✅    |
-|  3  | Science    |    B    |   B    |   ✅    |
-|  4  | Science    |    A    |   A    |   ✅    |
-|  5  | Science    |    C    |   B    |   ❌    |
-|  6  | Science    |    B    |   C    |   ❌    |
-|  7  | History    |    D    |   D    |   ✅    |
-|  8  | History    |    B    |   B    |   ✅    |
-|  9  | History    |    D    |   D    |   ✅    |
-| 10  | History    |    C    |   B    |   ❌    |
-| 11  | Maths      |    D    |   B    |   ❌    |
-| 12  | Maths      |    D    |   B    |   ❌    |
-| 13  | Maths      |    C    |   C    |   ✅    |
-| 14  | Maths      |    A    |   A    |   ✅    |
-| 15  | English    |    D    |   D    |   ✅    |
-| 16  | English    |    D    |   D    |   ✅    |
-| 17  | English    |    C    |   C    |   ✅    |
-| 18  | Literature |    B    |   B    |   ✅    |
-| 19  | Literature |    A    |   A    |   ✅    |
-| 20  | Literature |    D    |   D    |   ✅    |
+| Câu | Môn | Trả lời | Đáp án | Kết quả |
+|:---:|:---|:-------:|:------:|:-------:|
+| 1 | Science | D | C | ❌ |
+| 2 | Science | B | B | ✅ |
+| 3 | Science | B | B | ✅ |
+| 4 | Science | A | A | ✅ |
+| 5 | Science | C | B | ❌ |
+| 6 | Science | B | C | ❌ |
+| 7 | History | D | D | ✅ |
+| 8 | History | B | B | ✅ |
+| 9 | History | D | D | ✅ |
+| 10 | History | C | B | ❌ |
+| 11 | Maths | D | B | ❌ |
+| 12 | Maths | D | B | ❌ |
+| 13 | Maths | C | C | ✅ |
+| 14 | Maths | A | A | ✅ |
+| 15 | English | D | D | ✅ |
+| 16 | English | D | D | ✅ |
+| 17 | English | C | C | ✅ |
+| 18 | Literature | B | B | ✅ |
+| 19 | Literature | A | A | ✅ |
+| 20 | Literature | D | D | ✅ |
 
 ---
 
@@ -110,21 +110,21 @@ description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán ch
 
 ### 📖 Reading (8 điểm)
 
-|  #  |  Trả lời   |            Đáp án đúng             | Kết quả |
-| :-: | :--------: | :--------------------------------: | :-----: |
-|  1  |     C      | B (Most teenagers need 8-10 hours) |   ❌    |
-|  2  |     B      |    A (Difficulty concentrating)    |   ❌    |
-|  3  |   False    |               False                |   ✅    |
-|  4  | Especially |              priority              |   ❌    |
+| # | Trả lời | Đáp án đúng | Kết quả |
+|:-:|:--------:|:-----------:|:-------:|
+| 1 | C | B (Most teenagers need 8-10 hours) | ❌ |
+| 2 | B | A (Difficulty concentrating) | ❌ |
+| 3 | False | False | ✅ |
+| 4 | Especially | priority | ❌ |
 
 **Kết quả: 2/8đ (1/4 câu)**
 
 ### ✍️ Writing (6 điểm)
 
-|  #  | Trả lời                                                     | Đáp án mẫu                                                       |          Kết quả           |
-| :-: | :---------------------------------------------------------- | :--------------------------------------------------------------- | :------------------------: |
-|  1  | Anna wanted to be a tennis player when she was a little kid | Anna wanted to be a tennis player when she was a little kid.     |     ❌ (thiếu dấu câu)     |
-|  2  | teacher explain the lesson in the class at the moment       | The teacher is explaining the lesson to the class at the moment. | ❌ (sai thì, thiếu mạo từ) |
+| # | Trả lời | Đáp án mẫu | Kết quả |
+|:-:|:---------|:-----------|:-------:|
+| 1 | Anna wanted to be a tennis player when she was a little kid | Anna wanted to be a tennis player when she was a little kid. | ❌ (thiếu dấu câu) |
+| 2 | teacher explain the lesson in the class at the moment | The teacher is explaining the lesson to the class at the moment. | ❌ (sai thì, thiếu mạo từ) |
 
 **Kết quả: 0/6đ (0/2 task)**
 
@@ -132,12 +132,12 @@ description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán ch
 
 ## 🧮 Kết Quả Toán & IQ
 
-|   Bài   | Trả lời  |    Đáp án đúng     | Kết quả |
-| :-----: | :------: | :----------------: | :-----: |
-| 1 (3đ)  |    16    |      10 người      | ❌ (0đ) |
-| 2 (4đ)  | 144 000đ |      144 000đ      | ✅ (4đ) |
-| 3a (4đ) | ⏭️ Skip  | _dữ liệu biểu đồ_  | ❌ (0đ) |
-| 3b (4đ) | ⏭️ Skip  | 750÷0.375=2000 cái | ❌ (0đ) |
+| Bài | Trả lời | Đáp án đúng | Kết quả |
+|:---:|:--------:|:-----------:|:-------:|
+| 1 (3đ) | 16 | 10 người | ❌ (0đ) |
+| 2 (4đ) | 144 000đ | 144 000đ | ✅ (4đ) |
+| 3a (4đ) | ⏭️ Skip | *dữ liệu biểu đồ* | ❌ (0đ) |
+| 3b (4đ) | ⏭️ Skip | 750÷0.375=2000 cái | ❌ (0đ) |
 
 **Kết quả: 4/15đ (1/4 bài)**
 
@@ -145,13 +145,13 @@ description: "Smoke 01: 14/20 MC (70%) — English 3/3, Literature 3/3, Toán ch
 
 ## 📝 Đọc hiểu & Làm văn
 
-|                    Câu                     |          Kết quả          | Điểm |
-| :----------------------------------------: | :-----------------------: | :--: |
-| 1a — Người Việt có khả năng thích nghi cao |            ✅             | 2/2  |
-|          1b — Quote về Elon Musk           | ❌ (Không đúng trọng tâm) | 0/2  |
-|    1c — Thông điệp: bắt đầu từ việc nhỏ    |            ✅             | 2/2  |
-|          1d — Câu trả lời cá nhân          |            ✅             | 2/2  |
-|           2 — Đoạn văn nghị luận           |            ✅             | 6/7  |
+| Câu | Kết quả | Điểm |
+|:---:|:-------:|:----:|
+| 1a — Người Việt có khả năng thích nghi cao | ✅ | 2/2 |
+| 1b — Quote về Elon Musk | ❌ (Không đúng trọng tâm) | 0/2 |
+| 1c — Thông điệp: bắt đầu từ việc nhỏ | ✅ | 2/2 |
+| 1d — Câu trả lời cá nhân | ✅ | 2/2 |
+| 2 — Đoạn văn nghị luận | ✅ | 6/7 |
 
 **Kết quả: 12/15đ (4/5 câu)**
 
