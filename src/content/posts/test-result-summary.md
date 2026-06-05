@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 26 tests completed — 3 perfect 🏆 · 7 high ≥80% 🎉 · Avg 65.6%
+> 27 tests completed — 3 perfect 🏆 · 7 high ≥80% 🎉 · Avg 65%
 
 ---
 
@@ -413,5 +413,31 @@ description: "Summary of all test results"
 - ✅ Correct: 10 / 30
 - ❌ Wrong: 20 / 30.
 - Wrong questions: Q1, Q2, Q3, Q4
+
+---
+
+## 🧮 Test G-MATH
+
+|                                                          Test                                                          |   Score    |    Date    |                                                           Answer                                                           |
+| :--------------------------------------------------------------------------------------------------------------------: | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a> | 20 / 55 ⚠️ | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer</a> |
+
+### Test G-MATH 01 ⚠️
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer g-math-01</a>
+- Date: 06/06/2026
+- 🧮 Tổng điểm:
+
+| Phần            | Điểm đạt | Tối đa | %       |
+| --------------- | -------- | ------ | ------- |
+| 🎯 Trắc nghiệm  | 14       | 40     | 35%     |
+| 📝 Toán & Logic | 6        | 15     | 40%     |
+| **TỔNG**        | **20**   | **55** | **36%** |
+
+- ✅ Correct: 6 / 17 câu MC hợp lệ + Q22, Q23
+- ❌ Wrong: 11 / 17 MC + Q24
+- Wrong MC: Q2, Q4, Q5, Q8, Q9, Q12, Q13, Q14, Q16, Q17, Q19
+- ⚠️ Flawed: Q10 (vô nghiệm), Q11 (vô nghiệm), Q18 (thiếu ràng buộc)
 
 ---
