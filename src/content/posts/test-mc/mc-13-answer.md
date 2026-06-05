@@ -1,5 +1,5 @@
 ---
-title: "Test MC 13 — Total Score 13/20"
+title: "Test MC 13 — Total Score 26/40"
 author: Bob
 pubDatetime: 2026-06-03T03:23:00.000+07:00
 slug: mc-13-answer
@@ -35,6 +35,14 @@ description: "MC 13: 13/20 (65%) — Math strong (6/7), Science & Social Studies
 | 🌍 Social Studies (Q7–10) | 2/4  | **50%** ❌ | Yếu nhất — cần củng cố về lịch sử và địa lý Việt Nam          |
 | 🔢 Math (Q11–17)          | 6/7  | **86%** ✅ | Khá tốt, nhưng sai ở hình học không gian                      |
 | 🇻🇳 Literature (Q18–20)    | 2/3  | **67%** ✅ | Cơ bản tốt, còn yếu văn hoá dân gian                          |
+
+
+### 🧮 Tổng điểm
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 26 | 40 | 65.0% |
+| **TỔNG** | **26** | **40** | **65.0%** |
 
 ### 📈 Phân tích
 

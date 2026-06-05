@@ -1,5 +1,5 @@
 ---
-title: "Test MC 10 - Total Score 65/100"
+title: "Test MC 10 - Total Score 26/40"
 author: Bob
 pubDatetime: 2026-06-01T23:47:00.000+07:00
 slug: mc-10-answer
@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - mc-10
-  - test-result
+  - quiz-result
 description: "MC 10: 13/20 (65%) — Văn hóa 3/3, Math/Logic 5/6, Science 2/6"
 ---
 
@@ -34,12 +34,20 @@ description: "MC 10: 13/20 (65%) — Văn hóa 3/3, Math/Logic 5/6, Science 2/6"
 
 **🏆 13/20 (65%)**
 
-| Phần                              | Đúng |    Tỉ lệ     | Nhận xét                                                         |
-| :-------------------------------- | :--: | :----------: | :--------------------------------------------------------------- |
-| 🔬 **Science** (Q1–6)             | 2/6  | **33%** ❌❌ | Yếu nhất! Sai phototropism, cast fossil, dry ice, inclined plane |
-| 📜 **History & Social** (Q7–11)   | 3/5  |  **60%** ✅  | Sai Đông Sơn (Q7) & Võ Thị Sáu (Q11)                             |
-| 🧮 **Math & Logic** (Q12–17)      | 5/6  | **83%** ✅✅ | Chỉ sai Q17 (tính diện tích hình ghép)                           |
-| 🎋 **Văn hóa & Văn học** (Q18–20) | 3/3  | **100%** ✅  | Perfect!                                                         |
+| Phần | Đúng | Tỉ lệ | Nhận xét |
+|:-----|:---:|:-----:|:---------|
+| 🔬 **Science** (Q1–6) | 2/6 | **33%** ❌❌ | Yếu nhất! Sai phototropism, cast fossil, dry ice, inclined plane |
+| 📜 **History & Social** (Q7–11) | 3/5 | **60%** ✅ | Sai Đông Sơn (Q7) & Võ Thị Sáu (Q11) |
+| 🧮 **Math & Logic** (Q12–17) | 5/6 | **83%** ✅✅ | Chỉ sai Q17 (tính diện tích hình ghép) |
+| 🎋 **Văn hóa & Văn học** (Q18–20) | 3/3 | **100%** ✅ | Perfect! |
+
+
+### 🧮 Tổng điểm
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 26 | 40 | 65.0% |
+| **TỔNG** | **26** | **40** | **65.0%** |
 
 ### 📈 Phân tích
 
@@ -51,7 +59,6 @@ description: "MC 10: 13/20 (65%) — Văn hóa 3/3, Math/Logic 5/6, Science 2/6"
 
 > **Điểm 3️⃣: Science 2/6 — yếu cần cải thiện** 🚨
 > Sai 4/6 câu Khoa học. Các lỗi:
->
 > - Q1 (phototropism/gravitropism) — nhầm hướng rễ
 > - Q2 (cast fossil) — chọn trace fossil thay vì cast
 > - Q5 (dry ice → sublimation, deposition) — nhầm quá trình
@@ -66,38 +73,38 @@ description: "MC 10: 13/20 (65%) — Văn hóa 3/3, Math/Logic 5/6, Science 2/6"
 
 ### Part I: Science 🔬
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic                            |
-| :-: | :-----: | :----: | :-----: | :------------------------------- |
-|  1  |    C    |   B    |   ❌    | Phototropism & gravitropism      |
-|  2  |    D    |   B    |   ❌    | Cast fossil vs trace fossil      |
-|  3  |    C    |   C    |   ✅    | Microvilli & nutrient absorption |
-|  4  |    B    |   B    |   ✅    | S-waves & Earth's outer core     |
-|  5  |    B    |   A    |   ❌    | Sublimation & deposition         |
-|  6  |    A    |   B    |   ❌    | Inclined plane mechanics         |
+| Câu | Trả lời | Đáp án | Kết quả | Topic |
+|:---:|:-------:|:------:|:-------:|:------|
+| 1 | C | B | ❌ | Phototropism & gravitropism |
+| 2 | D | B | ❌ | Cast fossil vs trace fossil |
+| 3 | C | C | ✅ | Microvilli & nutrient absorption |
+| 4 | B | B | ✅ | S-waves & Earth's outer core |
+| 5 | B | A | ❌ | Sublimation & deposition |
+| 6 | A | B | ❌ | Inclined plane mechanics |
 
 ### Part II: Social Studies, Math & Logic 📜🧮
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic                               |
-| :-: | :-----: | :----: | :-----: | :---------------------------------- |
-|  7  |    C    |   B    |   ❌    | Đông Sơn culture location           |
-|  8  |    A    |   A    |   ✅    | Bạch Đằng 1288 victory              |
-|  9  |    B    |   B    |   ✅    | Ethnic minorities in Sa Pa          |
-| 10  |    B    |   B    |   ✅    | Thăng Long Imperial Citadel         |
-| 11  |    C    |   B    |   ❌    | Võ Thị Sáu's last words             |
-| 12  |    D    |   D    |   ✅    | Logic puzzle — who is from Lào Cai? |
-| 13  |    C    |   C    |   ✅    | Mixing solution concentration       |
-| 14  |    D    |   D    |   ✅    | Cuboid — cubes with 2 painted faces |
-| 15  |    B    |   B    |   ✅    | Average speed — total distance      |
-| 16  |    B    |   B    |   ✅    | Garden path width (quadratic)       |
-| 17  |    C    |   A    |   ❌    | Rectangle + semicircles area        |
+| Câu | Trả lời | Đáp án | Kết quả | Topic |
+|:---:|:-------:|:------:|:-------:|:------|
+| 7 | C | B | ❌ | Đông Sơn culture location |
+| 8 | A | A | ✅ | Bạch Đằng 1288 victory |
+| 9 | B | B | ✅ | Ethnic minorities in Sa Pa |
+| 10 | B | B | ✅ | Thăng Long Imperial Citadel |
+| 11 | C | B | ❌ | Võ Thị Sáu's last words |
+| 12 | D | D | ✅ | Logic puzzle — who is from Lào Cai? |
+| 13 | C | C | ✅ | Mixing solution concentration |
+| 14 | D | D | ✅ | Cuboid — cubes with 2 painted faces |
+| 15 | B | B | ✅ | Average speed — total distance |
+| 16 | B | B | ✅ | Garden path width (quadratic) |
+| 17 | C | A | ❌ | Rectangle + semicircles area |
 
 ### Part III: Văn hóa & Văn học Việt Nam 🎋
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic                                   |
-| :-: | :-----: | :----: | :-----: | :-------------------------------------- |
-| 18  |    B    |   B    |   ✅    | Thơ "Đất nước" — cảm xúc người lính     |
-| 19  |    B    |   B    |   ✅    | Ý nghĩa đèn lồng Trung Thu              |
-| 20  |    C    |   C    |   ✅    | Con Rồng cháu Tiên — một bọc trăm trứng |
+| Câu | Trả lời | Đáp án | Kết quả | Topic |
+|:---:|:-------:|:------:|:-------:|:------|
+| 18 | B | B | ✅ | Thơ "Đất nước" — cảm xúc người lính |
+| 19 | B | B | ✅ | Ý nghĩa đèn lồng Trung Thu |
+| 20 | C | C | ✅ | Con Rồng cháu Tiên — một bọc trăm trứng |
 
 ---
 

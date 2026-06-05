@@ -1,5 +1,5 @@
 ---
-title: "Test MC 06 — Total Score 12/20"
+title: "Test MC 06 — Total Score 24/40"
 author: Bob
 pubDatetime: 2026-06-03T03:15:00.000+07:00
 slug: mc-06-answer
@@ -27,12 +27,20 @@ description: "MC 06: 12/20 (60%) — Science strong (5/6), Vietnamese Culture pe
 
 **🏆 Overall: 12/20 (60%)**
 
-| Môn                           | Đúng |    Tỉ lệ    | Nhận xét                                           |
-| :---------------------------- | :--: | :---------: | :------------------------------------------------- |
-| 🔬 Science (Q1–6)             | 5/6  | **83%** ✅  | Tốt — chỉ sai volcano types (Phú Sĩ vs Mauna Loa)  |
-| 🌍 Social (Q7–11)             | 2/5  | **40%** ❌  | Hội An, áo dài sai — cần ôn văn hóa lịch sử        |
-| 🔢 Math & Logic (Q12–17)      | 2/6  | **33%** ❌  | Yếu — sequence, path area, %, concentration, speed |
-| 🇻🇳 Văn hóa & Văn học (Q18–20) | 3/3  | **100%** 🎉 | Hoàn hảo!                                          |
+| Môn                           | Đúng |    Tỉ lệ    | Nhận xét                                                   |
+| :---------------------------- | :--: | :---------: | :--------------------------------------------------------- |
+| 🔬 Science (Q1–6)             | 5/6  | **83%** ✅  | Tốt — chỉ sai volcano types (Phú Sĩ vs Mauna Loa)          |
+| 🌍 Social (Q7–11)             | 2/5  | **40%** ❌  | Hội An, áo dài sai — cần ôn văn hóa lịch sử               |
+| 🔢 Math & Logic (Q12–17)      | 2/6  | **33%** ❌  | Yếu — sequence, path area, %, concentration, speed         |
+| 🇻🇳 Văn hóa & Văn học (Q18–20) | 3/3  | **100%** 🎉 | Hoàn hảo!                                                  |
+
+
+### 🧮 Tổng điểm
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 24 | 40 | 60.0% |
+| **TỔNG** | **24** | **40** | **60.0%** |
 
 ### 📈 Phân tích
 
@@ -54,40 +62,40 @@ description: "MC 06: 12/20 (60%) — Science strong (5/6), Vietnamese Culture pe
 
 ### 🔬 Science (Q1–6)
 
-| Câu | Trả lời | Đáp án đúng | Kết quả |
-| :-: | :-----: | :---------: | :-----: |
-|  1  |    B    |      B      |   ✅    |
-|  2  |    B    |      B      |   ✅    |
-|  3  |    D    |      D      |   ✅    |
-|  4  |    C    |      C      |   ✅    |
-|  5  |    C    |      C      |   ✅    |
-|  6  |    C    |      A      |   ❌    |
+| Câu |    Trả lời    | Đáp án đúng | Kết quả |
+| :--: | :-----------: | :---------: | :-----: |
+|  1   |      B        |      B      |   ✅    |
+|  2   |      B        |      B      |   ✅    |
+|  3   |      D        |      D      |   ✅    |
+|  4   |      C        |      C      |   ✅    |
+|  5   |      C        |      C      |   ✅    |
+|  6   |      C        |      A      |   ❌    |
 
 > **Q6:** Nhầm núi lửa tầng (Phú Sĩ — dung nham đặc, dốc) với núi lửa hình khiên (Mauna Loa — dung nham loãng, vòm rộng).
 
 ### 🌍 Social Studies (Q7–11)
 
-| Câu | Trả lời | Đáp án đúng | Kết quả |
-| :-: | :-----: | :---------: | :-----: |
-|  7  |    B    |      B      |   ✅    |
-|  8  |    B    |      B      |   ✅    |
-|  9  |    C    |      C      |   ✅    |
-| 10  |    C    |      B      |   ❌    |
-| 11  |    C    |      B      |   ❌    |
+| Câu |    Trả lời    | Đáp án đúng | Kết quả |
+| :--: | :-----------: | :---------: | :-----: |
+|  7   |      B        |      B      |   ✅    |
+|  8   |      B        |      B      |   ✅    |
+|  9   |      C        |      C      |   ✅    |
+|  10  |      C        |      B      |   ❌    |
+|  11  |      C        |      B      |   ❌    |
 
 > **Q10:** Hội An pha trộn VN + Trung Hoa + Nhật Bản + châu Âu, không chỉ VN + Trung Hoa.
 > **Q11:** Áo dài tiến hóa từ trang phục rộng + ảnh hưởng triều Nguyễn & Pháp 1930s.
 
 ### 🔢 Math & Logic (Q12–17)
 
-| Câu | Trả lời | Đáp án đúng | Kết quả |
-| :-: | :-----: | :---------: | :-----: |
-| 12  |    C    |      C      |   ✅    |
-| 13  |    C    |      D      |   ❌    |
-| 14  |    A    |      B      |   ❌    |
-| 15  |    A    |      C      |   ❌    |
-| 16  |    D    |      D      |   ✅    |
-| 17  |    A    |      C      |   ❌    |
+| Câu |    Trả lời    | Đáp án đúng | Kết quả |
+| :--: | :-----------: | :---------: | :-----: |
+|  12  |      C        |      C      |   ✅    |
+|  13  |      C        |      D      |   ❌    |
+|  14  |      A        |      B      |   ❌    |
+|  15  |      A        |      C      |   ❌    |
+|  16  |      D        |      D      |   ✅    |
+|  17  |      A        |      C      |   ❌    |
 
 > **Q13:** Lối đi=(12+3)(8+3)−96=69 + bồn hoa=9 → tổng≈76,25 m².
 > **Q14:** P×1,2×0,8=0,96P → thấp hơn gốc 4%, không phải giữ nguyên.
@@ -96,11 +104,11 @@ description: "MC 06: 12/20 (60%) — Science strong (5/6), Vietnamese Culture pe
 
 ### 🇻🇳 Văn hóa & Văn học (Q18–20)
 
-| Câu | Trả lời | Đáp án đúng | Kết quả |
-| :-: | :-----: | :---------: | :-----: |
-| 18  |    B    |      B      |   ✅    |
-| 19  |    B    |      B      |   ✅    |
-| 20  |    B    |      B      |   ✅    |
+| Câu |    Trả lời    | Đáp án đúng | Kết quả |
+| :--: | :-----------: | :---------: | :-----: |
+|  18  |      B        |      B      |   ✅    |
+|  19  |      B        |      B      |   ✅    |
+|  20  |      B        |      B      |   ✅    |
 
 > Tất cả đều đúng! 🎉
 
