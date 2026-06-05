@@ -1,5 +1,5 @@
 ---
-title: "Test Smoke 06 - Total Score 46/100"
+title: "Test Smoke 06 - Total Score 74/100"
 author: Bob
 pubDatetime: 2026-06-05T06:15:00.000+07:00
 slug: smoke-06-answer
@@ -8,7 +8,7 @@ draft: false
 tags:
   - smoke-06
   - quiz-result
-description: "Smoke 06: MC 32/40 + Reading 10/16 + Writing 4/6 = 46/100"
+description: "Smoke 06: MC 32/40 + Reading 10/16 + Writing 4/6 = 46/62 (74%)"
 ---
 
 > ⚠️ Bài này có 3 phần: Trắc nghiệm (20 câu), Reading (8 câu), Writing English (3 câu). Không làm Toán suy luận & Đọc hiểu/Làm văn.
