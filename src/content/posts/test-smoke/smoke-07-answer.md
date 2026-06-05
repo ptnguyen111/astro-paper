@@ -48,5 +48,16 @@ description: "Smoke 07: Trắc nghiệm 18/40 — chỉ MC, không làm các ph�
 Q1, Q2, Q3, Q4, Q6, Q9, Q11, Q17, Q20
 
 ### 📝 Ghi chú
-
 - Chỉ làm phần Trắc nghiệm (không làm tiếp các phần còn lại)
+
+### 🧮 Tổng điểm
+
+| Phần | Đúng | ×2đ | Thành tiền |
+|:----|:---:|:---:|:----------:|
+| 🎯 Trắc nghiệm | 9 | ×2 | 18 |
+| 🎧 Listening | — | ×2 | 0 |
+| 📖 Reading | — | ×2 | 0 |
+| ✍️ Writing | — | ×2 | 0 |
+| 🧮 Toán tự luận | — | — | 0 |
+| 📝 Văn | — | — | 0 |
+| **TỔNG** | | | **18 / 100** |
