@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-06
-  - quiz-result
+  - test-result
 description: "Smoke 06: MC 32 + Reading 11.5 + Writing 6 + Listening 0 + Toán 7 + Văn 11 = 67.5/100"
 ---
 
