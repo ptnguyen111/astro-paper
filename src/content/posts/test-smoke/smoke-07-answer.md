@@ -1,5 +1,5 @@
 ---
-title: "Test Stem 07 — Trắc nghiệm: 9/20 (45%)"
+title: "Test Smoke 07 - Total Score 9/20"
 author: Bob
 pubDatetime: 2026-06-05T09:30:00.000+07:00
 slug: smoke-07-answer
@@ -8,7 +8,7 @@ draft: false
 tags:
   - smoke-07
   - quiz-result
-description: "Stem 07: Trắc nghiệm 9/20 (45%) — Science 4/6, History 1/4, Math 1/4, English 1/3, Văn 2/3"
+description: "Smoke 07: Trắc nghiệm 9/20 (45%) — Science 4/6, History 1/4, Math 1/4, English 1/3, Văn 2/3"
 ---
 
 > ⚠️ Chỉ tính điểm phần Trắc nghiệm (20 câu) — quiz không bao gồm các phần còn lại.

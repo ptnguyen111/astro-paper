@@ -1,5 +1,5 @@
 ---
-title: "Test Stem 06 — 30/42 (71%) — MC 16/20 · Reading 10/16 · Writing 4/6"
+title: "Test Smoke 06 - Total Score 30/42"
 author: Bob
 pubDatetime: 2026-06-05T06:15:00.000+07:00
 slug: smoke-06-answer
@@ -8,7 +8,7 @@ draft: false
 tags:
   - smoke-06
   - quiz-result
-description: "Stem 06: MC 16/20 + Reading 10/16 + Writing 4/6 = 30/42 (71%)"
+description: "Smoke 06: MC 16/20 + Reading 10/16 + Writing 4/6 = 30/42 (71%)"
 ---
 
 > ⚠️ Bài này có 3 phần: Trắc nghiệm (20 câu), Reading (8 câu), Writing English (3 câu). Không làm Toán suy luận & Đọc hiểu/Làm văn.
