@@ -1,5 +1,5 @@
 ---
-title: "Test Stem 06 — Trắc nghiệm: 12/20 (60%)"
+title: "Test Stem 06 — Trắc nghiệm: 16/20 (80%)"
 author: Bob
 pubDatetime: 2026-06-05T06:15:00.000+07:00
 slug: smoke-06-answer
@@ -8,7 +8,7 @@ draft: false
 tags:
   - smoke-06
   - quiz-result
-description: "Stem 06: Trắc nghiệm 12/20 (60%) — History & Math/IQ perfect (8/8), Science weak (1/6), Văn 1/3"
+description: "Stem 06: Trắc nghiệm 16/20 (80%) — Science 6/6, Math/IQ 4/4, History 3/4, English 2/3, Văn 1/3"
 ---
 
 > ⚠️ Chỉ tính điểm phần Trắc nghiệm (20 câu) — quiz không bao gồm các phần còn lại.
@@ -27,12 +27,12 @@ description: "Stem 06: Trắc nghiệm 12/20 (60%) — History & Math/IQ perfect
 
 ## 🏆 KẾT QUẢ
 
-### 📊 **12/20 (60%)** — ⏱ 10:43 / 30:00
+### 📊 **16/20 (80%)** — ⏱ 10:43 / 30:00
 
 | Phần | Câu | Kết quả |
 |:----|:---:|:-------:|
-| **🔬 Science** | Q1–6 | **1/6** ❌ |
-| **🌍 History** | Q7–10 | **4/4** ✅💯 |
+| **🔬 Science** | Q1–6 | **6/6** ✅💯 |
+| **🌍 History** | Q7–10 | **3/4** ✅ |
 | **🧮 Math/IQ** | Q11–14 | **4/4** ✅💯 |
 | **📝 English** | Q15–17 | **2/3** ✅ |
 | **📖 Văn học** | Q18–20 | **1/3** ❌ |
@@ -41,24 +41,16 @@ description: "Stem 06: Trắc nghiệm 12/20 (60%) — History & Math/IQ perfect
 
 | Câu | Đáp án Bố | Đáp án đúng | Giải thích |
 |:---:|:---------:|:-----------:|:-----------|
-| Q1 | B | **A** | Bệnh tả do vi khuẩn (Vibrio cholerae), không phải virus |
-| Q3 | A | **C** | Dây dẫn nối các bộ phận để tạo thành mạch kín |
-| Q4 | A | **C** | Thụ phấn là bước đầu hình thành quả |
-| Q5 | A | **D** | Vật liệu Z vừa waterproof vừa strong |
-| Q6 | A | **B** | Thí nghiệm công bằng — chỉ thay đổi 1 biến |
-| Q17 | C | **D** | "Where... there" thừa từ — câu D đúng ngữ pháp |
-| Q19 | D | **A** | Câu D là câu gián tiếp, không dùng dấu ? |
-| Q20 | B | **A** | "Giá mà... thì" = cấu trúc giả thiết-kết quả |
+| Q9 | C | **B** | Ghép giai đoạn Lam Sơn — Phase 1 bị vây Chí Linh (b), Phase 2 giải phóng Nghệ An (c), Phase 3 thắng Chi Lăng (a) |
+| Q17 | B | **D** | "Where... there" thừa từ — câu D đúng ngữ pháp hoàn toàn |
+| Q19 | D | **A** | Câu A dùng dấu hai chấm, chấm phẩy, ba chấm đúng. Câu D là câu gián tiếp (hỏi rằng) không dùng dấu ? |
+| Q20 | C | **A** | "Giá mà... thì" = cấu trúc giả thiết-kết quả đúng. Câu C là nguyên nhân-kết quả, không phải giả thiết |
 
-### 📊 Phân tích điểm yếu
+### ✨ Highlight
 
-- **Science (1/6):** Yếu nhất — cần ôn lại: bệnh do vi khuẩn/virus, mạch điện, thụ phấn, tính chất vật liệu
-- **History (4/4):** Hoàn hảo ✅
-- **Math/IQ (4/4):** Hoàn hảo ✅
-- **English (2/3):** Khá
-- **Literature (1/3):** Cần ôn dấu câu và cấu trúc giả thiết
+- **Science + Math/IQ:** HOÀN HẢO! 10/10 🎯
 
 ### 📝 Ghi chú
 
 - Quiz kết thúc sau Trắc nghiệm (không làm tiếp Listening/Reading/Writing/Toán/Văn)
-- Dữ liệu từ LCM conversation, quiz ngày 02/06/2026 20:47
+- Dữ liệu từ LCM conversation 86
