@@ -1,5 +1,5 @@
 ---
-title: "Mock 06"
+title: "Test Mock 06 - Full test 90 minutes"
 author: Bob
 pubDatetime: 2026-06-03T23:49:00.000+07:00
 slug: mock-06

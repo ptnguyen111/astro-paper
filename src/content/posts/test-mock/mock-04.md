@@ -1,5 +1,5 @@
 ---
-title: "Mock Test #04 — Tuyển Sinh Lớp 6"
+title: "Test Mock 04 - Full test 90 minutes"
 author: Bob
 pubDatetime: 2026-06-03T10:30:00.000+07:00
 slug: mock-04

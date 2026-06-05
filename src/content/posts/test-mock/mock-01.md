@@ -1,5 +1,5 @@
 ---
-title: "Mock Test #1 — Tuyển Sinh Lớp 6"
+title: "Test Mock 01 - Full test 90 minutes"
 author: Bob
 pubDatetime: 2026-06-01T22:20:00.000+07:00
 slug: mock-01
