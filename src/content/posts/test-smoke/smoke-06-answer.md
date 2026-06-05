@@ -78,3 +78,15 @@ description: "Smoke 06: MC 32 + Reading 10 + Writing 4 + Listening 0 + Toán 0 +
 | 🎯 Trắc nghiệm | 16/20 (80%) |
 | 📖 Reading | 10/16 (62.5%) |
 | ✍️ Writing | 4/6 (66.7%) |
+
+### 🧮 Tổng điểm
+
+| Phần | Đúng | ×2đ | Thành tiền |
+|:----|:---:|:---:|:----------:|
+| 🎯 Trắc nghiệm | 16 | ×2 | 32 |
+| 📖 Reading | 5 | ×2 | 10 |
+| ✍️ Writing | 2 | ×2 | 4 |
+| 🎧 Listening | — | ×2 | 0 |
+| 🧮 Toán tự luận | — | — | 0 |
+| 📝 Văn | — | — | 0 |
+| **TỔNG** | | | **46 / 100** |
