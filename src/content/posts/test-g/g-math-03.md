@@ -1,5 +1,5 @@
 ---
-title: "G Math 03"
+title: "Test G Math 03 - Full test 90 minutes"
 author: Bob
 pubDatetime: 2026-06-05T18:36:00.000+07:00
 slug: g-math-03
