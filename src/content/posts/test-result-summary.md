@@ -16,6 +16,7 @@ description: "Summary of all test results"
 
 ## Table of contents
 
+
 ## 🔥 Test Smoke Summary
 
 | Test | Score | Date | Answer |
@@ -158,6 +159,39 @@ description: "Summary of all test results"
 
 ---
 
+
+---
+
+## 🧪 Test Mock
+
+| Test | Score | Date | Answer |
+|:---:|:-----:|:----:|:------:|
+| <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01/" rel="noopener noreferrer">mock-01</a> | 52.5 / 100 ⚠️ | 24/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01-answer/" rel="noopener noreferrer">Answer</a> |
+
+### Test Mock 01 ⚠️
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01/" rel="noopener noreferrer">mock-01</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01-answer/" rel="noopener noreferrer">Answer mock-01</a>
+- Date: 24/05/2026
+- 🧮 Tổng điểm:
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 30 | 40 | 75% |
+| 📘 English | 8 | 30 | 26.7% |
+| 🔢 Toán tự luận | 0 | 15 | 0% |
+| 🇻🇳 Văn | 14.5 | 15 | 96.7% |
+| **TỔNG** | **52.5** | **100** | **52.5%** |
+
+- Total score: 52.5 / 100 (30 MC + 8 English + 0 Toán + 14.5 Văn)
+- ✅ Correct: 23 / 41
+- ❌ Wrong: 18 / 41.
+- Wrong questions: Q2, Q5, Q13, Q17, Q19
+
+---
+
+
+---
+
 ## 🎯 Test Multiple Choice
 
 | Test | Score | Date | Answer |
@@ -255,30 +289,6 @@ description: "Summary of all test results"
 
 ---
 
-## 🧪 Test Mock
-
-| Test | Score | Date | Answer |
-|:---:|:-----:|:----:|:------:|
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01/" rel="noopener noreferrer">mock-01</a> | 52.5 / 100 ⚠️ | 24/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01-answer/" rel="noopener noreferrer">Answer</a> |
-
-### Test Mock 01 ⚠️
-- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01/" rel="noopener noreferrer">mock-01</a>
-- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01-answer/" rel="noopener noreferrer">Answer mock-01</a>
-- Date: 24/05/2026
-- 🧮 Tổng điểm:
-
-| Phần | Điểm đạt | Tối đa | % |
-| ------------------- | -------- | ------ | --------- |
-| 🎯 Trắc nghiệm (MC) | 30 | 40 | 75% |
-| 📘 English | 8 | 30 | 26.7% |
-| 🔢 Toán tự luận | 0 | 15 | 0% |
-| 🇻🇳 Văn | 14.5 | 15 | 96.7% |
-| **TỔNG** | **52.5** | **100** | **52.5%** |
-
-- Total score: 52.5 / 100 (30 MC + 8 English + 0 Toán + 14.5 Văn)
-- ✅ Correct: 23 / 41
-- ❌ Wrong: 18 / 41.
-- Wrong questions: Q2, Q5, Q13, Q17, Q19
 
 ---
 
