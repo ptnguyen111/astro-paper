@@ -11,7 +11,7 @@ tags:
 description: "Stem 06: Trắc nghiệm 16/20 (80%) — Science 6/6, Math/IQ 4/4, History 3/4, English 2/3, Văn 1/3"
 ---
 
-> ⚠️ Chỉ tính điểm phần Trắc nghiệm (20 câu) — quiz không bao gồm các phần còn lại.
+> ⚠️ Bài này có 3 phần: Trắc nghiệm (20 câu), Reading (8 câu), Writing English (3 câu). Không làm Toán suy luận & Đọc hiểu/Làm văn.
 
 <figure>
   <img
@@ -52,5 +52,29 @@ description: "Stem 06: Trắc nghiệm 16/20 (80%) — Science 6/6, Math/IQ 4/4,
 
 ### 📝 Ghi chú
 
-- Quiz kết thúc sau Trắc nghiệm (không làm tiếp Listening/Reading/Writing/Toán/Văn)
 - Dữ liệu từ LCM conversation 86
+- Quiz làm liên tục: MC → Reading → Writing (English). Không làm Toán suy luận & Đọc hiểu/Làm văn
+
+### 📖 Reading: 10/16 (5/8)
+
+| Câu | Bố trả lời | Đúng? |
+|:---:|:-----------|:----:|
+| 1-6 | B, C, A, False, False, True | 5/6 ✅ |
+| 7 | Recognize | ❌ |
+| 8 | Tougher | ❌ |
+
+### ✍️ Writing: 4/6
+
+| Task | Bố trả lời | Kết quả |
+|:----|:-----------|:-------:|
+| Task 1 (2đ) | "Anna turned off the TV to play badminton with her friends" | ✅ |
+| Task 2 Q1 (2đ) | "Lucy and her friends are shopping in the mall at the moment" | ✅ |
+| Task 2 Q2 (2đ) | _(không trả lời)_ | ❌ |
+
+### 📊 Tổng kết
+
+| Phần | Score |
+|:----|:----:|
+| 🎯 Trắc nghiệm | 16/20 (80%) |
+| 📖 Reading | 10/16 (62.5%) |
+| ✍️ Writing | 4/6 (66.7%) |
