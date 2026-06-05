@@ -31,7 +31,18 @@ description: "Summary of all test results"
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01/" rel="noopener noreferrer">smoke-01</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01-answer/" rel="noopener noreferrer">Answer smoke-01</a>
 - Date: 27/05/2026
-- Total score: 45.5 / 100
+- 🧮 Tổng điểm:
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 28 | 40 | 70% |
+| 🎧 Listening | — | 8 | không làm |
+| 📖 Reading | 2 | 8 | 25% |
+| ✍️ Writing | 0 | 6 | 0% |
+| 🧮 Toán tự luận | 4 | 15 | 27% |
+| 📝 Văn | 12 | 15 | 80% |
+| **TỔNG** | **45** | **100** | **45%** |
+
 - ✅ Correct: 26 / 44
 - ❌ Wrong: 18 / 44.
 - Wrong questions: Q1, Q5, Q6, Q10, Q11, Q12
@@ -40,7 +51,18 @@ description: "Summary of all test results"
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-02/" rel="noopener noreferrer">smoke-02</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-02-answer/" rel="noopener noreferrer">Answer smoke-02</a>
 - Date: 04/06/2026
-- Total score: 69 / 100
+- 🧮 Tổng điểm:
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 26 | 40 | 65% |
+| 🎧 Listening | — | 8 | không làm |
+| 📖 Reading | 8 | 16 | 50% |
+| ✍️ Writing | 4 | 6 | 66.7% |
+| 🧮 Toán tự luận | 8 | 15 | 53% |
+| 📝 Văn | 14 | 15 | 93% |
+| **TỔNG** | **69** | **100** | **69%** |
+
 - ✅ Correct: 25 / 38
 - ❌ Wrong: 13 / 38.
 - Wrong questions: Q7, Q8, Q10, Q11, Q13, Q14, Q18
@@ -49,7 +71,18 @@ description: "Summary of all test results"
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-03/" rel="noopener noreferrer">smoke-03</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-03-answer/" rel="noopener noreferrer">Answer smoke-03</a>
 - Date: 04/06/2026
-- Total score: 67 / 100
+- 🧮 Tổng điểm:
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 28 | 40 | 70% |
+| 🎧 Listening | — | 8 | không làm |
+| 📖 Reading | 11 | 16 | 68.8% |
+| ✍️ Writing | 3.5 | 6 | 58.3% |
+| 🧮 Toán tự luận | 8 | 15 | 53.3% |
+| 📝 Văn | 11.5 | 15 | 76.7% |
+| **TỔNG** | **67** | **100** | **67%** |
+
 - ✅ Correct: 27 / 38
 - ❌ Wrong: 11 / 38.
 - Wrong questions: Q4, Q8, Q12, Q13, Q14, Q19
@@ -58,7 +91,19 @@ description: "Summary of all test results"
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05/" rel="noopener noreferrer">smoke-05</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05-answer/" rel="noopener noreferrer">Answer smoke-05</a>
 - Date: 01/06/2026
-- Total score: 77 / 100
+- 🧮 Tổng điểm:
+
+| Phần | Điểm đạt | Tối đa | % |
+| ------------------- | -------- | ------ | --------- |
+| 🎯 Trắc nghiệm (MC) | 26 | 40 | 65% |
+| 🎧 Listening | — | 8 | không làm |
+| 📖 Reading | — | 16 | không làm |
+| ✍️ Writing | — | 6 | không làm |
+| 🧮 Toán tự luận | — | 15 | không làm |
+| 📝 Văn | 15 | 15 | 100% |
+| **TỔNG** | **77** | **100** | **77%** |
+
+- Total score: 77 / 100 (từ MC + Đọc hiểu + Bài văn)
 - ✅ Correct: 17 / 27
 - ❌ Wrong: 10 / 27.
 - Wrong questions: Q4, Q5, Q6, Q8, Q12, Q13, Q20
