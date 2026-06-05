@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - smoke-07
-  - quiz-result
+  - test-result
 description: "Smoke 07: MC 18 + Reading 14.4 + Writing 6 + Listening 0 + Toán 15 = 53.4/85. Không có phần Văn."
 ---
 
