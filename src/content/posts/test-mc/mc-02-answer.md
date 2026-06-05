@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - mc-02
-  - quiz-result
+  - test-result
 description: "MC 02: 20/20 (100%) Perfect! — Full retake success: corrected all 9 previous mistakes from 11/20 first run."
 ---
 
@@ -29,20 +29,19 @@ description: "MC 02: 20/20 (100%) Perfect! — Full retake success: corrected al
 
 **🏆 Overall: 20/20 (100%) PERFECT!** 🎉
 
-| Môn | Đúng | Tỉ lệ | Nhận xét |
-|:----|:---:|:-----:|:---------|
-| 🔬 Science (Q1–6) | 6/6 | **100%** ✅ | Perfect! |
-| 📚 Social Studies (Q7–10) | 4/4 | **100%** ✅ | Perfect! |
-| 🧮 Math & Logic (Q11–17) | 7/7 | **100%** ✅ | Perfect! |
-| 🇻🇳 Văn học (Q18–20) | 3/3 | **100%** ✅ | Perfect! |
-
+| Môn                       | Đúng |    Tỉ lệ    | Nhận xét |
+| :------------------------ | :--: | :---------: | :------- |
+| 🔬 Science (Q1–6)         | 6/6  | **100%** ✅ | Perfect! |
+| 📚 Social Studies (Q7–10) | 4/4  | **100%** ✅ | Perfect! |
+| 🧮 Math & Logic (Q11–17)  | 7/7  | **100%** ✅ | Perfect! |
+| 🇻🇳 Văn học (Q18–20)       | 3/3  | **100%** ✅ | Perfect! |
 
 ### 🧮 Tổng điểm
 
-| Phần | Điểm đạt | Tối đa | % |
-| ------------------- | -------- | ------ | --------- |
-| 🎯 Trắc nghiệm (MC) | 40 | 40 | 100.0% |
-| **TỔNG** | **40** | **40** | **100.0%** |
+| Phần                | Điểm đạt | Tối đa | %          |
+| ------------------- | -------- | ------ | ---------- |
+| 🎯 Trắc nghiệm (MC) | 40       | 40     | 100.0%     |
+| **TỔNG**            | **40**   | **40** | **100.0%** |
 
 ### 📈 Phân tích
 
@@ -59,28 +58,28 @@ description: "MC 02: 20/20 (100%) Perfect! — Full retake success: corrected al
 
 ## 📝 Chi Tiết Câu Trắc Nghiệm
 
-| Câu | Môn | Đáp án Long | Đáp án đúng | Kết quả |
-|:---:|:----|:-----------:|:-----------:|:-------:|
-| 1 | Science | B | B | ✅ |
-| 2 | Science | B | B | ✅ |
-| 3 | Science | B | B | ✅ |
-| 4 | Science | C | C | ✅ |
-| 5 | Science | B | B | ✅ |
-| 6 | Science | C | C | ✅ |
-| 7 | Social Studies | D | D | ✅ |
-| 8 | Social Studies | B | B | ✅ |
-| 9 | Social Studies | B | B | ✅ |
-| 10 | Social Studies | C | C | ✅ |
-| 11 | Math | C | C | ✅ |
-| 12 | Math | C | C | ✅ |
-| 13 | Math | B | B | ✅ |
-| 14 | Math | B | B | ✅ |
-| 15 | Math | B | B | ✅ |
-| 16 | Math | — | — | ✅ |
-| 17 | Math | C | C | ✅ |
-| 18 | Literature | B | B | ✅ |
-| 19 | Literature | B | B | ✅ |
-| 20 | Literature | A | A | ✅ |
+| Câu | Môn            | Đáp án Long | Đáp án đúng | Kết quả |
+| :-: | :------------- | :---------: | :---------: | :-----: |
+|  1  | Science        |      B      |      B      |   ✅    |
+|  2  | Science        |      B      |      B      |   ✅    |
+|  3  | Science        |      B      |      B      |   ✅    |
+|  4  | Science        |      C      |      C      |   ✅    |
+|  5  | Science        |      B      |      B      |   ✅    |
+|  6  | Science        |      C      |      C      |   ✅    |
+|  7  | Social Studies |      D      |      D      |   ✅    |
+|  8  | Social Studies |      B      |      B      |   ✅    |
+|  9  | Social Studies |      B      |      B      |   ✅    |
+| 10  | Social Studies |      C      |      C      |   ✅    |
+| 11  | Math           |      C      |      C      |   ✅    |
+| 12  | Math           |      C      |      C      |   ✅    |
+| 13  | Math           |      B      |      B      |   ✅    |
+| 14  | Math           |      B      |      B      |   ✅    |
+| 15  | Math           |      B      |      B      |   ✅    |
+| 16  | Math           |      —      |      —      |   ✅    |
+| 17  | Math           |      C      |      C      |   ✅    |
+| 18  | Literature     |      B      |      B      |   ✅    |
+| 19  | Literature     |      B      |      B      |   ✅    |
+| 20  | Literature     |      A      |      A      |   ✅    |
 
 ---
 
