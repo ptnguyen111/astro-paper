@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-04T01:53:00.000+07:00
+pubDatetime: 2026-06-06T01:33:13.000+07:00
 slug: test-result-summary
 featured: true
 draft: false
