@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 27 tests completed — 3 perfect 🏆 · 7 high ≥80% 🎉 · Avg 65%
+> 28 tests completed — 3 perfect 🏆 · 7 high ≥80% 🎉 · Avg 65%
 
 ---
 
@@ -18,14 +18,15 @@ description: "Summary of all test results"
 
 ## 🔥 Test Smoke Summary
 
-|                                                        Test                                                         |     Score     |    Date    |                                                          Answer                                                          |
-| :-----------------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01/" rel="noopener noreferrer">smoke-01</a> | 45.5 / 100 ⚠️ | 27/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-02/" rel="noopener noreferrer">smoke-02</a> |  69 / 100 💪  | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-02-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-03/" rel="noopener noreferrer">smoke-03</a> |  67 / 100 💪  | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-03-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05/" rel="noopener noreferrer">smoke-05</a> |  77 / 100 💪  | 01/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-06/" rel="noopener noreferrer">smoke-06</a> | 67.5 / 100 🚀 | 03/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-06-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-07/" rel="noopener noreferrer">smoke-07</a> | 53.4 / 100 💪 | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-07-answer/" rel="noopener noreferrer">Answer</a> |
+|                                                        Test                                                         |     Score      |    Date    |                                                          Answer                                                          |
+| :-----------------------------------------------------------------------------------------------------------------: | :------------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01/" rel="noopener noreferrer">smoke-01</a> | 45.5 / 100 ⚠️  | 27/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-02/" rel="noopener noreferrer">smoke-02</a> |  69 / 100 💪   | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-02-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-03/" rel="noopener noreferrer">smoke-03</a> |  67 / 100 💪   | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-03-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-04/" rel="noopener noreferrer">smoke-04</a> | 57.75 / 100 🚀 | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-04-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05/" rel="noopener noreferrer">smoke-05</a> |  77 / 100 💪   | 01/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-06/" rel="noopener noreferrer">smoke-06</a> | 67.5 / 100 🚀  | 03/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-06-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-07/" rel="noopener noreferrer">smoke-07</a> | 53.4 / 100 💪  | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-07-answer/" rel="noopener noreferrer">Answer</a> |
 
 ### Test Smoke 01 ⚠️
 
@@ -89,6 +90,27 @@ description: "Summary of all test results"
 - ✅ Correct: 27 / 38
 - ❌ Wrong: 11 / 38.
 - Wrong questions: Q4, Q8, Q12, Q13, Q14, Q19
+
+### Test Smoke 04 🚀
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-04/" rel="noopener noreferrer">smoke-04</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-04-answer/" rel="noopener noreferrer">Answer smoke-04</a>
+- Date: 06/06/2026
+- 🧮 Tổng điểm:
+
+| Phần                | Điểm đạt  | Tối đa  | %         |
+| ------------------- | --------- | ------- | --------- |
+| 🎯 Trắc nghiệm (MC) | 20        | 40      | 50%       |
+| 🎧 Listening        | —         | 8       | không làm |
+| 📖 Reading          | 12        | 16      | 75%       |
+| ✍️ Writing          | 4         | 6       | 67%       |
+| 🧮 Toán tự luận     | 8         | 15      | 53.3%     |
+| 📝 Văn              | 13.75     | 15      | 91.7%     |
+| **TỔNG**            | **57.75** | **100** | **58%**   |
+
+- ✅ Correct: 10 / 20 MC
+- ❌ Wrong: 10 / 20 MC.
+- Wrong questions MC: Q1, Q2, Q3, Q4, Q5, Q13, Q14, Q18, Q19, Q20
 
 ### Test Smoke 05 💪
 
