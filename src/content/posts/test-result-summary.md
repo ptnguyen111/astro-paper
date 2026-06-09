@@ -27,13 +27,6 @@ description: "Summary of all test results"
 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05/" rel="noopener noreferrer">smoke-05</a> |  77 / 100 💪   | 01/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-05-answer/" rel="noopener noreferrer">Answer</a> |
 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-06/" rel="noopener noreferrer">smoke-06</a> | 67.5 / 100 💪  | 03/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-06-answer/" rel="noopener noreferrer">Answer</a> |
 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-07/" rel="noopener noreferrer">smoke-07</a> | 53.4 / 100 ⚠️  | 04/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-07-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-08/" rel="noopener noreferrer">smoke-08</a> | 54.5 / 100 ⚠️  | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-08-answer/" rel="noopener noreferrer">Answer</a> |
-
-### smoke-01 ⚠️
-
-- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01/" rel="noopener noreferrer">smoke-01</a>
-- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-01-answer/" rel="noopener noreferrer">Answer smoke-01</a>
-- Date: 27/05/2026
 - 🧮 Tổng điểm:
 
 | Phần                | Điểm đạt | Tối đa  | %       |
@@ -141,6 +134,29 @@ description: "Summary of all test results"
 - ✅ Correct: 22.5 / 30
 - ❌ Wrong: 7.5 / 30.
 - Wrong questions: Q2, Q9, Q14, R5, W2, Toán 2-3, Văn
+
+### Test Smoke 08 ⚠️
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-08/" rel="noopener noreferrer">smoke-08</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-smoke/smoke-08-answer/" rel="noopener noreferrer">Answer smoke-08</a>
+- Date: 09/06/2026
+- 🧮 Tổng điểm:
+
+| Phần                | Điểm đạt | Tối đa  | %         |
+| ------------------- | -------- | ------- | --------- |
+| 🎯 Trắc nghiệm (MC) | 34       | 40      | 85%       |
+| 🎧 Listening        | —        | 8       | không làm |
+| 📖 Reading          | 15.5     | 16      | 96.9%     |
+| ✍️ Writing          | 2        | 6       | 33.3%     |
+| 🧮 Toán tự luận     | 3        | 15      | 20%       |
+| 📝 Văn              | —        | 15      | không làm |
+| **TỔNG**            | **54.5** | **100** | **54.5%** |
+
+- ✅ Correct: 22.5 / 30
+- ❌ Wrong: 7.5 / 30.
+- Wrong questions: Q2, Q9, Q14, R5, W2, Toán 2-3, Văn
+
+---
 
 ---
 
