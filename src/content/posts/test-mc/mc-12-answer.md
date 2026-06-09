@@ -7,7 +7,7 @@ featured: false
 draft: false
 tags:
   - mc-12
-  - quiz-result
+  - test-result
 description: "MC 12: 10/20 (50%) — Văn hóa 3/3, Science 4/6, Math 2/7, History 1/4"
 ---
 
@@ -34,20 +34,19 @@ description: "MC 12: 10/20 (50%) — Văn hóa 3/3, Science 4/6, Math 2/7, Histo
 
 **🏆 10/20 (50%)**
 
-| Phần | Đúng | Tỉ lệ | Nhận xét |
-|:-----|:---:|:-----:|:---------|
-| 🔬 **Science & Technology** (Q1–6) | 4/6 | **67%** ✅ | Sai Q4 (kháng sinh & đột biến) & Q5 (phân cực nước) |
-| 📜 **History & Culture** (Q7–10) | 1/4 | **25%** ❌❌ | Sai 3/4 — yếu nhất! |
-| 🧮 **Math & Logic** (Q11–17) | 2/7 | **29%** ❌❌ | Chỉ đúng Q12 (tìm số) & Q14 (giảm giá) |
-| 🎋 **Văn học & Văn hóa** (Q18–20) | 3/3 | **100%** ✅ | Perfect! |
-
+| Phần                               | Đúng |    Tỉ lệ     | Nhận xét                                            |
+| :--------------------------------- | :--: | :----------: | :-------------------------------------------------- |
+| 🔬 **Science & Technology** (Q1–6) | 4/6  |  **67%** ✅  | Sai Q4 (kháng sinh & đột biến) & Q5 (phân cực nước) |
+| 📜 **History & Culture** (Q7–10)   | 1/4  | **25%** ❌❌ | Sai 3/4 — yếu nhất!                                 |
+| 🧮 **Math & Logic** (Q11–17)       | 2/7  | **29%** ❌❌ | Chỉ đúng Q12 (tìm số) & Q14 (giảm giá)              |
+| 🎋 **Văn học & Văn hóa** (Q18–20)  | 3/3  | **100%** ✅  | Perfect!                                            |
 
 ### 🧮 Tổng điểm
 
-| Phần | Điểm đạt | Tối đa | % |
+| Phần                | Điểm đạt | Tối đa | %         |
 | ------------------- | -------- | ------ | --------- |
-| 🎯 Trắc nghiệm (MC) | 20 | 40 | 50.0% |
-| **TỔNG** | **20** | **40** | **50.0%** |
+| 🎯 Trắc nghiệm (MC) | 20       | 40     | 50.0%     |
+| **TỔNG**            | **20**   | **40** | **50.0%** |
 
 ### 📈 Phân tích
 
@@ -70,38 +69,38 @@ description: "MC 12: 10/20 (50%) — Văn hóa 3/3, Science 4/6, Math 2/7, Histo
 
 ### Part I: Science & Technology 🔬
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic |
-|:---:|:-------:|:------:|:-------:|:------|
-| 1 | B | B | ✅ | Quantum computing — 3 qubits = 8 states |
-| 2 | C | C | ✅ | Sonar — 300m / 1500 m/s = 0.2s |
-| 3 | A | A | ✅ | Phototropism & gravitropism |
-| 4 | D | B | ❌ | Antibiotic resistance — random mutations |
-| 5 | A | B | ❌ | Water polarity — bent by static charge |
-| 6 | C | C | ✅ | Surface tension — insects walking on water |
+| Câu | Trả lời | Đáp án | Kết quả | Topic                                      |
+| :-: | :-----: | :----: | :-----: | :----------------------------------------- |
+|  1  |    B    |   B    |   ✅    | Quantum computing — 3 qubits = 8 states    |
+|  2  |    C    |   C    |   ✅    | Sonar — 300m / 1500 m/s = 0.2s             |
+|  3  |    A    |   A    |   ✅    | Phototropism & gravitropism                |
+|  4  |    D    |   B    |   ❌    | Antibiotic resistance — random mutations   |
+|  5  |    A    |   B    |   ❌    | Water polarity — bent by static charge     |
+|  6  |    C    |   C    |   ✅    | Surface tension — insects walking on water |
 
 ### Part II: Social Studies, Math & Logic 📜🧮
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic |
-|:---:|:-------:|:------:|:-------:|:------|
-| 7 | D | B | ❌ | Hồ Chí Minh Mausoleum — inspired by Lenin |
-| 8 | A | B | ❌ | Đồng Khởi uprising (Bến Tre, 1960) |
-| 9 | B | B | ✅ | Hội An — Vietnamese + Chinese + Japanese |
-| 10 | A | B | ❌ | Lục Vân Tiên — verse novel in Nôm |
-| 11 | C | B | ❌ | Cube 729cm³ → 27 cubes → 12 with 2 painted faces |
-| 12 | A | A | ✅ | Number with remainders — LCM(6,5,4,3)=60 → N=59 |
-| 13 | D | B | ❌ | Average speed — 420km / 8.25h = 50.9 km/h |
-| 14 | B | B | ✅ | Depreciation — 15M → 12M → 10.56M → 9.715M |
-| 15 | A | C | ❌ | Sets — football & basketball, 70 students both |
-| 16 | C | A | ❌ | 5 consecutive odds — 21 × 29 = 609 |
-| 17 | A | D | ❌ | Wheat:rice:corn ratio — 68% wheat final |
+| Câu | Trả lời | Đáp án | Kết quả | Topic                                            |
+| :-: | :-----: | :----: | :-----: | :----------------------------------------------- |
+|  7  |    D    |   B    |   ❌    | Hồ Chí Minh Mausoleum — inspired by Lenin        |
+|  8  |    A    |   B    |   ❌    | Đồng Khởi uprising (Bến Tre, 1960)               |
+|  9  |    B    |   B    |   ✅    | Hội An — Vietnamese + Chinese + Japanese         |
+| 10  |    A    |   B    |   ❌    | Lục Vân Tiên — verse novel in Nôm                |
+| 11  |    C    |   B    |   ❌    | Cube 729cm³ → 27 cubes → 12 with 2 painted faces |
+| 12  |    A    |   A    |   ✅    | Number with remainders — LCM(6,5,4,3)=60 → N=59  |
+| 13  |    D    |   B    |   ❌    | Average speed — 420km / 8.25h = 50.9 km/h        |
+| 14  |    B    |   B    |   ✅    | Depreciation — 15M → 12M → 10.56M → 9.715M       |
+| 15  |    A    |   C    |   ❌    | Sets — football & basketball, 70 students both   |
+| 16  |    C    |   A    |   ❌    | 5 consecutive odds — 21 × 29 = 609               |
+| 17  |    A    |   D    |   ❌    | Wheat:rice:corn ratio — 68% wheat final          |
 
 ### Part III: Văn học & Văn hóa Việt Nam 🎋
 
-| Câu | Trả lời | Đáp án | Kết quả | Topic |
-|:---:|:-------:|:------:|:-------:|:------|
-| 18 | B | B | ✅ | Lượm — từ láy "loắt choắt, thoăn thoắt, nghênh nghênh" |
-| 19 | B | B | ✅ | Cây tre trăm đốt — lòng tham bị phơi bày |
-| 20 | B | B | ✅ | Đền Hùng — uống nước nhớ nguồn |
+| Câu | Trả lời | Đáp án | Kết quả | Topic                                                  |
+| :-: | :-----: | :----: | :-----: | :----------------------------------------------------- |
+| 18  |    B    |   B    |   ✅    | Lượm — từ láy "loắt choắt, thoăn thoắt, nghênh nghênh" |
+| 19  |    B    |   B    |   ✅    | Cây tre trăm đốt — lòng tham bị phơi bày               |
+| 20  |    B    |   B    |   ✅    | Đền Hùng — uống nước nhớ nguồn                         |
 
 ---
 
