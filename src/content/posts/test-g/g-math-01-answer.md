@@ -13,11 +13,11 @@ description: "G-MATH 01: MC 14/40 + Toán & Logic 6/15 = 20/55. Độ khó 9/10 
 
 ## 📊 Kết quả tổng
 
-| Phần | Điểm | Tối đa |
-|:-----|:----:|:------:|
-| 🧪 Trắc nghiệm | 14 | 40 |
-| 📝 Toán & Logic | 6 | 15 |
-| **TỔNG** | **20** | **55** |
+| Phần            |  Điểm  | Tối đa |
+| :-------------- | :----: | :----: |
+| 🧪 Trắc nghiệm  |   14   |   40   |
+| 📝 Toán & Logic |   6    |   15   |
+| **TỔNG**        | **20** | **55** |
 
 ---
 
@@ -47,15 +47,18 @@ description: "G-MATH 01: MC 14/40 + Toán & Logic 6/15 = 20/55. Độ khó 9/10 
 ## 📝 Toán & Tư duy Logic: 6/15
 
 ### Q22 — Phân tích số liệu ✅ (3/3)
+
 - Tổng: 30+45+35+50+40 = **200 phút**
 - Trung bình: 200/5 = **40 phút**
 - Mục tiêu ngày 6: 40 + ½×(50−30) = **50 phút**
 
 ### Q23 — Hình học diện tích ✅ (3/3)
+
 - Lối đi: 468−384 = **84 m²**
 - Đất trồng cây: 384−48 = **336 m²**
 
 ### Q24 — Logic ⚠️ (0/6)
+
 - Đáp án đúng: **13 VĐV** (Bố: 17)
 - Bình thứ 4 từ dưới → hạng = N−3
 - Dũng hạng 9 → N=13 không trùng

@@ -36,13 +36,12 @@ description: "MC 13: 13/20 (65%) — Math strong (6/7), Science & Social Studies
 | 🔢 Math (Q11–17)          | 6/7  | **86%** ✅ | Khá tốt, nhưng sai ở hình học không gian                      |
 | 🇻🇳 Literature (Q18–20)    | 2/3  | **67%** ✅ | Cơ bản tốt, còn yếu văn hoá dân gian                          |
 
-
 ### 🧮 Tổng điểm
 
-| Phần | Điểm đạt | Tối đa | % |
+| Phần                | Điểm đạt | Tối đa | %         |
 | ------------------- | -------- | ------ | --------- |
-| 🎯 Trắc nghiệm (MC) | 26 | 40 | 65.0% |
-| **TỔNG** | **26** | **40** | **65.0%** |
+| 🎯 Trắc nghiệm (MC) | 26       | 40     | 65.0%     |
+| **TỔNG**            | **26**   | **40** | **65.0%** |
 
 ### 📈 Phân tích
 
