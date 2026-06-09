@@ -210,7 +210,7 @@ Picture a sign at a national park entrance showing a mobile phone with a red cir
 
 ### Question 12
 
-Since the beginning of 2026, the city government ****\_\_\_**** several new electric bus routes to reduce air pollution.
+Since the beginning of 2026, the city government \***\*\_\_\_\*\*** several new electric bus routes to reduce air pollution.
 
 **A**. has introduced  
 **B**. introduced  
@@ -381,15 +381,15 @@ Read the passage below. Choose the correct word from the options in parentheses 
 
 **Artificial Intelligence in the Classroom**
 
-Artificial Intelligence (AI) is quickly becoming an important tool in education around the world. In some countries, AI tutors can now (1) ****\_\_**** (identify / replace / score) each student's strengths and weaknesses. These smart programs adjust the lessons to fit individual needs. However, experts warn that teachers must guide how AI is used. Without proper (2) ****\_\_**** (supervision / tradition / equipment), students might rely too heavily on technology. Many schools have started teaching AI literacy — the (3) ****\_\_**** (knowledge / arrangement / decision) of how AI works and how to use it responsibly. According to the OECD, schools should develop clear (4) ****\_\_**** (educational / educationally / education) strategies to integrate AI into the classroom effectively by 2030.
+Artificial Intelligence (AI) is quickly becoming an important tool in education around the world. In some countries, AI tutors can now (1) \***\*\_\_\*\*** (identify / replace / score) each student's strengths and weaknesses. These smart programs adjust the lessons to fit individual needs. However, experts warn that teachers must guide how AI is used. Without proper (2) \***\*\_\_\*\*** (supervision / tradition / equipment), students might rely too heavily on technology. Many schools have started teaching AI literacy — the (3) \***\*\_\_\*\*** (knowledge / arrangement / decision) of how AI works and how to use it responsibly. According to the OECD, schools should develop clear (4) \***\*\_\_\*\*** (educational / educationally / education) strategies to integrate AI into the classroom effectively by 2030.
 
-(1) ******\_\_\_******
+(1) **\*\***\_\_\_**\*\***
 
-(2) ******\_\_\_******
+(2) **\*\***\_\_\_**\*\***
 
-(3) ******\_\_\_******
+(3) **\*\***\_\_\_**\*\***
 
-(4) ******\_\_\_******
+(4) **\*\***\_\_\_**\*\***
 
 <details name="cloze-answers">
     <summary><i>Show answer key</i></summary>
@@ -413,11 +413,11 @@ In 2026, the Vera C. Rubin Observatory in Chile made an astonishing announcement
 
 **Question 1.** True or False: The Rubin Observatory discovered 33 asteroids in total. (Write True or False in the blank)
 
-Answer: ******\_\_\_******
+Answer: **\*\***\_\_\_**\*\***
 
 **Question 2.** True or False: Near-Earth objects are asteroids that might come too close to Earth and could be dangerous. (Write True or False in the blank)
 
-Answer: ******\_\_\_******
+Answer: **\*\***\_\_\_**\*\***
 
 **Question 3.** Choose the correct answer A, B, C or D.
 
@@ -428,11 +428,11 @@ What makes it possible for the Rubin Observatory to detect moving objects in spa
 **C**. It sends rockets into space to collect asteroid samples  
 **D**. It relies on astronauts to report what they see from the International Space Station
 
-Answer: ******\_\_\_******
+Answer: **\*\***\_\_\_**\*\***
 
 **Question 4.** Write down **ONE word** from the passage that means: "the act of guarding or protecting against attack"
 
-Answer: ******\_\_\_******
+Answer: **\*\***\_\_\_**\*\***
 
 <details name="reading-answers">
     <summary><i>Show answer key</i></summary>
@@ -454,19 +454,19 @@ Answer: ******\_\_\_******
 
 **Question 1.** / The Rubin Observatory / over / the next decade / millions of / is expected / space objects / to discover /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 **Question 2.** / metaverse technology / have started / Several Vietnamese schools / virtual classrooms / to create / using /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 **Question 3.** / without proper training / can be / relying on / in education / AI tools / for students / harmful /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 **Question 4.** / New metro / in HCMC / will encourage / more people / to use / lines / public transportation /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 <details name="rearrange-answers">
     <summary><i>Show answer key</i></summary>
@@ -486,17 +486,17 @@ Answer: ******\_\_\_******
 
 **Question 5.** / Pù Luông Nature Reserve / camera traps / capture / rare images / endangered muntjac / early 2026 /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 (≤ 15 từ)
 
 **Question 6.** / It / essential / students / develop / critical thinking / instead of / memorise / facts /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 (≤ 15 từ)
 
 **Question 7.** / If / government / invest / more / renewable energy / reduce / carbon emissions / significantly /
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 (≤ 15 từ)
 
 <details name="write-answers">
@@ -634,23 +634,23 @@ _(Nguyễn Kiều Trang, từ tập "Vườn tuổi thơ", NXB Kim Đồng, 2020
 
 **Câu a.** Chim sẻ đã gặp vật gì và có thái độ như thế nào khi gặp vật đó? (1,0 điểm)
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 **Câu b.** Qua lời của chiếc lá "Tôi sắp phải đi xa / Nhưng mùa xuân tới nhà / Chồi non tôi sẽ nảy", tác giả muốn nói gì về quy luật của tự nhiên? (2,0 điểm)
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 **Câu c.** Trong bài thơ, em ấn tượng nhất với hình ảnh hoặc chi tiết nào? Vì sao? (2,0 điểm)
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
-→ ********************************\_\_\_********************************
+→ **************\*\*\*\***************\_\_\_**************\*\*\*\***************
 
 <details name="doc-hieu-answers">
     <summary><i>Show answer key</i></summary>
