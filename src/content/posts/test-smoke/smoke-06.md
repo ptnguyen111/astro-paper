@@ -3,7 +3,7 @@ title: "Test Smoke 06 - Full test 90 minutes"
 author: Bob
 pubDatetime: 2026-06-01T06:12:00.000+07:00
 slug: smoke-06
-featured: true
+featured: false
 draft: false
 tags:
   - test-smoke

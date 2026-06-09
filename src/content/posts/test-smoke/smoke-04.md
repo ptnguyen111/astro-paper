@@ -3,7 +3,7 @@ title: "Test Smoke 04 - Fulltest 90 minutes"
 author: "Bob"
 pubDatetime: 2026-05-26T04:00:00.000Z
 slug: smoke-04
-featured: true
+featured: false
 draft: false
 tags:
   - test-smoke
