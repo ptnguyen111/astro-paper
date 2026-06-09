@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-09T17:04:28.145Z
+pubDatetime: 2026-06-09T17:44:41.863Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 30 tests completed — 4 perfect 🏆 · Stats auto-generated
+> 30 tests completed — 3 perfect 🏆 · Stats auto-generated
 
 ---
 
@@ -186,17 +186,17 @@ description: "Summary of all test results"
 
 ## 🎯 Test Multiple Choice
 
-|                                                    Test                                                    |  Score   |    Date    |                                                       Answer                                                       |
-| :--------------------------------------------------------------------------------------------------------: | :------: | :--------: | :----------------------------------------------------------------------------------------------------------------: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-02/" rel="noopener noreferrer">mc-02</a> | 20/20 🏆 | 19/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-02-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-03/" rel="noopener noreferrer">mc-03</a> | 10/20 ⚠️ | 21/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-03-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-04/" rel="noopener noreferrer">mc-04</a> | 16/20 🎉 | 23/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-04-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-05/" rel="noopener noreferrer">mc-05</a> | 10/20 ⚠️ | 2026-05-27 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-05-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-06/" rel="noopener noreferrer">mc-06</a> | 13/20 💪 | 30/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-06-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-10/" rel="noopener noreferrer">mc-10</a> | 13/20 💪 | 01/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-10-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-11/" rel="noopener noreferrer">mc-11</a> | 11/20 ⚠️ | 31/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-11-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-12/" rel="noopener noreferrer">mc-12</a> | 10/20 ⚠️ | 31/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-12-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-13/" rel="noopener noreferrer">mc-13</a> | 13/20 💪 | 02/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-13-answer/" rel="noopener noreferrer">Answer</a> |
+|                                                     Test                                                     |  Score   |    Date    |                                                       Answer                                                       |
+| :----------------------------------------------------------------------------------------------------------: | :------: | :--------: | :----------------------------------------------------------------------------------------------------------------: |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-02/" rel="noopener noreferrer">mc-02</a>  | 20/20 🏆 | 19/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-02-answer/" rel="noopener noreferrer">Answer</a> |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-03/" rel="noopener noreferrer">mc-03</a>  | 10/20 ⚠️ | 21/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-03-answer/" rel="noopener noreferrer">Answer</a> |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-04/" rel="noopener noreferrer">mc-04</a>  | 16/20 🏆 | 23/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-04-answer/" rel="noopener noreferrer">Answer</a> |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-05/" rel="noopener noreferrer">mc-05</a>  | 10/20 ⚠️ | 2026-05-27 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-05-answer/" rel="noopener noreferrer">Answer</a> |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-06/" rel="noopener noreferrer">mc-06</a>  | 13/20 💪 | 30/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-06-answer/" rel="noopener noreferrer">Answer</a> |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-10/" rel="noopener noreferrer">mc-10</a>  | 13/20 💪 | 01/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-10-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/undefined/mc-11/" rel="noopener noreferrer">mc-11</a> | 11/20 ⚠️ | 31/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/undefined/undefined/" rel="noopener noreferrer">Answer</a>  |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-12/" rel="noopener noreferrer">mc-12</a>  | 10/20 ⚠️ | 31/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-12-answer/" rel="noopener noreferrer">Answer</a> |
+|  <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-13/" rel="noopener noreferrer">mc-13</a>  | 13/20 💪 | 02/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-13-answer/" rel="noopener noreferrer">Answer</a> |
 
 ### mc-02 🏆
 
@@ -217,7 +217,7 @@ description: "Summary of all test results"
 - ❌ Wrong: 10 / 20.
 - Wrong questions: 1, 2, 3, 5, 8, 12, 13, 14, 16
 
-### mc-04 🎉
+### mc-04 🏆
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-04/" rel="noopener noreferrer">mc-04</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-04-answer/" rel="noopener noreferrer">Answer mc-04</a>
@@ -259,8 +259,8 @@ description: "Summary of all test results"
 
 ### mc-11 ⚠️
 
-- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-11/" rel="noopener noreferrer">mc-11</a>
-- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-mc/mc-11-answer/" rel="noopener noreferrer">Answer mc-11</a>
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/undefined/mc-11/" rel="noopener noreferrer">mc-11</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/undefined/undefined/" rel="noopener noreferrer">Answer mc-11</a>
 - Date: 31/05/2026
 - Total score: 11/20
 - ✅ Correct: 11 / 20
@@ -291,22 +291,23 @@ description: "Summary of all test results"
 
 ## 🌍 Test English
 
-|                                                           Test                                                            |       Score        |    Date    | Answer |
-| :-----------------------------------------------------------------------------------------------------------------------: | :----------------: | :--------: | :----: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-01/" rel="noopener noreferrer">english-01</a> |       4/4 🏆       | 17/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-02/" rel="noopener noreferrer">english-02</a> |       4/4 🏆       | 17/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-03/" rel="noopener noreferrer">english-03</a> |       2/6 ⚠️       | 18/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-04/" rel="noopener noreferrer">english-04</a> |      26/34 💪      | 19/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-05/" rel="noopener noreferrer">english-05</a> |      22/34 💪      | 19/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-06/" rel="noopener noreferrer">english-06</a> |      29/34 🎉      | 19/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-08/" rel="noopener noreferrer">english-08</a> |      16/17 🏆      | 21/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-09/" rel="noopener noreferrer">english-09</a> |      11/17 💪      | 21/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-19/" rel="noopener noreferrer">english-19</a> | 3/17 (tạm dừng) ⚠️ | 25/05/2026 |        |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-20/" rel="noopener noreferrer">english-20</a> |      10/30 ⚠️      | 25/05/2026 |        |
+|                                                           Test                                                            |       Score        |    Date    |                                                     Answer                                                      |
+| :-----------------------------------------------------------------------------------------------------------------------: | :----------------: | :--------: | :-------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-01/" rel="noopener noreferrer">english-01</a> |       4/4 🏆       | 17/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-02/" rel="noopener noreferrer">english-02</a> |       4/4 🏆       | 17/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-03/" rel="noopener noreferrer">english-03</a> |       2/6 😤       | 18/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-04/" rel="noopener noreferrer">english-04</a> |      26/34 💪      | 19/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-05/" rel="noopener noreferrer">english-05</a> |      22/34 💪      | 19/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-06/" rel="noopener noreferrer">english-06</a> |      29/34 🏆      | 19/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-08/" rel="noopener noreferrer">english-08</a> |      16/17 🏆      | 21/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-09/" rel="noopener noreferrer">english-09</a> |      11/17 💪      | 21/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-19/" rel="noopener noreferrer">english-19</a> | 3/17 (tạm dừng) 😤 | 25/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-20/" rel="noopener noreferrer">english-20</a> |      10/30 😤      | 25/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer</a> |
 
 ### english-01 🏆
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-01/" rel="noopener noreferrer">english-01</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-01</a>
 - Date: 17/05/2026
 - Total score: 4/4
 - ✅ Correct: 4 / 4
@@ -315,14 +316,16 @@ description: "Summary of all test results"
 ### english-02 🏆
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-02/" rel="noopener noreferrer">english-02</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-02</a>
 - Date: 17/05/2026
 - Total score: 4/4
 - ✅ Correct: 4 / 4
 - ❌ Wrong: 0 / 4.
 
-### english-03 ⚠️
+### english-03 😤
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-03/" rel="noopener noreferrer">english-03</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-03</a>
 - Date: 18/05/2026
 - Total score: 2/6
 - ✅ Correct: 2 / 6
@@ -332,6 +335,7 @@ description: "Summary of all test results"
 ### english-04 💪
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-04/" rel="noopener noreferrer">english-04</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-04</a>
 - Date: 19/05/2026
 - Total score: 26/34
 - ✅ Correct: 26 / 34
@@ -341,15 +345,17 @@ description: "Summary of all test results"
 ### english-05 💪
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-05/" rel="noopener noreferrer">english-05</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-05</a>
 - Date: 19/05/2026
 - Total score: 22/34
 - ✅ Correct: 22 / 34
 - ❌ Wrong: 12 / 34.
 - Wrong questions: 1, 4, 7, 8, 14, 15, 16, 17
 
-### english-06 🎉
+### english-06 🏆
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-06/" rel="noopener noreferrer">english-06</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-06</a>
 - Date: 19/05/2026
 - Total score: 29/34
 - ✅ Correct: 29 / 34
@@ -359,6 +365,7 @@ description: "Summary of all test results"
 ### english-08 🏆
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-08/" rel="noopener noreferrer">english-08</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-08</a>
 - Date: 21/05/2026
 - Total score: 16/17
 - ✅ Correct: 16 / 17
@@ -368,24 +375,27 @@ description: "Summary of all test results"
 ### english-09 💪
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-09/" rel="noopener noreferrer">english-09</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-09</a>
 - Date: 21/05/2026
 - Total score: 11/17
 - ✅ Correct: 11 / 17
 - ❌ Wrong: 6 / 17.
 - Wrong questions: 9, 13, 14, 16, 17
 
-### english-19 ⚠️
+### english-19 😤
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-19/" rel="noopener noreferrer">english-19</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-19</a>
 - Date: 25/05/2026
 - Total score: 3/17 (tạm dừng)
 - ✅ Correct: 3 / 17
 - ❌ Wrong: 14 / 17.
 - Wrong questions: 1, 2, 4, 7, 8, 9, 10, 11, 12, 13
 
-### english-20 ⚠️
+### english-20 😤
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-english/english-20/" rel="noopener noreferrer">english-20</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-english/null/" rel="noopener noreferrer">Answer english-20</a>
 - Date: 25/05/2026
 - Total score: 10/30
 - ✅ Correct: 10 / 30
@@ -398,9 +408,9 @@ description: "Summary of all test results"
 
 |                                                          Test                                                          |   Score    |    Date    |                                                           Answer                                                           |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a> | 20 / 55 ⚠️ | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a> | 20 / 55 😤 | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer</a> |
 
-### g-math-01 ⚠️
+### g-math-01 😤
 
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer g-math-01</a>
@@ -409,8 +419,8 @@ description: "Summary of all test results"
 
 | Phần            | Điểm đạt | Tối đa | %       |
 | --------------- | -------- | ------ | ------- |
-| 🎯 Trắc nghiệm  | 14 / 40  | 40     | 35%     |
-| 📝 Toán & Logic | 6 / 15   | 15     | 40%     |
+| 🎯 Trắc nghiệm  | 14 / 40  | 40     | 35.0%   |
+| 📝 Toán & Logic | 6 / 15   | 15     | 40.0%   |
 | **TỔNG**        | **20**   | **55** | **36%** |
 
 - ✅ Correct: 10 / 24
@@ -430,7 +440,18 @@ description: "Summary of all test results"
 - Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a>
 - Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer real-2024</a>
 - Date: 09/06/2026
-- Total score: 75 / 100
+- 🧮 Tổng điểm:
+
+| Phần                | Điểm đạt | Tối đa  | %       |
+| ------------------- | -------- | ------- | ------- |
+| 🎯 Trắc nghiệm (MC) | 22 / 40  | 40      | 55.0%   |
+| 🎧 Listening        | 0 / 8    | 8       | 0.0%    |
+| 📖 Reading          | 14 / 16  | 16      | 87.5%   |
+| ✍️ Writing          | 14 / 14  | 6       | 233.3%  |
+| 🧮 Toán tự luận     | 12 / 15  | 15      | 80.0%   |
+| 📝 Văn              | 13 / 15  | 15      | 86.7%   |
+| **TỔNG**            | **75**   | **100** | **75%** |
+
 - ✅ Correct: 27.75 / 42
 - ❌ Wrong: 14.25 / 42.
 - Wrong questions: Q1, Q2, Q12, Q13, Q16, Q19, R-Q2, Toán 3, Văn -0.25 (sáng tạo)
