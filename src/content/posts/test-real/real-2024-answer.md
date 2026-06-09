@@ -6,7 +6,7 @@ slug: real-2024-answer
 featured: false
 draft: false
 tags:
-  - test-real-2024
+  - real-2024
   - test-result
 description: "Real Exam 2024: MC 22/40 (55%) + Reading 14/16 + Writing 14/14 + Toán 12/15 + Văn 13/15 = 75/100"
 ---
