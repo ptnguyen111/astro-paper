@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-09T16:05:27.325Z
+pubDatetime: 2026-06-09T16:10:12.020Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 29 tests completed — 4 perfect 🏆 · Stats auto-generated
+> 30 tests completed — 4 perfect 🏆 · Stats auto-generated
 
 ---
 
@@ -387,5 +387,23 @@ description: "Summary of all test results"
 - ✅ Correct: 10 / 24
 - ❌ Wrong: 14 / 24.
 - Wrong questions: Q2, Q4, Q5, Q8, Q9, Q12, Q13, Q14, Q16, Q17, Q19, Q21, Q24, Q10/11(vô nghiệm)
+
+---
+
+## 🏫 Real Exam
+
+| Test | Score | Date | Answer |
+|:---:|:-----:|:----:|:------:|
+| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a> | 75 / 100 💪 | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer</a> |
+
+
+### real-2024 💪
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer real-2024</a>
+- Date: 09/06/2026
+- Total score: 75 / 100
+- ✅ Correct: 27.75 / 42
+- ❌ Wrong: 14.25 / 42.
+- Wrong questions: Q1, Q2, Q12, Q13, Q16, Q19, R-Q2, Toán 3, Văn -0.25 (sáng tạo)
 
 ---
