@@ -468,6 +468,7 @@ Answer: **\*\***\_\_\_**\*\***
 
 → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
 
+
 <details name="rearrange-answers">
     <summary><i>Show answer key</i></summary>
     <i class="answer-key">Q1: The Rubin Observatory is expected to discover millions of space objects over the next decade.<br>
@@ -487,16 +488,19 @@ Answer: **\*\***\_\_\_**\*\***
 **Question 5.** / Pù Luông Nature Reserve / camera traps / capture / rare images / endangered muntjac / early 2026 /
 
 → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
+
 (≤ 15 từ)
 
 **Question 6.** / It / essential / students / develop / critical thinking / instead of / memorise / facts /
 
 → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
+
 (≤ 15 từ)
 
 **Question 7.** / If / government / invest / more / renewable energy / reduce / carbon emissions / significantly /
 
 → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
+
 (≤ 15 từ)
 
 <details name="write-answers">
@@ -651,6 +655,7 @@ _(Nguyễn Kiều Trang, từ tập "Vườn tuổi thơ", NXB Kim Đồng, 2020
 → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
 
 → ******\*\*******\*\*\*\*******\*\*******\_\_\_******\*\*******\*\*\*\*******\*\*******
+
 
 <details name="doc-hieu-answers">
     <summary><i>Show answer key</i></summary>
