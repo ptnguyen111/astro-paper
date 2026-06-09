@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-09T18:15:22.079Z
+pubDatetime: 2026-06-09T18:42:53.926Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -15,6 +15,35 @@ description: "Summary of all test results"
 ---
 
 ## Table of contents
+
+## 🏫 Real Exam
+
+|                                                         Test                                                         |    Score    |    Date    |                                                          Answer                                                          |
+| :------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a> | 75 / 100 💪 | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer</a> |
+
+### real-2024 💪
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer real-2024</a>
+- Date: 09/06/2026
+- 🧮 Tổng điểm:
+
+| Phần                | Điểm đạt | Tối đa  | %       |
+| ------------------- | -------- | ------- | ------- |
+| 🎯 Trắc nghiệm (MC) | 22 / 40  | 40      | 55.0%   |
+| 🎧 Listening        | 0 / 8    | 8       | 0.0%    |
+| 📖 Reading          | 14 / 16  | 16      | 87.5%   |
+| ✍️ Writing          | 14 / 14  | 6       | 233.3%  |
+| 🧮 Toán tự luận     | 12 / 15  | 15      | 80.0%   |
+| 📝 Văn              | 13 / 15  | 15      | 86.7%   |
+| **TỔNG**            | **75**   | **100** | **75%** |
+
+- ✅ Correct: 27.75 / 42
+- ❌ Wrong: 14.25 / 42.
+- Wrong questions: Q1, Q2, Q12, Q13, Q16, Q19, R-Q2, Toán 3, Văn -0.25 (sáng tạo)
+
+---
 
 ## 🔥 Test Smoke Summary
 
@@ -492,34 +521,5 @@ description: "Summary of all test results"
 - ✅ Correct: 10 / 24
 - ❌ Wrong: 14 / 24.
 - Wrong questions: Q2, Q4, Q5, Q8, Q9, Q12, Q13, Q14, Q16, Q17, Q19, Q21, Q24, Q10/11(vô nghiệm)
-
----
-
-## 🏫 Real Exam
-
-|                                                         Test                                                         |    Score    |    Date    |                                                          Answer                                                          |
-| :------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a> | 75 / 100 💪 | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer</a> |
-
-### real-2024 💪
-
-- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a>
-- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer real-2024</a>
-- Date: 09/06/2026
-- 🧮 Tổng điểm:
-
-| Phần                | Điểm đạt | Tối đa  | %       |
-| ------------------- | -------- | ------- | ------- |
-| 🎯 Trắc nghiệm (MC) | 22 / 40  | 40      | 55.0%   |
-| 🎧 Listening        | 0 / 8    | 8       | 0.0%    |
-| 📖 Reading          | 14 / 16  | 16      | 87.5%   |
-| ✍️ Writing          | 14 / 14  | 6       | 233.3%  |
-| 🧮 Toán tự luận     | 12 / 15  | 15      | 80.0%   |
-| 📝 Văn              | 13 / 15  | 15      | 86.7%   |
-| **TỔNG**            | **75**   | **100** | **75%** |
-
-- ✅ Correct: 27.75 / 42
-- ❌ Wrong: 14.25 / 42.
-- Wrong questions: Q1, Q2, Q12, Q13, Q16, Q19, R-Q2, Toán 3, Văn -0.25 (sáng tạo)
 
 ---
