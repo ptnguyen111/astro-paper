@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-09T17:57:01.393Z
+pubDatetime: 2026-06-09T18:15:22.079Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 32 tests completed — 3 perfect 🏆 · Stats auto-generated
+> 33 tests completed — 3 perfect 🏆 · Stats auto-generated
 
 ---
 
@@ -204,6 +204,7 @@ description: "Summary of all test results"
 |                                                       Test                                                       |     Score     |    Date    |                                                         Answer                                                         |
 | :--------------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :--------------------------------------------------------------------------------------------------------------------: |
 | <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01/" rel="noopener noreferrer">mock-01</a> | 52.5 / 100 ⚠️ | 24/05/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-01-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-02/" rel="noopener noreferrer">mock-02</a> | 70.5 / 100 💪 | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-02-answer/" rel="noopener noreferrer">Answer</a> |
 
 ### mock-01 ⚠️
 
@@ -225,6 +226,27 @@ description: "Summary of all test results"
 - ✅ Correct: 23 / 41
 - ❌ Wrong: 18 / 41.
 - Wrong questions: 2, 5, 13, 17, 19
+
+### mock-02 💪
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-02/" rel="noopener noreferrer">mock-02</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-mock/mock-02-answer/" rel="noopener noreferrer">Answer mock-02</a>
+- Date: 06/06/2026
+- 🧮 Tổng điểm:
+
+| Phần                | Điểm đạt | Tối đa  | %         |
+| ------------------- | -------- | ------- | --------- |
+| 🎯 Trắc nghiệm (MC) | 30 / 40  | 40      | 75.0%     |
+| 🎧 Listening        | —        | 8       | không làm |
+| 📖 Reading          | 14 / 16  | 16      | 87.5%     |
+| ✍️ Writing          | 14 / 14  | 6       | 233.3%    |
+| 🧮 Toán tự luận     | 8 / 15   | 15      | 53.3%     |
+| 📝 Văn              | 4.5 / 15 | 15      | 30.0%     |
+| **TỔNG**            | **70.5** | **100** | **71%**   |
+
+- ✅ Correct: 42 / 47
+- ❌ Wrong: 8 / 47.
+- Wrong questions: 3, 5, 7, 8, 9, Math-3a, Math-3b, Math-4a
 
 ---
 
