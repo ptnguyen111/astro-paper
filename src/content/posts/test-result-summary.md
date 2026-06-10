@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-10T17:08:21.592Z
+pubDatetime: 2026-06-10T17:15:00.118Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -18,10 +18,10 @@ description: "Summary of all test results"
 
 ## 🏫 Real Exam
 
-|                                                         Test                                                         |    Score    |    Date    |                                                          Answer                                                          |
-| :------------------------------------------------------------------------------------------------------------------: | :---------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a> | 75 / 100 💪 | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer</a> |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2025/" rel="noopener noreferrer">real-2025</a> | 60 / 100 💪 | 10/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2025-answer/" rel="noopener noreferrer">Answer</a> |
+|                                                         Test                                                         |     Score     |    Date    |                                                          Answer                                                          |
+| :------------------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a> |  75 / 100 💪  | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2025/" rel="noopener noreferrer">real-2025</a> | 75.5 / 100 💪 | 10/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2025-answer/" rel="noopener noreferrer">Answer</a> |
 
 ### real-2024 💪
 
@@ -51,19 +51,19 @@ description: "Summary of all test results"
 - Date: 10/06/2026
 - 🧮 Tổng điểm:
 
-| Phần                | Điểm đạt | Tối đa  | %       |
-| ------------------- | -------- | ------- | ------- |
-| 🎯 Trắc nghiệm (MC) | 34 / 40  | 40      | 85.0%   |
-| 🎧 Listening        | 0 / 8    | 8       | 0.0%    |
-| 📖 Reading          | 12 / 16  | 16      | 75.0%   |
-| ✍️ Writing          | 8 / 14   | 14      | 57.1%   |
-| 🧮 Toán tự luận     | 6 / 15   | 15      | 40.0%   |
-| 📝 Văn              | 0 / 15   | 15      | 0.0%    |
-| **TỔNG**            | **60**   | **100** | **60%** |
+| Phần                | Điểm đạt  | Tối đa  | %       |
+| ------------------- | --------- | ------- | ------- |
+| 🎯 Trắc nghiệm (MC) | 34 / 40   | 40      | 85.0%   |
+| 🎧 Listening        | 0 / 8     | 8       | 0.0%    |
+| 📖 Reading          | 14 / 16   | 16      | 87.5%   |
+| ✍️ Writing          | 8 / 14    | 14      | 57.1%   |
+| 🧮 Toán tự luận     | 6 / 15    | 15      | 40.0%   |
+| 📝 Văn              | 13.5 / 15 | 15      | 90.0%   |
+| **TỔNG**            | **75.5**  | **100** | **76%** |
 
-- ✅ Correct: 29 / 42
-- ❌ Wrong: 13 / 42.
-- Wrong questions: Q12, Q14, Q16, R-Q5, R-Q7, W-Q12, W-Q13, W-Q15, Toán 1, Toán 2, Toán 3, Văn (chưa làm)
+- ✅ Correct: 30.5 / 41
+- ❌ Wrong: 10.5 / 41.
+- Wrong questions: Q12, Q14, Q16, R-Q5, W-Q12, W-Q13, W-Q15, Toán 1, Toán 2, Toán 3, Đọc hiểu b (1.5/2), Viết (9/10)
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Test Real 2025 — Total Score 60/100"
+title: "Test Real 2025 — Total Score 75.5/100"
 author: Bob
 pubDatetime: 2026-06-10T23:10:00.000+07:00
 slug: real-2025-answer
@@ -8,7 +8,7 @@ draft: false
 tags:
   - real-2025
   - test-result
-description: "Real Exam 2025: MC 34/40 (85%) + Reading 12/16 + Writing 8/14 + Toán 6/15 + Văn 0/15 = 60/100"
+description: "Real Exam 2025: MC 34/40 (85%) + Reading 14/16 + Writing 8/14 + Toán 6/15 + Văn 13.5/15 = 75.5/100"
 ---
 
 <figure>
@@ -25,24 +25,28 @@ description: "Real Exam 2025: MC 34/40 (85%) + Reading 12/16 + Writing 8/14 + To
 
 ### 🧮 Tổng điểm
 
-| Phần                | Điểm đạt | Tối đa  | %       |
-| ------------------- | -------- | ------- | ------- |
-| 🎯 Trắc nghiệm (MC) | 34       | 40      | 85%     |
-| 📖 Reading          | 12       | 16      | 75%     |
-| ✍️ Writing          | 8        | 14      | 57.1%   |
-| 🧮 Toán tự luận     | 6        | 15      | 40%     |
-| 📝 Văn              | 0        | 15      | 0%      |
-| **TỔNG**            | **60**   | **100** | **60%** |
+| Phần                | Điểm đạt | Tối đa  | %         |
+| ------------------- | -------- | ------- | --------- |
+| 🎯 Trắc nghiệm (MC) | 34       | 40      | 85%       |
+| 📖 Reading          | 14       | 16      | 87.5%     |
+| ✍️ Writing          | 8        | 14      | 57.1%     |
+| 🧮 Toán tự luận     | 6        | 15      | 40%       |
+| 📝 Văn              | 13.5     | 15      | 90%       |
+| **TỔNG**            | **75.5** | **100** | **75.5%** |
 
 ### 📈 Phân tích
 
 > **Điểm 1️⃣: 🎯 Trắc nghiệm tốt (85%)** — Đúng 17/20 câu, trong đó chỉ sai 3 câu (Q12 English, Q14 bỏ trống, Q16 Math). Phần Khoa học, Sử/Địa, và Văn làm rất tốt — không sai câu nào. Đây là nền tảng vững chắc để đạt điểm cao.
 
-> **Điểm 2️⃣: 📖 Cloze xuất sắc — Reading cần cải thiện** — Cloze đạt 4/4 (100%), cho thấy vốn từ vựng và ngữ pháp nền tảng rất tốt. Tuy nhiên Reading Comprehension chỉ đúng 2/4, đặc biệt câu về băng hà (glaciers) trả lời chưa chính xác.
+> **Điểm 2️⃣: 📖 Reading khá tốt (87.5%)** — Cloze hoàn hảo (4/4 = 100%), Reading Comprehension đúng 3/4 (chỉ sai Q5 — True/False về đoạn văn băng hà). Riêng câu Q7 "Glaciers" được chấp nhận là đúng với đáp án "rivers of ice".
 
 > **Điểm 3️⃣: ✍️ Writing 57% — cần luyện thêm** — Đúng 4/7 câu. Các lỗi chủ yếu là thiếu từ (is, to, in) và cấu trúc câu chưa chuẩn. Lỗi Q12 thiếu "transportation", Q13 thiếu "is", Q15 thiếu "in" — đều là lỗi cơ bản có thể khắc phục bằng cách rà soát lại câu trước khi nộp.
 
-> **Điểm 4️⃣: 🧮 Toán còn yếu, Văn chưa làm** — Toán chỉ làm được 2 bài (tính thể tích) được 6/15. Các bài cần hình vẽ (biểu đồ tròn, hình vẽ khu vườn, sơ đồ chỗ ngồi) đều bỏ qua. Văn chưa làm (0/15) — cần hoàn thành để có cái nhìn đầy đủ về năng lực.
+> **Điểm 4️⃣: 🧮 Toán còn yếu (40%)** — Chỉ làm được 2 bài (tính thể tích) được 6/15. Các bài cần hình vẽ (biểu đồ tròn, hình vẽ khu vườn, sơ đồ chỗ ngồi) đều bỏ qua. Cần rèn thêm kỹ năng đọc hiểu đề toán có kèm hình ảnh.
+
+> **Điểm 5️⃣: 📝 Văn xuất sắc (90%)** — Đọc hiểu đạt 4.5/5 (chỉ trừ 0.5đ ở câu b vì thiếu chi tiết "hơi ấm còn mãi"). Viết đoạn văn về tình yêu thương đạt 9/10 — nội dung tốt, cảm xúc chân thật, trình bày rõ ràng.
+
+> **📊 Tổng thể: Cải thiện đáng kể!** — Từ 60/100 (chưa làm Văn) lên 75.5/100. Điểm mạnh là Văn, Trắc nghiệm và Reading. Điểm yếu là Writing và Toán cần tập trung ôn luyện.
 
 ---
 
@@ -73,7 +77,7 @@ description: "Real Exam 2025: MC 34/40 (85%) + Reading 12/16 + Writing 8/14 + To
 
 ---
 
-## 📖 Reading (12/16)
+## 📖 Reading (14/16)
 
 ### I. Cloze passage (8/8)
 
@@ -84,13 +88,13 @@ description: "Real Exam 2025: MC 34/40 (85%) + Reading 12/16 + Writing 8/14 + To
 |  3  |  dependent  |  dependent  |   ✅    |
 |  4  | traditional | traditional |   ✅    |
 
-### II. Reading comprehension (4/8)
+### II. Reading comprehension (6/8)
 
 | Câu | Đáp án Long |  Đáp án đúng  | Kết quả |
 | :-: | :---------: | :-----------: | :-----: |
 |  5  |    True     |     False     |   ❌    |
 |  6  |    True     |     True      |   ✅    |
-|  7  |  Glaciers   | rivers of ice |   ❌    |
+|  7  |  Glaciers   | rivers of ice |   ✅    |
 |  8  | businesses  |  businesses   |   ✅    |
 
 ---
@@ -121,9 +125,28 @@ description: "Real Exam 2025: MC 34/40 (85%) + Reading 12/16 + Writing 8/14 + To
 
 ---
 
-## 🇻🇳 Văn (0/15)
+## 🇻🇳 Văn (13.5/15)
 
-_Chưa làm._
+### Đọc hiểu (4.5/5)
+
+| Câu |                                                               Nội dung                                                               | Kết quả | Điểm  |
+| :-- | :----------------------------------------------------------------------------------------------------------------------------------: | :-----: | :---: |
+| a   |                                       Chỉ ra thời gian mẹ ôm: "trước lúc ra khỏi nhà, lúc về"                                        |   ✅    |  1/1  |
+| b   | Câu văn thể hiện tình cảm của 2 mẹ con qua những cái ôm: "Dù là ngày mưa tháng nắng thì những cái ôm vẫn sẽ luôn được trao cho nhau" |   ✅    | 1.5/2 |
+| c   |                                      Vì sao ấn tượng với từ "dịu dàng" — vì em từng được mẹ ôm                                       |   ✅    |  2/2  |
+
+> **Ghi chú câu b:** Thiếu chi tiết "hơi ấm còn mãi" (the warmth lasts forever) nên trừ 0.5đ.
+
+### Viết đoạn văn (9/10)
+
+Đoạn văn về những điều nhỏ bé tạo nên tình yêu thương trong gia đình:
+
+- Cái ôm của mẹ mỗi khi con đi học về
+- Những tin nhắn hỏi thăm mỗi ngày
+- Những buổi tối cả nhà quây quần bên mâm cơm
+- Tình yêu thương không cần to tát, chỉ cần những điều giản dị thường ngày
+
+> **Nhận xét:** Nội dung hay, cảm xúc chân thật, có dẫn chứng cụ thể. Hơi vượt quá độ dài yêu cầu nhưng vẫn giữ được mạch cảm xúc tự nhiên. Trừ 1đ vì còn một số lỗi nhỏ về diễn đạt và dài hơn giới hạn.
 
 ---
 
