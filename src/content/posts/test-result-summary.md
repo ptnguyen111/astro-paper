@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-11T16:18:18.158Z
+pubDatetime: 2026-06-11T16:38:40.277Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 36 tests completed — 3 perfect 🏆 · Stats auto-generated
+> 37 tests completed — 3 perfect 🏆 · Stats auto-generated
 
 ---
 
@@ -545,9 +545,10 @@ description: "Summary of all test results"
 
 ## 🧮 Test G-MATH
 
-|                                                          Test                                                          |   Score    |    Date    |                                                           Answer                                                           |
-| :--------------------------------------------------------------------------------------------------------------------: | :--------: | :--------: | :------------------------------------------------------------------------------------------------------------------------: |
-| <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a> | 20 / 55 😤 | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer</a> |
+|                                                          Test                                                          |    Score     |    Date    |                                                           Answer                                                           |
+| :--------------------------------------------------------------------------------------------------------------------: | :----------: | :--------: | :------------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01/" rel="noopener noreferrer">g-math-01</a> |  20 / 55 😤  | 06/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-01-answer/" rel="noopener noreferrer">Answer</a> |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-02/" rel="noopener noreferrer">g-math-02</a> | 39.5 / 55 💪 | 11/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-02-answer/" rel="noopener noreferrer">Answer</a> |
 
 ### g-math-01 😤
 
@@ -565,5 +566,22 @@ description: "Summary of all test results"
 - ✅ Correct: 10 / 24
 - ❌ Wrong: 14 / 24.
 - Wrong questions: Q2, Q4, Q5, Q8, Q9, Q12, Q13, Q14, Q16, Q17, Q19, Q21, Q24, Q10/11(vô nghiệm)
+
+### g-math-02 💪
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-02/" rel="noopener noreferrer">g-math-02</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-g-math/g-math-02-answer/" rel="noopener noreferrer">Answer g-math-02</a>
+- Date: 11/06/2026
+- 🧮 Tổng điểm:
+
+| Phần            | Điểm đạt  | Tối đa | %       |
+| --------------- | --------- | ------ | ------- |
+| 🎯 Trắc nghiệm  | 28 / 40   | 40     | 70.0%   |
+| 📝 Toán & Logic | 11.5 / 15 | 15     | 76.7%   |
+| **TỔNG**        | **39.5**  | **55** | **72%** |
+
+- ✅ Correct: 16.5 / 24
+- ❌ Wrong: 7.5 / 24.
+- Wrong questions: Q2, Q8, Q9, Q12, Q15, Q19, Q22c (nhầm công thức)
 
 ---
