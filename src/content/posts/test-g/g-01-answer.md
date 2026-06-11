@@ -1,7 +1,7 @@
 ---
 title: "Test G 01 — Đáp án Tham Khảo"
 author: Bob
-pubDatetime: 2026-06-11T08:30:00.000+07:00
+pubDatetime: 2026-06-11T07:40:00.000+07:00
 slug: g-01-answer
 featured: false
 draft: false
