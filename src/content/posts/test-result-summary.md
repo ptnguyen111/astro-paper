@@ -1,7 +1,7 @@
 ---
 title: "Test Result Summary"
 author: Bob
-pubDatetime: 2026-06-10T17:59:49.274Z
+pubDatetime: 2026-06-11T16:18:18.158Z
 slug: test-result-summary
 featured: true
 draft: false
@@ -10,7 +10,7 @@ description: "Summary of all test results"
 
 # 📊 Test Result Summary
 
-> 35 tests completed — 3 perfect 🏆 · Stats auto-generated
+> 36 tests completed — 3 perfect 🏆 · Stats auto-generated
 
 ---
 
@@ -20,8 +20,30 @@ description: "Summary of all test results"
 
 |                                                         Test                                                         |     Score     |    Date    |                                                          Answer                                                          |
 | :------------------------------------------------------------------------------------------------------------------: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------: |
+| <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2023/" rel="noopener noreferrer">real-2023</a> | 75.5 / 100 💪 | 11/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2023-answer/" rel="noopener noreferrer">Answer</a> |
 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024/" rel="noopener noreferrer">real-2024</a> |  75 / 100 💪  | 09/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2024-answer/" rel="noopener noreferrer">Answer</a> |
 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2025/" rel="noopener noreferrer">real-2025</a> | 75.5 / 100 💪 | 10/06/2026 | <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2025-answer/" rel="noopener noreferrer">Answer</a> |
+
+### real-2023 💪
+
+- Link to test: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2023/" rel="noopener noreferrer">real-2023</a>
+- Link to answer: <a href="https://staging--x-files-io.netlify.app/posts/test-real/real-2023-answer/" rel="noopener noreferrer">Answer real-2023</a>
+- Date: 11/06/2026
+- 🧮 Tổng điểm:
+
+| Phần                | Điểm đạt  | Tối đa  | %       |
+| ------------------- | --------- | ------- | ------- |
+| 🎯 Trắc nghiệm (MC) | 30 / 40   | 40      | 75.0%   |
+| 🎧 Listening        | 0 / 8     | 8       | 0.0%    |
+| 📖 Reading          | 14 / 14   | 14      | 100.0%  |
+| ✍️ Writing          | 10 / 10   | 10      | 100.0%  |
+| 🧮 Toán tự luận     | 9 / 15    | 15      | 60.0%   |
+| 📝 Văn              | 12.5 / 15 | 15      | 83.3%   |
+| **TỔNG**            | **75.5**  | **100** | **76%** |
+
+- ✅ Correct: 29 / 41.5
+- ❌ Wrong: 12.5 / 41.5.
+- Wrong questions: Q1, Q6, Q12, Q13, Q15 (skip), Toán bài 1, Toán bài 3, Văn câu c (-0.5), Văn câu d (-0.5), Văn viết (-1.5)
 
 ### real-2024 💪
 
