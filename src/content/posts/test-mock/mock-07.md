@@ -43,7 +43,7 @@ In early 2026, camera traps in Pù Luông Nature Reserve (Thanh Hóa) captured r
 
 <details name="question-1">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — Camera traps allow scientists to record wildlife without disturbing natural behavior. The Pù Luông discovery (mang hoẵng vó vàng, rùa đầu to) was made possible because camera traps work automatically — unlike human observers who might scare animals away.</i>
+    <i class="answer-key">A — Bẫy ảnh cho phép các nhà khoa học ghi lại động vật hoang dã mà không làm ảnh hưởng đến tập tính tự nhiên của chúng. Phát hiện tại Pù Luông (mang hoẵng vó vàng, rùa đầu to) có được nhờ bẫy ảnh hoạt động tự động — khác với con người quan sát có thể làm động vật sợ hãi bỏ chạy.</i>
 </details>
 
 ---
@@ -59,7 +59,7 @@ NASA's Perseverance rover has been collecting rock samples on Mars since 2021. S
 
 <details name="question-2">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — Mars once had liquid water, which is essential for life as we know it. The Perseverance rover has found rock features suggesting ancient microbial life could have existed. Options A (thick atmosphere), C (closer to Sun), and D (active volcanoes) are incorrect.</i>
+    <i class="answer-key">B — Sao Hỏa từng có nước ở dạng lỏng, yếu tố thiết yếu cho sự sống như chúng ta biết. Tàu tự hành Perseverance đã tìm thấy các đặc điểm trên đá cho thấy sự sống vi sinh vật cổ đại có thể đã tồn tại. Phương án A (bầu khí quyển dày), C (gần Mặt Trời hơn), và D (núi lửa hoạt động) là không đúng.</i>
 </details>
 
 ---
@@ -75,7 +75,7 @@ In 2026, astronomers using the Vera C. Rubin Observatory announced the discovery
 
 <details name="question-3">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — Near-Earth objects (NEOs) come within dangerous distance of Earth. Tracking them is essential for planetary defence — to prevent potential collisions that could cause damage.</i>
+    <i class="answer-key">B — Các vật thể gần Trái Đất (NEO) di chuyển đến khoảng cách nguy hiểm so với Trái Đất. Theo dõi chúng là cần thiết cho việc bảo vệ hành tinh — để ngăn chặn các vụ va chạm có thể gây thiệt hại.</i>
 </details>
 
 ---
@@ -91,7 +91,7 @@ A student places two identical glasses of water outside on a sunny day. One glas
 
 <details name="question-4">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — Black surfaces absorb more light energy and convert it to heat (black body absorption). White paper reflects most sunlight, so the water stays cooler. This is a basic principle of light and heat transfer.</i>
+    <i class="answer-key">A — Bề mặt màu đen hấp thụ nhiều năng lượng ánh sáng hơn và chuyển hóa thành nhiệt (hấp thụ vật đen). Giấy trắng phản xạ hầu hết ánh sáng mặt trời, nên nước giữ mát hơn. Đây là nguyên lý cơ bản về sự truyền ánh sáng và nhiệt.</i>
 </details>
 
 ---
@@ -107,7 +107,7 @@ In a certain ecosystem, a farmer uses a pesticide that kills all the caterpillar
 
 <details name="question-5">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — In a food chain, caterpillars are food for birds. If caterpillars are eliminated, birds lose their food source and their population decreases. This is a classic ecological consequence — removing one link affects the entire chain.</i>
+    <i class="answer-key">B — Trong chuỗi thức ăn, sâu bướm là thức ăn của chim. Nếu sâu bướm bị loại bỏ, chim mất nguồn thức ăn và số lượng chim giảm. Đây là hậu quả sinh thái điển hình — loại bỏ một mắt xích ảnh hưởng đến toàn bộ chuỗi.</i>
 </details>
 
 ---
@@ -123,7 +123,7 @@ A boy notices that his bicycle chain has developed orange-brown spots after bein
 
 <details name="question-6">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — Orange-brown spots = rust (iron oxide). Rust forms when iron reacts with oxygen and water. Applying oil creates a barrier that prevents water from reaching the metal surface — this is called corrosion prevention by coating.</i>
+    <i class="answer-key">A — Các đốm màu nâu cam = gỉ sắt (ô-xít sắt). Gỉ sắt hình thành khi sắt phản ứng với ô-xy và nước. Bôi dầu tạo ra lớp màng ngăn nước tiếp xúc với bề mặt kim loại — đây gọi là **chống ăn mòn** bằng lớp phủ.</i>
 </details>
 
 ---
@@ -139,7 +139,7 @@ Every year on April 30th, Vietnam celebrates a major historical event. What happ
 
 <details name="question-7">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — April 30, 1975 marks the Liberation of Southern Vietnam and the reunification of the country. Option A (Điện Biên Phủ) happened on May 7, 1954.</i>
+    <i class="answer-key">B — Ngày 30 tháng 4 năm 1975 đánh dấu sự giải phóng miền Nam và thống nhất đất nước. Phương án A (Chiến dịch Điện Biên Phủ) diễn ra vào ngày 7 tháng 5 năm 1954.</i>
 </details>
 
 ---
@@ -155,7 +155,7 @@ In January 2026, Ho Chi Minh City officially started constructing **Metro Line 2
 
 <details name="question-8">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — Metro Line 2: 11 km, from Bến Thành to Thủ Thiêm. It has 10 stations: 9 underground and 1 elevated. Construction started in January 2026, total investment over 47,000 tỷ đồng.</i>
+    <i class="answer-key">B — Tuyến Metro số 2: dài 11 km, từ Bến Thành đến Thủ Thiêm. Có 10 ga: 9 ga ngầm và 1 ga trên cao. Khởi công tháng 1 năm 2026, tổng vốn đầu tư hơn 47.000 tỷ đồng.</i>
 </details>
 
 ---
@@ -171,7 +171,7 @@ The Sahara Desert covers most of North Africa and is the hottest desert on Earth
 
 <details name="question-9">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — The Sahara Desert is located in the tropical zone (between the Tropic of Cancer and the Tropic of Capricorn). Despite being hot, it actually spans both the tropical and subtropical zones.</i>
+    <i class="answer-key">B — Sa mạc Sahara nằm trong **đới nhiệt đới** (giữa chí tuyến Bắc và chí tuyến Nam). Dù nóng, nó thực ra trải dài trên cả hai đới nhiệt đới và cận nhiệt đới.</i>
 </details>
 
 ---
@@ -187,7 +187,7 @@ The Mekong River Delta in Southern Vietnam is famous for its vast network of riv
 
 <details name="question-10">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — Mangrove forests act as natural barriers against saltwater intrusion and storm surges. Their root systems trap sediment and block saltwater from reaching farmland. Option A (walls) is impractical, C (pumping groundwater) causes land subsidence, D (stopping rice) is unrealistic.</i>
+    <i class="answer-key">B — Rừng ngập mặn hoạt động như những rào chắn tự nhiên chống xâm nhập mặn và nước dâng do bão. Hệ thống rễ giữ trầm tích và ngăn nước mặn vào đất nông nghiệp. Phương án A (tường chắn) không khả thi, C (bơm nước ngầm) gây sụt lún đất, D (ngừng trồng lúa) không thực tế.</i>
 </details>
 
 ---
@@ -203,14 +203,14 @@ Picture a sign at a national park entrance showing a mobile phone with a red cir
 
 <details name="question-11">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — A red circle-and-slash symbol means "prohibited." Combined with "Silent Zone," the sign means visitors must not make noise with their phones — they should turn them off or silence them.</i>
+    <i class="answer-key">A — Biểu tượng vòng tròn đỏ có gạch chéo nghĩa là "cấm". Kết hợp với "Vùng im lặng", biển báo có nghĩa du khách không được gây tiếng ồn bằng điện thoại — họ nên tắt hoặc để chế độ im lặng.</i>
 </details>
 
 ---
 
 ### Question 12
 
-Since the beginning of 2026, the city government \***\*\_\_\_\*\*** several new electric bus routes to reduce air pollution.
+Since the beginning of 2026, the city government ****\_\_\_**** several new electric bus routes to reduce air pollution.
 
 **A**. has introduced  
 **B**. introduced  
@@ -219,7 +219,7 @@ Since the beginning of 2026, the city government \***\*\_\_\_\*\*** several new 
 
 <details name="question-12">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — Signal word "Since the beginning of 2026" indicates an action that started in the past and continues to the present → present perfect tense (has introduced).</i>
+    <i class="answer-key">A — Từ tín hiệu **"Since the beginning of 2026"** chỉ một hành động bắt đầu trong quá khứ và tiếp tục đến hiện tại → thì hiện tại hoàn thành (**has introduced**).</i>
 </details>
 
 ---
@@ -235,7 +235,7 @@ Choose the word that does **NOT** belong with the other three.
 
 <details name="question-13">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">D — asteroid (tiểu hành tinh), comet (sao chổi), planet (hành tinh) — all are celestial objects in space. Telescope (kính viễn vọng) is a tool used to observe them, not a space object itself.</i>
+    <i class="answer-key">D — asteroid (tiểu hành tinh), comet (sao chổi), planet (hành tinh) — tất cả đều là **thiên thể** trong không gian. **Telescope** (kính viễn vọng) là công cụ dùng để quan sát chúng, không phải vật thể trong không gian.</i>
 </details>
 
 ---
@@ -259,7 +259,7 @@ What shape should go in the top-middle cell (row 1, column 2)?
 
 <details name="question-14">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — Row 1: ●, ?, ■ → missing ▲. Column 2 currently has ● at row 2, and row 3 is empty. Since ▲ is not yet in column 2, ▲ is valid. The completed grid: Row 1 = ● ▲ ■, Row 2 = ■ ● ▲, Row 3 = ▲ ■ ●.</i>
+    <i class="answer-key">A — Hàng 1: ●, ?, ■ → thiếu ▲. Cột 2 hiện có ● ở hàng 2, hàng 3 trống. Vì ▲ chưa có ở cột 2, ▲ là hợp lệ. Bảng hoàn chỉnh: Hàng 1 = ● ▲ ■, Hàng 2 = ■ ● ▲, Hàng 3 = ▲ ■ ●.</i>
 </details>
 
 ---
@@ -275,7 +275,7 @@ Five identical cups are stacked. The height of 1 cup is 10 cm. When 5 cups are s
 
 <details name="question-15">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">C — 1 cup = 10 cm. 5 cups = 26 cm. Difference: 26 − 10 = 16 cm from 4 extra cups. Each extra cup adds 16 ÷ 4 = 4 cm. 3 cups = 10 + 2×4 = 18 cm.</i>
+    <i class="answer-key">C — 1 cốc = 10 cm. 5 cốc = 26 cm. Chênh lệch: 26 − 10 = 16 cm từ 4 cốc thêm. Mỗi cốc thêm tăng 16 ÷ 4 = 4 cm. 3 cốc = 10 + 2×4 = **18 cm**.</i>
 </details>
 
 ---
@@ -291,7 +291,7 @@ A jar contains 4 spoons of honey and 6 spoons of warm water (the mixture is 40% 
 
 <details name="question-16">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">A — Initial: 4 honey + 6 water = 10 (40%). Drink half: remove 2 honey + 3 water. Remaining: 2 honey + 3 water. Add 5 water: 2 honey + 8 water. % honey = 2/10 = 20%.</i>
+    <i class="answer-key">A — Ban đầu: 4 mật ong + 6 nước = 10 (40%). Uống nửa: bỏ 2 mật ong + 3 nước. Còn lại: 2 mật ong + 3 nước. Thêm 5 nước: 2 mật ong + 8 nước. % mật ong = 2/10 = **20%**.</i>
 </details>
 
 ---
@@ -307,7 +307,7 @@ A standard dice has faces numbered 1 to 6. The sum of numbers on opposite faces 
 
 <details name="question-17">
     <summary><i>Show answer key</i></summary>
-    <i class="answer-key">B — Opposite faces sum = 7. Top = 4 → Bottom = 7 − 4 = 3.</i>
+    <i class="answer-key">B — Hai mặt đối diện có tổng bằng 7. Mặt trên = 4 → Mặt dưới = 7 − 4 = **3**.</i>
 </details>
 
 ---
@@ -381,15 +381,15 @@ Read the passage below. Choose the correct word from the options in parentheses 
 
 **Artificial Intelligence in the Classroom**
 
-Artificial Intelligence (AI) is quickly becoming an important tool in education around the world. In some countries, AI tutors can now (1) \***\*\_\_\*\*** (identify / replace / score) each student's strengths and weaknesses. These smart programs adjust the lessons to fit individual needs. However, experts warn that teachers must guide how AI is used. Without proper (2) \***\*\_\_\*\*** (supervision / tradition / equipment), students might rely too heavily on technology. Many schools have started teaching AI literacy — the (3) \***\*\_\_\*\*** (knowledge / arrangement / decision) of how AI works and how to use it responsibly. According to the OECD, schools should develop clear (4) \***\*\_\_\*\*** (educational / educationally / education) strategies to integrate AI into the classroom effectively by 2030.
+Artificial Intelligence (AI) is quickly becoming an important tool in education around the world. In some countries, AI tutors can now (1) ****\_\_**** (identify / replace / score) each student's strengths and weaknesses. These smart programs adjust the lessons to fit individual needs. However, experts warn that teachers must guide how AI is used. Without proper (2) ****\_\_**** (supervision / tradition / equipment), students might rely too heavily on technology. Many schools have started teaching AI literacy — the (3) ****\_\_**** (knowledge / arrangement / decision) of how AI works and how to use it responsibly. According to the OECD, schools should develop clear (4) ****\_\_**** (educational / educationally / education) strategies to integrate AI into the classroom effectively by 2030.
 
-(1) **\*\***\_\_\_**\*\***
+(1) ******\_\_\_******
 
-(2) **\*\***\_\_\_**\*\***
+(2) ******\_\_\_******
 
-(3) **\*\***\_\_\_**\*\***
+(3) ******\_\_\_******
 
-(4) **\*\***\_\_\_**\*\***
+(4) ******\_\_\_******
 
 <details name="cloze-answers">
     <summary><i>Show answer key</i></summary>
@@ -413,11 +413,11 @@ In 2026, the Vera C. Rubin Observatory in Chile made an astonishing announcement
 
 **Question 1.** True or False: The Rubin Observatory discovered 33 asteroids in total. (Write True or False in the blank)
 
-Answer: **\*\***\_\_\_**\*\***
+Answer: ******\_\_\_******
 
 **Question 2.** True or False: Near-Earth objects are asteroids that might come too close to Earth and could be dangerous. (Write True or False in the blank)
 
-Answer: **\*\***\_\_\_**\*\***
+Answer: ******\_\_\_******
 
 **Question 3.** Choose the correct answer A, B, C or D.
 
@@ -428,11 +428,11 @@ What makes it possible for the Rubin Observatory to detect moving objects in spa
 **C**. It sends rockets into space to collect asteroid samples  
 **D**. It relies on astronauts to report what they see from the International Space Station
 
-Answer: **\*\***\_\_\_**\*\***
+Answer: ******\_\_\_******
 
 **Question 4.** Write down **ONE word** from the passage that means: "the act of guarding or protecting against attack"
 
-Answer: **\*\***\_\_\_**\*\***
+Answer: ******\_\_\_******
 
 <details name="reading-answers">
     <summary><i>Show answer key</i></summary>
@@ -454,19 +454,19 @@ Answer: **\*\***\_\_\_**\*\***
 
 **Question 1.** / The Rubin Observatory / over / the next decade / millions of / is expected / space objects / to discover /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 **Question 2.** / metaverse technology / have started / Several Vietnamese schools / virtual classrooms / to create / using /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 **Question 3.** / without proper training / can be / relying on / in education / AI tools / for students / harmful /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 **Question 4.** / New metro / in HCMC / will encourage / more people / to use / lines / public transportation /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 <details name="rearrange-answers">
     <summary><i>Show answer key</i></summary>
@@ -486,20 +486,17 @@ Answer: **\*\***\_\_\_**\*\***
 
 **Question 5.** / Pù Luông Nature Reserve / camera traps / capture / rare images / endangered muntjac / early 2026 /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
-
+→ ********************************\_\_\_********************************
 (≤ 15 từ)
 
 **Question 6.** / It / essential / students / develop / critical thinking / instead of / memorise / facts /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
-
+→ ********************************\_\_\_********************************
 (≤ 15 từ)
 
 **Question 7.** / If / government / invest / more / renewable energy / reduce / carbon emissions / significantly /
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
-
+→ ********************************\_\_\_********************************
 (≤ 15 từ)
 
 <details name="write-answers">
@@ -637,23 +634,23 @@ _(Nguyễn Kiều Trang, từ tập "Vườn tuổi thơ", NXB Kim Đồng, 2020
 
 **Câu a.** Chim sẻ đã gặp vật gì và có thái độ như thế nào khi gặp vật đó? (1,0 điểm)
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 **Câu b.** Qua lời của chiếc lá "Tôi sắp phải đi xa / Nhưng mùa xuân tới nhà / Chồi non tôi sẽ nảy", tác giả muốn nói gì về quy luật của tự nhiên? (2,0 điểm)
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 **Câu c.** Trong bài thơ, em ấn tượng nhất với hình ảnh hoặc chi tiết nào? Vì sao? (2,0 điểm)
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
-→ **\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***\_\_\_**\*\***\*\***\*\***\*\*\*\***\*\***\*\***\*\***
+→ ********************************\_\_\_********************************
 
 <details name="doc-hieu-answers">
     <summary><i>Show answer key</i></summary>
