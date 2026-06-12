@@ -224,7 +224,7 @@ What does this sign mean?
 
 Choose the correct answer to complete the sentence.
 
-"In recent years, scientists ****\_**** significant progress in developing clean energy sources."
+"In recent years, scientists \***\*\_\*\*** significant progress in developing clean energy sources."
 
 **A**. has made  
 **B**. have made  
@@ -582,9 +582,9 @@ b) Tính tổng các chữ số của số đó. (0,5 điểm)
 c) Số đó có chia hết cho 5 không? Vì sao? (1,0 điểm)
 
 **Đáp số:**
-a) ******\_******
-b) ******\_******
-c) ******\_******
+a) **\*\***\_**\*\***
+b) **\*\***\_**\*\***
+c) **\*\***\_**\*\***
 
 <details name="bai1-answer">
     <summary><i>Show answer key</i></summary>
@@ -610,8 +610,8 @@ Biết rằng:
 Hãy xác định mỗi bạn thích môn thể thao nào.
 
 **Đáp số:**
-a) An thích: ******\_****** (1,0 điểm)
-b) Cường thích: ******\_****** (1,0 điểm)
+a) An thích: **\*\***\_**\*\*** (1,0 điểm)
+b) Cường thích: **\*\***\_**\*\*** (1,0 điểm)
 c) Giải thích cách em tìm ra An thích môn thể thao nào: (1,0 điểm)
 
 **Bài làm:**
@@ -645,9 +645,9 @@ b) Tính xác suất để lấy được viên bi màu xanh. (Viết dưới d�
 c) Nếu em lấy 50 lần (mỗi lần lấy xong bỏ lại), dự đoán khoảng bao nhiêu lần sẽ lấy được bi màu đỏ? (1,5 điểm)
 
 **Đáp số:**
-a) ******\_******
-b) ******\_******
-c) ******\_******
+a) **\*\***\_**\*\***
+b) **\*\***\_**\*\***
+c) **\*\***\_**\*\***
 
 <details name="bai3-answer">
     <summary><i>Show answer key</i></summary>
