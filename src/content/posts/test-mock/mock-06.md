@@ -208,7 +208,7 @@ _Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2
 
 ### Question 12
 
-> Last Saturday, while Linh \***\*\_\_\*\*** her bicycle in the park, she suddenly \***\*\_\_\*\*** a strange bird with bright blue feathers.
+> Last Saturday, while Linh ****\_\_**** her bicycle in the park, she suddenly ****\_\_**** a strange bird with bright blue feathers.
 
 **A**. was riding — saw \
 **B**. is riding — was seeing \
@@ -381,7 +381,7 @@ _Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2
 
 _Read the passage. Choose the correct word from the options in parentheses and write it in the blank._
 
-> In recent years, scientists have developed an exciting way to restore coral reefs. They use 3D printers to create (1) \***\*\_\_\*\*** (artificial / art / artist) structures that look like real coral. These structures are placed on the ocean floor, where they provide a home for fish and other sea creatures. The team also plays sounds of healthy reefs through underwater speakers to (2) \***\*\_\_\*\*** (keep / attract / create) young fish to the area. Early results show that fish populations near the 3D-printed reefs are growing (3) \***\*\_\_\*\*** (rapid / rapidness / rapidly). This method is much (4) \***\*\_\_\*\*** (more faster / faster / fastest) than waiting for natural reef regrowth.
+> In recent years, scientists have developed an exciting way to restore coral reefs. They use 3D printers to create (1) ****\_\_**** (artificial / art / artist) structures that look like real coral. These structures are placed on the ocean floor, where they provide a home for fish and other sea creatures. The team also plays sounds of healthy reefs through underwater speakers to (2) ****\_\_**** (keep / attract / create) young fish to the area. Early results show that fish populations near the 3D-printed reefs are growing (3) ****\_\_**** (rapid / rapidness / rapidly). This method is much (4) ****\_\_**** (more faster / faster / fastest) than waiting for natural reef regrowth.
 
 ##### (1)
 
