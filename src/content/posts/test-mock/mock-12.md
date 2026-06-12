@@ -500,19 +500,19 @@ Answer: **\*\***\_\_\_**\*\***
 
 **1.** the / modern / is / this / building / more / than / that / one / much
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 **2.** students / were / the / told / they / that / their / homework / should / finish
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 **3.** the / woman / who / lives / next / door / is / a / famous / pianist
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 **4.** if / we / more / trees / plant / the / air / will / be / cleaner
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 <details name="rearrange-answers">
     <summary><i>Show answer key</i></summary>
@@ -530,21 +530,21 @@ Answer: **\*\***\_\_\_**\*\***
 
 #### Question 5.
 
-My grandmother / already / bake / three / cakes / this morning.
+already / cakes / bake / three / My grandmother / this morning
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 #### Question 6.
 
-solar panels / generate / electricity / without / releasing / any / pollution.
+without / generate / pollution / solar panels / any / releasing / electricity
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 #### Question 7.
 
-If / more / people / cycle / instead of / drive / the air / become / much / cleaner.
+the air / cleaner / If / much / more / become / cycle / instead of / drive / people
 
-→ ******\*\*******\*\*\*\*******\*\*******\_******\*\*******\*\*\*\*******\*\*******
+→ ********************************\_********************************
 
 <details name="write-answers">
     <summary><i>Show answer key</i></summary>
