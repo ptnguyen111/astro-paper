@@ -342,7 +342,7 @@ Find the next number in the sequence:
 
 Đọc câu văn sau và chọn từ thích hợp điền vào chỗ trống:
 
-> Dù đã xa quê hương nhiều năm, nhưng trong lòng bà vẫn luôn ****\_\_**** về những kỉ niệm tuổi thơ.
+> Dù đã xa quê hương nhiều năm, nhưng trong lòng bà vẫn luôn \***\*\_\_\*\*** về những kỉ niệm tuổi thơ.
 
 **A**. nhớ nhung  
 **B**. vương vấn  
