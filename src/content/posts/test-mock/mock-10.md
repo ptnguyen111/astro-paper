@@ -464,19 +464,19 @@ Sắp xếp các từ sau thành câu hoàn chỉnh.
 
 Viết câu hoàn chỉnh từ các từ gợi ý. Mỗi câu không quá 15 từ.
 
-**Question 1.** They / already / visit / Ha Long Bay / two times.
+**Question 1.** already / They / two times / Ha Long Bay / visit
 
 ---
 
 (≤ 15 từ)
 
-**Question 2.** The new robot / can / work / more / efficiently / than / the old one.
+**Question 2.** more / can / the old one / work / efficiently / The new robot / than
 
 ---
 
 (≤ 15 từ)
 
-**Question 3.** If / we / plant / more / trees / the air / become / cleaner.
+**Question 3.** cleaner / more / we / If / trees / become / plant / the air
 
 ---
 
