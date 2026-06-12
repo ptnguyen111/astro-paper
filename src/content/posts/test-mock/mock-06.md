@@ -208,7 +208,7 @@ _Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2
 
 ### Question 12
 
-> Last Saturday, while Linh \***\*\_\_\*\*** her bicycle in the park, she suddenly \***\*\_\_\*\*** a strange bird with bright blue feathers.
+> Last Saturday, while Linh ****\_\_**** her bicycle in the park, she suddenly ****\_\_**** a strange bird with bright blue feathers.
 
 **A**. was riding — saw \
 **B**. is riding — was seeing \
@@ -381,7 +381,7 @@ _Chọn đáp án đúng nhất (A, B, C hoặc D). Mỗi câu đúng được 2
 
 _Read the passage. Choose the correct word from the options in parentheses and write it in the blank._
 
-> In recent years, scientists have developed an exciting way to restore coral reefs. They use 3D printers to create (1) \***\*\_\_\*\*** (artificial / art / artist) structures that look like real coral. These structures are placed on the ocean floor, where they provide a home for fish and other sea creatures. The team also plays sounds of healthy reefs through underwater speakers to (2) \***\*\_\_\*\*** (keep / attract / create) young fish to the area. Early results show that fish populations near the 3D-printed reefs are growing (3) \***\*\_\_\*\*** (rapid / rapidness / rapidly). This method is much (4) \***\*\_\_\*\*** (more faster / faster / fastest) than waiting for natural reef regrowth.
+> In recent years, scientists have developed an exciting way to restore coral reefs. They use 3D printers to create (1) ****\_\_**** (artificial / art / artist) structures that look like real coral. These structures are placed on the ocean floor, where they provide a home for fish and other sea creatures. The team also plays sounds of healthy reefs through underwater speakers to (2) ****\_\_**** (keep / attract / create) young fish to the area. Early results show that fish populations near the 3D-printed reefs are growing (3) ****\_\_**** (rapid / rapidness / rapidly). This method is much (4) ****\_\_**** (more faster / faster / fastest) than waiting for natural reef regrowth.
 
 ##### (1)
 
@@ -470,7 +470,7 @@ _Rearrange the given words to make complete sentences. Do not add or remove any 
 
 ##### 1.
 
-> community / is / smart / It / for / important / to / a / Thủ Đức / become / city / for / plan
+> important / smart / it / to / for / a / Thủ Đức / city / plan / is / for / become / community
 
 <details name="rearrange-1">
     <summary><i>Show awnswer key</i></summary>
@@ -479,7 +479,7 @@ _Rearrange the given words to make complete sentences. Do not add or remove any 
 
 ##### 2.
 
-> every / intelligent / robots / can / household / efficiently / tasks / perform / Modern / year
+> can / efficiently / tasks / modern / household / year / every / intelligent / robots / perform
 
 <details name="rearrange-2">
     <summary><i>Show awnswer key</i></summary>
@@ -488,7 +488,7 @@ _Rearrange the given words to make complete sentences. Do not add or remove any 
 
 ##### 3.
 
-> are / ecosystem / forests / on / dependent / Mangrove / survival / many / species / for / their
+> for / ecosystem / forests / many / their / mangrove / dependent / species / are / on / survival
 
 <details name="rearrange-3">
     <summary><i>Show awnswer key</i></summary>
@@ -497,7 +497,7 @@ _Rearrange the given words to make complete sentences. Do not add or remove any 
 
 ##### 4.
 
-> more / education / language / improves / technology / Whether / or / integration / learning
+> learning / technology / more / Whether / language / integration / education / or / improves
 
 <details name="rearrange-4">
     <summary><i>Show awnswer key</i></summary>
@@ -512,7 +512,7 @@ _Write complete sentences using the given words. You may add words where needed,
 
 ##### 1.
 
-> Students / who / participate / extracurricular / activities / develop / critical / thinking
+> extracurricular / thinking / develop / participate / critical / who / activities / Students
 
 <details name="write-1">
     <summary><i>Show awnswer key</i></summary>
@@ -521,7 +521,7 @@ _Write complete sentences using the given words. You may add words where needed,
 
 ##### 2.
 
-> The / new / programme / design / help / students / recognise / their / talent
+> help / their / talent / new / design / recognise / The / programme / students
 
 <details name="write-2">
     <summary><i>Show awnswer key</i></summary>
@@ -530,7 +530,7 @@ _Write complete sentences using the given words. You may add words where needed,
 
 ##### 3.
 
-> It / be / essential / conserve / cultural / heritage / next / generation
+> essential / generation / It / cultural / conserve / next / heritage / be
 
 <details name="write-3">
     <summary><i>Show awnswer key</i></summary>
