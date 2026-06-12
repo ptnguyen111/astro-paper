@@ -484,19 +484,19 @@ Answer: **\*\***\_\_\_**\*\***
 / Mars / Perseverance rover / collect / rock samples / since 2021 /
 → The Perseverance rover has been collecting rock samples on Mars since 2021.
 
-**Question 5.** / Pù Luông Nature Reserve / camera traps / capture / rare images / endangered muntjac / early 2026 /
+**Question 5.** / camera traps / rare images / early 2026 / capture / endangered muntjac / Pù Luông Nature Reserve /
 
 ---
 
 (≤ 15 từ)
 
-**Question 6.** / It / essential / students / develop / critical thinking / instead of / memorise / facts /
+**Question 6.** / develop / facts / critical thinking / It / essential / memorise / students / instead of /
 
 ---
 
 (≤ 15 từ)
 
-**Question 7.** / If / government / invest / more / renewable energy / reduce / carbon emissions / significantly /
+**Question 7.** / significantly / carbon emissions / If / renewable energy / invest / government / reduce / more /
 
 ---
 
