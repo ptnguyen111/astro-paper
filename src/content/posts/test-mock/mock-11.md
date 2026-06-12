@@ -473,7 +473,7 @@ Answer: **\_\_**
 
 #### Question 1
 
-The scientists / already / discover / three / new species / this year.
+this year / The scientists / three / discover / already / new species
 
 ---
 
@@ -481,7 +481,7 @@ The scientists / already / discover / three / new species / this year.
 
 #### Question 2
 
-electric vehicles / produce / fewer / emissions / than / petrol cars.
+fewer / electric vehicles / produce / than / petrol cars / emissions
 
 ---
 
@@ -489,7 +489,7 @@ electric vehicles / produce / fewer / emissions / than / petrol cars.
 
 #### Question 3
 
-If / we / reduce / food waste / the planet / become / greener.
+become / reduce / If / the planet / we / food waste / greener
 
 ---
 
