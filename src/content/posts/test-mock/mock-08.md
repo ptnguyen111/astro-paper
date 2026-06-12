@@ -541,19 +541,19 @@ Answer: **\*\***\_\_\_**\*\***
 / Sunflower Park / one / famous landmarks / Thu Duc City /
 → Sunflower Park is one of the most famous landmarks in Thu Duc City.
 
-**Question 5.** / It / important / we / protect / environment / future generations /
+**Question 5.** / important / protect / we / It / environment / future generations /
 
 ---
 
 (≤ 15 từ)
 
-**Question 6.** / Scientists / already / discover / several / new species / Amazon rainforest / 2026 /
+**Question 6.** / 2026 / discover / Amazon rainforest / Scientists / several / already / new species /
 
 ---
 
 (≤ 15 từ)
 
-**Question 7.** / If / we / reduce / plastic waste / ocean / become / cleaner /
+**Question 7.** / ocean / If / become / reduce / plastic waste / we / cleaner /
 
 ---
 
