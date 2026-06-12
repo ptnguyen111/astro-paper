@@ -526,19 +526,19 @@ Answer: **\*\***\_\_\_**\*\***
 / Mars / Perseverance rover / collect / rock samples / since 2021 /
 → The Perseverance rover has been collecting rock samples on Mars since 2021.
 
-**Question 5.** / The deep-sea snailfish / evolve / unique adaptations / survive / extreme pressure / the ocean floor /
+**Question 5.** / evolve / survive / The deep-sea snailfish / extreme pressure / unique adaptations / the ocean floor /
 
 ---
 
 (≤ 15 từ)
 
-**Question 6.** / VinDynamics's Dyno robot / be / capable / recognise / human emotions / and respond / appropriately /
+**Question 6.** / be / recognise / human emotions / VinDynamics's Dyno robot / appropriately / capable / and respond /
 
 ---
 
 (≤ 15 từ)
 
-**Question 7.** / It / be / essential / students / develop / critical thinking / through / hands-on / science experiments /
+**Question 7.** / hands-on / develop / It / through / essential / critical thinking / science experiments / students / be /
 
 ---
 
