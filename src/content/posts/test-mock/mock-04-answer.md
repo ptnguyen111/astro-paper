@@ -6,7 +6,7 @@ slug: mock-04-answer
 featured: false
 draft: false
 tags:
-  - test-mock
+  - mock-04
   - test-result
 description: "Mock 04: MC 28 + Cloze 8 + Reading 6 + Writing 6 + Toán 7 + Văn 10 = 65/100"
 ---
